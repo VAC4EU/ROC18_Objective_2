@@ -1,0 +1,18 @@
+---
+weight: 13
+name_excel: "D3_TD_condition.xlsx"
+description: "`r get_description(rmarkdown::metadata$name_excel)`"
+slug: "D3_TD_condition"
+datetime: 1.7253067e+09
+title: D3_TD_condition
+author: ''
+date: '2024-09-02'
+categories: []
+tags: []
+archetype: codebook
+output: html_document
+---
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
+html_codebook(rmarkdown::metadata$name_excel)
+```
