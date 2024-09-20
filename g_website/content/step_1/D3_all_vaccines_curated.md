@@ -3,10 +3,10 @@ weight: 11
 name_excel: "D3_all_vaccines_curated.xlsx"
 description: "This dataset contains the records of all the curated doses of all roots of indicators in the instance listed in Table 7 of the SAP. Doses of covid vaccines are included. It is obtained by D3_clean_all_vaccines by excluding records that are duplicates or of bad quality, and after appending the curated covid vaccines"
 slug: "D3_all_vaccines_curated"
-datetime: 1.7253066e+09
+datetime: 1.7268637e+09
 title: D3_all_vaccines_curated
 author: ''
-date: '2024-09-02'
+date: '2024-09-20'
 categories: []
 tags: []
 archetype: codebook

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_index.en on CVM Documentation</title>
+    <link>/step_5/index.html</link>
+    <description>Recent content in _index.en on CVM Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="/step_5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>D5_Table_1_Attrition_ImmDis</title>
+      <link>/step_5/d5_table_1_attrition_immdis/index.html</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/step_5/d5_table_1_attrition_immdis/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>D5_Table_2_Cohort_characteristics_ImmDis</title>
+      <link>/step_5/d5_table_2_cohort_characteristics_immdis/index.html</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/step_5/d5_table_2_cohort_characteristics_immdis/index.html</guid>
+      <description>MetadataData ModelParametersAugmented shell tableExample</description>
+    </item>
+    <item>
+      <title>D5_Table_3_Covariates_ImmDis</title>
+      <link>/step_5/d5_table_3_covariates_immdis/index.html</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/step_5/d5_table_3_covariates_immdis/index.html</guid>
+      <description>MetadataData ModelParametersAugmented shell tableExample</description>
+    </item>
+    <item>
+      <title>D5_Table_4_IR_ImmDis</title>
+      <link>/step_5/d5_table_4_ir_immdis/index.html</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/step_5/d5_table_4_ir_immdis/index.html</guid>
+      <description>MetadataData ModelParametersAugmented shell tableExample</description>
+    </item>
+    <item>
+      <title>D5_Table_5_IR_ImmDis_stratum</title>
+      <link>/step_5/d5_table_5_ir_immdis_stratum/index.html</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/step_5/d5_table_5_ir_immdis_stratum/index.html</guid>
+      <description>MetadataData ModelParametersAugmented shell tableExample</description>
+    </item>
+    <item>
+      <title>D5_Histogram_ImmDis</title>
+      <link>/step_5/d5_histogram_immdis/index.html</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/step_5/d5_histogram_immdis/index.html</guid>
+      <description>MetadataData ModelParametersAugmented shell tableExample</description>
+    </item>
+    <item>
+      <title>D5_Table_6_components_flares_ImmDis</title>
+      <link>/step_5/d5_table_6_components_flares_immdis/index.html</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/step_5/d5_table_6_components_flares_immdis/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>D5_Table_7_cumulative_incidence_ImmDis</title>
+      <link>/step_5/d5_table_7_cumulative_incidence_immdis/index.html</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/step_5/d5_table_7_cumulative_incidence_immdis/index.html</guid>
+      <description>MetadataData ModelParametersAugmented shell tableExample{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;metadata_name&#34;:[&#34;Name of the dataset&#34;,&#34;Content of the dataset&#34;,&#34;Unit of observation&#34;,&#34;Dataset where the list of UoOs is fully listed and with 1 record per UoO&#34;,&#34;How many observations per UoO&#34;,&#34;NxUoO&#34;,&#34;Variables capturing the UoO&#34;,&#34;Primary key&#34;,&#34;Parameters&#34;,null,null,null,null,null,null,null,null,null,null,null],&#34;metadata_content&#34;:[&#34;D5_Table_7_cumulative_incidence_{ImmDis}&#34;,&#34;cumulative indicence of flares of {ImmDis}, at 6 and at 12 months&#34;,&#34;datasource&#34;,null,&#34;1&#34;,&#34;1&#34;,&#34;datasource&#34;,&#34;datasource&#34;,&#34;ImmDis&#34;,null,null,null,null,null,null,null,null,null,null,null]},&#34;columns&#34;:[{&#34;id&#34;:&#34;metadata_name&#34;,&#34;name&#34;:&#34;metadata_name&#34;,&#34;type&#34;:&#34;character&#34;},{&#34;id&#34;:&#34;metadata_content&#34;,&#34;name&#34;:&#34;metadata_content&#34;,&#34;type&#34;:&#34;character&#34;}],&#34;sortable&#34;:false,&#34;searchable&#34;:true,&#34;pagination&#34;:false,&#34;highlight&#34;:true,&#34;bordered&#34;:true,&#34;striped&#34;:true,&#34;style&#34;:{&#34;maxWidth&#34;:1800},&#34;height&#34;:&#34;600px&#34;,&#34;dataKey&#34;:&#34;b4ce4d8432553c94bfac4e177f83af72&#34;},&#34;children&#34;:[]},&#34;class&#34;:&#34;reactR_markup&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;Varname&#34;:[&#34;period&#34;,&#34;ageband&#34;,&#34;gender&#34;,&#34;ci_&#34;,&#34;ll_&#34;,&#34;ul_&#34;,null,null,null,null,null,null,null,null,null,null,null,null,null,null],&#34;Description&#34;:[&#34;period when the cumulative incidence is calculated&#34;,&#34;ageband&#34;,&#34;gender&#34;,&#34;cumulative incidence&#34;,&#34;lower limit of confidence interval 95%&#34;</description>
+    </item>
+    <item>
+      <title>D5_data_KM_figure_ImmDis</title>
+      <link>/step_5/d5_data_km_figure_immdis/index.html</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/step_5/d5_data_km_figure_immdis/index.html</guid>
+      <description>MetadataData ModelParametersAugmented shell tableExample{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;metadata_name&#34;:[&#34;Name of the dataset&#34;,&#34;Content of the dataset&#34;,&#34;Unit of observation&#34;,&#34;Dataset where the list of UoOs is fully listed and with 1 record per UoO&#34;,&#34;How many observations per UoO&#34;,&#34;NxUoO&#34;,&#34;Variables capturing the UoO&#34;,&#34;Primary key&#34;,&#34;Parameters&#34;,null,null,null,null,null,null,null,null,null,null,null],&#34;metadata_content&#34;:[&#34;D5_data_KM_figure_{ImmDis}&#34;,&#34;daily survival probability of {ImmDis} until 365 days&#34;,&#34;datasource&#34;,null,&#34;1&#34;,&#34;1&#34;,&#34;datasource&#34;,&#34;datasource&#34;,&#34;ImmDis&#34;,null,null,null,null,null,null,null,null,null,null,null]},&#34;columns&#34;:[{&#34;id&#34;:&#34;metadata_name&#34;,&#34;name&#34;:&#34;metadata_name&#34;,&#34;type&#34;:&#34;character&#34;},{&#34;id&#34;:&#34;metadata_content&#34;,&#34;name&#34;:&#34;metadata_content&#34;,&#34;type&#34;:&#34;character&#34;}],&#34;sortable&#34;:false,&#34;searchable&#34;:true,&#34;pagination&#34;:false,&#34;highlight&#34;:true,&#34;bordered&#34;:true,&#34;striped&#34;:true,&#34;style&#34;:{&#34;maxWidth&#34;:1800},&#34;height&#34;:&#34;600px&#34;,&#34;dataKey&#34;:&#34;2fb1eed52a0aa733d8320ea78fbe40d0&#34;},&#34;children&#34;:[]},&#34;class&#34;:&#34;reactR_markup&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;Varname&#34;:[&#34;day&#34;,&#34;surv&#34;,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],&#34;Description&#34;:[&#34;day of followup from 1 to 365&#34;,&#34;probability of survival&#34;,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],&#34;Format&#34;:[&#34;integer&#34;,&#34;double&#34;,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],&#34;Vocabulary&#34;:[&#34;1-365&#34;,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],&#34;Description / Notes&#34;:[null,&#34;3 digit&#34;,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],&#34;Parameters&#34;:[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],&#34;Source tables and variables&#34;</description>
+    </item>
+    <item>
+      <title>D5_Table_8_components_ImmDis</title>
+      <link>/step_5/d5_table_8_components_immdis/index.html</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/step_5/d5_table_8_components_immdis/index.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -3,10 +3,10 @@ weight: 8
 name_excel: "D3_vaccines_curated.xlsx"
 description: "This dataset contains only the records of  a COVID vaccine that enter the study"
 slug: "D3_vaccines_curated"
-datetime: 1.7253066e+09
+datetime: 1.7268637e+09
 title: D3_vaccines_curated
 author: ''
-date: '2024-09-02'
+date: '2024-09-20'
 categories: []
 tags: []
 archetype: codebook

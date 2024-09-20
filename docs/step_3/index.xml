@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_index.en on CVM Documentation</title>
+    <link>/step_3/index.html</link>
+    <description>Recent content in _index.en on CVM Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="/step_3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>D3_cohort_ImmDis</title>
+      <link>/step_3/d3_cohort_immdis/index.html</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/step_3/d3_cohort_immdis/index.html</guid>
+      <description>MetadataData ModelParametersExample{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;metadata_name&#34;:[&#34;Name of the dataset&#34;,&#34;Content of the dataset&#34;,&#34;Unit of observation&#34;,&#34;Dataset where the list of UoOs is fully listed and with 1 record per UoO&#34;,&#34;How many observations per UoO&#34;,&#34;NxUoO&#34;,&#34;Variables capturing the UoO&#34;,&#34;Primary key&#34;,&#34;Parameters&#34;,null,null,null,null,null,null,null,null,null,null,null],&#34;metadata_content&#34;:[&#34;D3_cohort_{ImmDis}&#34;,&#34;Persons in the source population that have at least a code of {ImmDis} during study period, with selection crieria and date of entrance and start of followup in the cohort of each group of prompts&#34;</description>
+    </item>
+    <item>
+      <title>D3_components_flare_TD_ImmDis</title>
+      <link>/step_3/d3_components_flare_td_immdis/index.html</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/step_3/d3_components_flare_td_immdis/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>D3_flares_ImmDis</title>
+      <link>/step_3/d3_flares_immdis/index.html</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/step_3/d3_flares_immdis/index.html</guid>
+      <description>MetadataData ModelParametersExample{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;metadata_name&#34;:[&#34;Name of the dataset&#34;,&#34;Content of the dataset&#34;,&#34;Unit of observation&#34;,&#34;Dataset where the list of UoOs is fully listed and with 1 record per UoO&#34;,&#34;How many observations per UoO&#34;,&#34;NxUoO&#34;,&#34;Variables capturing the UoO&#34;,&#34;Primary key&#34;,&#34;Parameters&#34;,null,null,null,null,null,null,null,null,null,null,null],&#34;metadata_content&#34;:[&#34;D3_flares_{ImmDis}&#34;,&#34;Persons that enter the follow up in the cohort of {ImmDis}, with all their flares&#34;,&#34;persons that are in the cohort of {ImmDis} with entering_follow_up_{ImmDis} == 1&#34;,&#34;D3_cohort_{ImmDis} where entering_follow_up_{ImmDis} == 1&#34;</description>
+    </item>
+    <item>
+      <title>D3_TD_condition</title>
+      <link>/step_3/d3_td_condition/index.html</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/step_3/d3_td_condition/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>D3_TD_covariates_complete</title>
+      <link>/step_3/d3_td_covariates_complete/index.html</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/step_3/d3_td_covariates_complete/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>D3_followup_periods_in_cohort_ImmDis</title>
+      <link>/step_3/d3_followup_periods_in_cohort_immdis/index.html</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/step_3/d3_followup_periods_in_cohort_immdis/index.html</guid>
+      <description>MetadataData ModelParametersExample{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;metadata_name&#34;:[&#34;Name of the dataset&#34;,&#34;Content of the dataset&#34;,&#34;Unit of observation&#34;,&#34;Dataset where the list of UoOs is fully listed and with 1 record per UoO&#34;,&#34;How many observations per UoO&#34;,&#34;NxUoO&#34;,&#34;Variables capturing the UoO&#34;,&#34;Primary key&#34;,&#34;Parameters&#34;,null,null,null,null,null,null,null,null,null,null,null],&#34;metadata_content&#34;:[&#34;D3_followup_periods_in_cohort_{ImmDis}&#34;,&#34;Persons that are in the cohort of {ImmDis}, with all periods of follow-up&#34;,&#34;persons that are in the cohort of {ImmDis} with entering_follow_up_{ImmDis} == 1&#34;,&#34;D3_cohort_{ImmDis} where entering_follow_up_{ImmDis} == 1&#34;</description>
+    </item>
+  </channel>
+</rss>

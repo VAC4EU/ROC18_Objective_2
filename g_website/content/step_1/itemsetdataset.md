@@ -3,10 +3,10 @@ weight: 5
 name_excel: "itemsetdataset.xlsx"
 description: ""
 slug: "itemsetdataset"
-datetime: 1.7253066e+09
+datetime: 1.7268637e+09
 title: itemsetdataset
 author: ''
-date: '2024-09-02'
+date: '2024-09-20'
 categories: []
 tags: []
 archetype: codebook

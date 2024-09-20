@@ -3,10 +3,10 @@ weight: 2
 name_excel: "D3_events_DEATH.xlsx"
 description: "`r get_description(rmarkdown::metadata$name_excel)`"
 slug: "D3_events_DEATH"
-datetime: 1.7253065e+09
+datetime: 1.7268637e+09
 title: D3_events_DEATH
 author: ''
-date: '2024-09-02'
+date: '2024-09-20'
 categories: []
 tags: []
 archetype: codebook
