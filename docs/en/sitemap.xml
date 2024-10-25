@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/step_6/index.html</loc>
-    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
+    <loc>/step_3/d3_cohort_immdis/index.html</loc>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_3/d3_cohort_immdis/index.html</loc>
+    <loc>/step_6/index.html</loc>
     <lastmod>2024-10-04T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -230,7 +230,7 @@
   </url>
   <url>
     <loc>/index.html</loc>
-    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="/index.html" />
     <xhtml:link rel="alternate" hreflang="en" href="/index.html" />
     <xhtml:link rel="alternate" hreflang="pir" href="/pir/index.html" />

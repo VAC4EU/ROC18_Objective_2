@@ -10,7 +10,7 @@
     <item>
       <title>D3_cohort_ImmDis</title>
       <link>/step_3/d3_cohort_immdis/index.html</link>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       <guid>/step_3/d3_cohort_immdis/index.html</guid>
       <description>MetadataData ModelParametersExample{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;metadata_name&#34;:[&#34;Name of the dataset&#34;,&#34;Content of the dataset&#34;,&#34;Unit of observation&#34;,&#34;Dataset where the list of UoOs is fully listed and with 1 record per UoO&#34;,&#34;How many observations per UoO&#34;,&#34;NxUoO&#34;,&#34;Variables capturing the UoO&#34;,&#34;Primary key&#34;,&#34;Parameters&#34;,null,null,null,null,null,null,null,null,null,null,null],&#34;metadata_content&#34;:[&#34;D3_cohort_{ImmDis}&#34;,&#34;Persons in the source population that have at least a code of {ImmDis} during study period, with selection crieria and date of entrance and start of followup in the cohort of each group of prompts&#34;</description>
     </item>
