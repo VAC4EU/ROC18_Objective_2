@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="generator" content="Hugo 0.95.0">
+    <meta name="generator" content="Relearn 5.19.0+tip">
+    <meta name="description" content="CVM Documentation">
+    <meta name="author" content="ARS Tuscany">
+    <title>D4_persontime_Cube_ImmDis :: CVM Documentation</title>
+    <link href="../../step_4/d4_persontime_cube_immdis/index.html" rel="canonical" type="text/html" title="D4_persontime_Cube_ImmDis :: CVM Documentation">
+    <link href="../../step_4/d4_persontime_cube_immdis/index.xml" rel="alternate" type="application/rss+xml" title="D4_persontime_Cube_ImmDis :: CVM Documentation">
+    <link href="../../images/logo.svg" rel="icon" type="image/svg+xml">
+    <!-- https://github.com/filamentgroup/loadCSS/blob/master/README.md#how-to-use -->
+    <link href="../../css/fontawesome-all.min.css" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="../../css/fontawesome-all.min.css" rel="stylesheet"></noscript>
+    <link href="../../css/nucleus.css" rel="stylesheet">
+    <link href="../../css/auto-complete.css" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="../../css/auto-complete.css" rel="stylesheet"></noscript>
+    <link href="../../css/perfect-scrollbar.min.css" rel="stylesheet">
+    <link href="../../css/fonts.css" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="../../css/fonts.css" rel="stylesheet"></noscript>
+    <link href="../../css/theme.css" rel="stylesheet">
+    <link href="../../css/theme-auto.css" rel="stylesheet" id="variant-style">
+    <link href="../../css/variant.css" rel="stylesheet">
+    <link href="../../css/print.css" rel="stylesheet" media="print">
+    <link href="../../css/format-print.css" rel="stylesheet">
+    <link href="../../css/ie.css" rel="stylesheet">
+    <script src="../../js/url.js"></script>
+    <script src="../../js/variant.js"></script>
+    <script>
+      // hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic:
+      // https://github.com/gohugoio/hugo/blob/145b3fcce35fbac25c7033c91c1b7ae6d1179da8/transform/urlreplacers/absurlreplacer.go#L72
+      window.index_js_url="../../index.search.js";
+      var root_url="../../";
+      var baseUri=root_url.replace(/\/$/, '');
+      // translations
+      window.T_Copy_to_clipboard = 'Copy to clipboard';
+      window.T_Copied_to_clipboard = 'Copied to clipboard!';
+      window.T_Copy_link_to_clipboard = 'Copy link to clipboard';
+      window.T_Link_copied_to_clipboard = 'Copied link to clipboard!';
+      window.T_No_results_found = 'No results found for \u0022{0}\u0022';
+      window.T_N_results_found = '{1} results found for \u0022{0}\u0022';
+      // some further base stuff
+      var baseUriFull='/';
+      window.variants && variants.init( [ 'auto', 'relearn-bright', 'relearn-light', 'relearn-dark', 'zen-dark', 'neon', 'learn', 'blue', 'green', 'red' ] );
+    </script><style>
+#body img.bg-white {
+        background-color: white;
+}
+
+div.main-container {
+  max-width: 1800px;
+}
+
+.tab {font-family: Arial;}
+
+ 
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+ 
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+ 
+.tab button:hover {
+  background-color: #ddd;
+}
+
+ 
+.tab button.active {
+  background-color: #ccc;
+}
+
+ 
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+
+@media screen and (min-width: 1300px) {
+   
+  #body .flex-block-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1300px;
+    width: 100%;
+  }
+}
+
+</style>
+
+  </head>
+  <body class="mobile-support print disableInlineCopyToClipboard" data-url="../../step_4/d4_persontime_cube_immdis/index.html">
+    <div id="body" class="default-animation">
+      <div id="sidebar-overlay"></div>
+      <div id="toc-overlay"></div>
+      <nav id="topbar" class="highlightable">
+        <div>
+          <div id="breadcrumbs">
+            <span id="sidebar-toggle-span">
+              <a href="#" id="sidebar-toggle" class="topbar-link" title='Menu (CTRL+ALT+n)'><i class="fas fa-bars fa-fw"></i></a>
+            </span>
+            <ol class="links" itemscope itemtype="http://schema.org/BreadcrumbList">
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="../../index.html"><span itemprop="name">CVM Documentation</span></a><meta itemprop="position" content="1"> &gt; </li>
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="../../step_4/index.html"><span itemprop="name">_index.en</span></a><meta itemprop="position" content="2"> &gt; </li>
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><span itemprop="name">D4_persontime_Cube_ImmDis</span><meta itemprop="position" content="3"></li>
+            </ol>
+          </div>
+        </div>
+      </nav>
+      <main id="body-inner" class="highlightable codebook" tabindex="-1">
+        <div class="flex-block-wrapper">
+          <article class="codebook">
+            <header class="headline">
+            </header>
+<h1 id="d4_persontime_cube_immdis">D4_persontime_Cube_ImmDis</h1>
+
+<script src="../../rmarkdown-libs/core-js/shim.min.js"></script>
+<script src="../../rmarkdown-libs/react/react.min.js"></script>
+<script src="../../rmarkdown-libs/react/react-dom.min.js"></script>
+<script src="../../rmarkdown-libs/reactwidget/react-tools.umd.cjs"></script>
+<script src="../../rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
+<link href="../../rmarkdown-libs/reactable/reactable.css" rel="stylesheet" />
+<script src="../../rmarkdown-libs/reactable-binding/reactable.js"></script>
+<div class="tab">
+<button class="tablinks" onclick="openCity(event, &#39;Metadata&#39;)" id="defaultOpen">Metadata</button>
+<button class="tablinks" onclick="openCity(event, &#39;Data Model&#39;)">Data Model</button>
+<button class="tablinks" onclick="openCity(event, &#39;Parameters&#39;)">Parameters</button>
+<button class="tablinks" onclick="openCity(event, &#39;Example&#39;)">Example</button>
+</div>
+<div id="Metadata" class="tabcontent">
+<div id="htmlwidget-1" class="reactable html-widget" style="width:auto;height:600px;"></div>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"metadata_name":["Name of the dataset","Content of the dataset","Unit of observation","Dataset where the list of UoOs is fully listed and with 1 record per UoO","How many observations per UoO","NxUoO","Variables capturing the UoO","Primary key","Parameters",null,null,null,null,null,null,null,null,null,null,null],"metadata_content":["D4_persontime_Cube_{ImmDis}","Persontime in the follow up of {ImmDis}, with flares, per strata of gender and age, incuding hyerarcical partial sums (all genders, all agebands).","hyerarchies of strata of age and gender",null,"1","1",null,null,"ImmDis",null,null,null,null,null,null,null,null,null,null,null]},"columns":[{"id":"metadata_name","name":"metadata_name","type":"character"},{"id":"metadata_content","name":"metadata_content","type":"character"}],"sortable":false,"searchable":true,"pagination":false,"highlight":true,"bordered":true,"striped":true,"style":{"maxWidth":1800},"height":"600px","dataKey":"980749c25b3c1c71de8c028b15940a8c"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+</div>
+<div id="Data Model" class="tabcontent">
+<div id="htmlwidget-2" class="reactable html-widget" style="width:auto;height:600px;"></div>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"Varname":["number_of_period_{ImmDis}","level_of_gender","level_of_ageband","sex_at_instance_creation","ageband","personyears_{ImmDis}","flare_{ImmDis}_b",null,null,null,null,null,null,null,null,null,null,null,null,null],"Description":["from D3_followup_periods_in_cohort_{ImmDis} , restricted to 1, 2 and 3","hierarchy of gender","hierarchy of ageband","stratum of gender","stratum of ageband","Person years in D3_followup_periods_in_cohort_{ImmDis}","number of flares in this stratum",null,null,null,null,null,null,null,null,null,null,null,null,null],"Format":["int","int","int","character",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Vocabulary":["1, 2, 3","1 = first level\r\n99 = all together","1 = first level\r\n99 = all together","M- Male \r\nF-Female \r\nO- other sex (undetermined) \r\nU- Unknown","0-17\r\n18-59\r\n60+",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Description / Notes":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Parameters":[null,null,null,"ImmDis","ImmDis",null,"ImmDis",null,null,null,null,null,null,null,null,null,null,null,null,null],"Source tables and variables":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Retrieved":[null,null,null,"yes",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Calculated":[null,null,null,null,"yes",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Algorithm_id":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Rule":[null,null,null,null,null,null,"cause_end_period_{ImmDis} == 4, then 1\r\n0 otherwise",null,null,null,null,null,null,null,null,null,null,null,null,null]},"columns":[{"id":"Varname","name":"Varname","type":"character"},{"id":"Description","name":"Description","type":"character"},{"id":"Format","name":"Format","type":"character"},{"id":"Vocabulary","name":"Vocabulary","type":"character"},{"id":"Description / Notes","name":"Description / Notes","type":"logical"},{"id":"Parameters","name":"Parameters","type":"character"},{"id":"Source tables and variables","name":"Source tables and variables","type":"logical"},{"id":"Retrieved","name":"Retrieved","type":"character"},{"id":"Calculated","name":"Calculated","type":"character"},{"id":"Algorithm_id","name":"Algorithm_id","type":"logical"},{"id":"Rule","name":"Rule","type":"character"}],"sortable":false,"searchable":true,"pagination":false,"highlight":true,"bordered":true,"striped":true,"style":{"maxWidth":1800},"height":"600px","dataKey":"893e36c0e9a49ee34d0057c837e1613f"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+</div>
+<div id="Parameters" class="tabcontent">
+<div id="htmlwidget-3" class="reactable html-widget" style="width:auto;height:600px;"></div>
+<script type="application/json" data-for="htmlwidget-3">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"parameter":["ImmDis","ImmDis","ImmDis","ImmDis","ImmDis","ImmDis","ImmDis","ImmDis","ImmDis","ImmDis",null,null,null,null,null,null,null,null,null,null],"value":["E_GRAVES_AESI","Im_HASHIMOTO_AESI","V_PAN_AESI","M_ARTRHEU_AESI","M_ARTPSORIATIC_AESI","N_DEMYELMS_AESI","SK_ERYTHEMANODOSUM_AESI","Im_SLE_AESI","D_ULCERATIVECOLITIS_AESI","D_HEPATITISAUTOIMMUNE_AESI",null,null,null,null,null,null,null,null,null,null],"label":["Graves","Hashimoto","Polyarteritis nodose","Rheumatoid arthritis","Psoriatic arthritis","Multiple sclerosis","Erythema nodosum","SLE","Ulcerative colitis","Autoimmune hepatitis",null,null,null,null,null,null,null,null,null,null],"parameter_in_program":["immune_diseases_in_the_study","immune_diseases_in_the_study","immune_diseases_in_the_study","immune_diseases_in_the_study","immune_diseases_in_the_study","immune_diseases_in_the_study","immune_diseases_in_the_study","immune_diseases_in_the_study","immune_diseases_in_the_study","immune_diseases_in_the_study",null,null,null,null,null,null,null,null,null,null],"set_in_step":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"notes":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]},"columns":[{"id":"parameter","name":"parameter","type":"character"},{"id":"value","name":"value","type":"character"},{"id":"label","name":"label","type":"character"},{"id":"parameter_in_program","name":"parameter_in_program","type":"character"},{"id":"set_in_step","name":"set_in_step","type":"logical"},{"id":"notes","name":"notes","type":"logical"}],"sortable":false,"searchable":true,"pagination":false,"highlight":true,"bordered":true,"striped":true,"style":{"maxWidth":1800},"height":"600px","dataKey":"43e20ea6d74466c41071f549c1995617"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+</div>
+<div id="Example" class="tabcontent">
+<div id="htmlwidget-4" class="reactable html-widget" style="width:auto;height:600px;"></div>
+<script type="application/json" data-for="htmlwidget-4">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"number_of_period_{ImmDis}":["1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1",null,null,null,null],"level_of_gender":["1","1","1","1","1","1","1","1","1","99","99","99","1","1","1","99",null,null,null,null],"level_of_ageband":["1","1","1","1","1","1","1","1","1","1","1","1","99","99","99","99",null,null,null,null],"gender":["F","M","O","F","M","O","F","M","O","allgender","allgender","allgender","F","M","O","allgender",null,null,null,null],"ageband":["0-17","0-17","0-17","18-59","18-59","18-59","60+","60+","60+","0-17","18-59","60+","allage","allage","allage","allage",null,null,null,null],"personyears_{ImmDis}":[584,546,2,5473,7651,21,8765,9543,123,1132,13145,16437,14822,17740,146,32708,"NA","NA","NA","NA"],"flare_{ImmDis}_b":[2,3,0,21,47,1,87,91,9,5,69,135,110,141,10,261,"NA","NA","NA","NA"]},"columns":[{"id":"number_of_period_{ImmDis}","name":"number_of_period_{ImmDis}","type":"character"},{"id":"level_of_gender","name":"level_of_gender","type":"character"},{"id":"level_of_ageband","name":"level_of_ageband","type":"character"},{"id":"gender","name":"gender","type":"character"},{"id":"ageband","name":"ageband","type":"character"},{"id":"personyears_{ImmDis}","name":"personyears_{ImmDis}","type":"numeric"},{"id":"flare_{ImmDis}_b","name":"flare_{ImmDis}_b","type":"numeric"}],"sortable":false,"searchable":true,"pagination":false,"highlight":true,"bordered":true,"striped":true,"style":{"maxWidth":1800},"height":"600px","dataKey":"c03528f11114a44b74d920c91565aac4"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+</div>
+
+            <footer class="footline">
+
+            </footer>
+          </article>
+
+        </div>
+      </main>
+    </div>
+    <script src="../../js/clipboard.min.js" defer></script>
+    <script src="../../js/perfect-scrollbar.min.js" defer></script>
+    <script src="../../js/theme.js" defer></script>
+<script>
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+</script>
+<script>
+  document.getElementById("defaultOpen").click();
+</script>
+
+  </body>
+</html>

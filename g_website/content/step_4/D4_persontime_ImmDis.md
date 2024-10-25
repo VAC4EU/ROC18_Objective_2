@@ -3,14 +3,42 @@ weight: 1
 name_excel: "D4_persontime_ImmDis.xlsx"
 description: ""
 slug: "D4_persontime_ImmDis"
-datetime: 1.7268637e+09
+datetime: 1.7280727e+09
 title: D4_persontime_ImmDis
 author: ''
-date: '2024-09-20'
+date: '2024-10-04'
 categories: []
 tags: []
 archetype: codebook
 output: html_document
 ---
 
-<div class="tabcontent"></div>
+<script src="/rmarkdown-libs/core-js/shim.min.js"></script>
+<script src="/rmarkdown-libs/react/react.min.js"></script>
+<script src="/rmarkdown-libs/react/react-dom.min.js"></script>
+<script src="/rmarkdown-libs/reactwidget/react-tools.umd.cjs"></script>
+<script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
+<link href="/rmarkdown-libs/reactable/reactable.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/reactable-binding/reactable.js"></script>
+<div class="tab">
+<button class="tablinks" onclick="openCity(event, &#39;Metadata&#39;)" id="defaultOpen">Metadata</button>
+<button class="tablinks" onclick="openCity(event, &#39;Data Model&#39;)">Data Model</button>
+<button class="tablinks" onclick="openCity(event, &#39;Parameters&#39;)">Parameters</button>
+<button class="tablinks" onclick="openCity(event, &#39;Example&#39;)">Example</button>
+</div>
+<div id="Metadata" class="tabcontent">
+<div id="htmlwidget-1" class="reactable html-widget" style="width:auto;height:600px;"></div>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"metadata_name":["Name of the dataset","Content of the dataset","Unit of observation","Dataset where the list of UoOs is fully listed and with 1 record per UoO","How many observations per UoO","NxUoO","Variables capturing the UoO","Primary key","Parameters",null,null,null,null,null,null,null,null,null,null,null],"metadata_content":["D4_persontime_{ImmDis}","Persontime in the follow up of {ImmDis}, with 1st, 2nd, and 3rd flares, per strata of gender and age. Use CountPersonTime on D3_followup_periods_in_cohort_{ImmDis} and D3_flares_{ImmDis}, with birth date from D3_PERSONS to create the strata oif ageband","Strata of age and gender, per each flare among 1st, 2nd and 3rd",null,"1","1",null,null,"ImmDis",null,null,null,null,null,null,null,null,null,null,null]},"columns":[{"id":"metadata_name","name":"metadata_name","type":"character"},{"id":"metadata_content","name":"metadata_content","type":"character"}],"sortable":false,"searchable":true,"pagination":false,"highlight":true,"bordered":true,"striped":true,"style":{"maxWidth":1800},"height":"600px","dataKey":"c8c293b4668d8063433ed7f760c9c508"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+</div>
+<div id="Data Model" class="tabcontent">
+<div id="htmlwidget-2" class="reactable html-widget" style="width:auto;height:600px;"></div>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"Varname":["number_of_period_{ImmDis}","sex_at_instance_creation","ageband","personyears_{ImmDis}","flare_{ImmDis}_b",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Description":["from D3_followup_periods_in_cohort_{ImmDis} , restricted to 1, 2 and 3","stratum of gender","stratum of ageband","Person years in D3_followup_periods_in_cohort_{ImmDis} in this stratum","number of flares in this stratum",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Format":["int","character",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Vocabulary":["1, 2, 3","M- Male \r\nF-Female \r\nO- other sex (undetermined) \r\nU- Unknown","0-17\r\n18-59\r\n60+",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Description / Notes":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Parameters":[null,"ImmDis","ImmDis",null,"ImmDis",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Source tables and variables":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Retrieved":[null,"yes",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Calculated":[null,null,"yes","yes","yes","yes",null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Algorithm_id":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Rule":[null,null,null,null,"cause_end_period_{ImmDis} == 4, then 1\r\n0 otherwise",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]},"columns":[{"id":"Varname","name":"Varname","type":"character"},{"id":"Description","name":"Description","type":"character"},{"id":"Format","name":"Format","type":"character"},{"id":"Vocabulary","name":"Vocabulary","type":"character"},{"id":"Description / Notes","name":"Description / Notes","type":"logical"},{"id":"Parameters","name":"Parameters","type":"character"},{"id":"Source tables and variables","name":"Source tables and variables","type":"logical"},{"id":"Retrieved","name":"Retrieved","type":"character"},{"id":"Calculated","name":"Calculated","type":"character"},{"id":"Algorithm_id","name":"Algorithm_id","type":"logical"},{"id":"Rule","name":"Rule","type":"character"}],"sortable":false,"searchable":true,"pagination":false,"highlight":true,"bordered":true,"striped":true,"style":{"maxWidth":1800},"height":"600px","dataKey":"327309aedf702c26f662babfc9b04092"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+</div>
+<div id="Parameters" class="tabcontent">
+<div id="htmlwidget-3" class="reactable html-widget" style="width:auto;height:600px;"></div>
+<script type="application/json" data-for="htmlwidget-3">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"parameter":["ImmDis","ImmDis","ImmDis","ImmDis","ImmDis","ImmDis","ImmDis","ImmDis","ImmDis","ImmDis",null,null,null,null,null,null,null,null,null,null],"value":["E_GRAVES_AESI","Im_HASHIMOTO_AESI","V_PAN_AESI","M_ARTRHEU_AESI","M_ARTPSORIATIC_AESI","N_DEMYELMS_AESI","SK_ERYTHEMANODOSUM_AESI","Im_SLE_AESI","D_ULCERATIVECOLITIS_AESI","D_HEPATITISAUTOIMMUNE_AESI",null,null,null,null,null,null,null,null,null,null],"label":["Graves","Hashimoto","Polyarteritis nodose","Rheumatoid arthritis","Psoriatic arthritis","Multiple sclerosis","Erythema nodosum","SLE","Ulcerative colitis","Autoimmune hepatitis",null,null,null,null,null,null,null,null,null,null],"parameter_in_program":["immune_diseases_in_the_study","immune_diseases_in_the_study","immune_diseases_in_the_study","immune_diseases_in_the_study","immune_diseases_in_the_study","immune_diseases_in_the_study","immune_diseases_in_the_study","immune_diseases_in_the_study","immune_diseases_in_the_study","immune_diseases_in_the_study",null,null,null,null,null,null,null,null,null,null],"set_in_step":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"notes":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]},"columns":[{"id":"parameter","name":"parameter","type":"character"},{"id":"value","name":"value","type":"character"},{"id":"label","name":"label","type":"character"},{"id":"parameter_in_program","name":"parameter_in_program","type":"character"},{"id":"set_in_step","name":"set_in_step","type":"logical"},{"id":"notes","name":"notes","type":"logical"}],"sortable":false,"searchable":true,"pagination":false,"highlight":true,"bordered":true,"striped":true,"style":{"maxWidth":1800},"height":"600px","dataKey":"43e20ea6d74466c41071f549c1995617"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+</div>
+<div id="Example" class="tabcontent">
+<div id="htmlwidget-4" class="reactable html-widget" style="width:auto;height:600px;"></div>
+<script type="application/json" data-for="htmlwidget-4">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"sex_at_instance_creation":["F","M","O","F","M","O","F","M","O",null,null,null,null,null,null,null,null,null,null,null],"ageband":["0-17","0-17","0-17","18-59","18-59","18-59","60+","60+","60+",null,null,null,null,null,null,null,null,null,null,null],"personyears_{ImmDis}":[584,546,2,5473,7651,21,8765,9543,123,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"],"flare_{ImmDis}_b":[2,3,0,21,47,1,87,91,9,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"],"n_":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]},"columns":[{"id":"sex_at_instance_creation","name":"sex_at_instance_creation","type":"character"},{"id":"ageband","name":"ageband","type":"character"},{"id":"personyears_{ImmDis}","name":"personyears_{ImmDis}","type":"numeric"},{"id":"flare_{ImmDis}_b","name":"flare_{ImmDis}_b","type":"numeric"},{"id":"n_","name":"n_","type":"logical"}],"sortable":false,"searchable":true,"pagination":false,"highlight":true,"bordered":true,"striped":true,"style":{"maxWidth":1800},"height":"600px","dataKey":"af494ecc9ac00b55d083ecfdcfd9e5e3"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+</div>

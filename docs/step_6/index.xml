@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_index.en on CVM Documentation</title>
+    <link>/step_6/index.html</link>
+    <description>Recent content in _index.en on CVM Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="/step_6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>D6_Table_1_Attrition_ImmDis</title>
+      <link>/step_6/d6_table_1_attrition_immdis/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/step_6/d6_table_1_attrition_immdis/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>D6_Table_2_Cohort_characteristics_ImmDis</title>
+      <link>/step_6/d6_table_2_cohort_characteristics_immdis/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/step_6/d6_table_2_cohort_characteristics_immdis/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>D6_Table_3_Covariates_ImmDis</title>
+      <link>/step_6/d6_table_3_covariates_immdis/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/step_6/d6_table_3_covariates_immdis/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>D6_Table_4_IR_ImmDis</title>
+      <link>/step_6/d6_table_4_ir_immdis/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/step_6/d6_table_4_ir_immdis/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>D6_Table_7_cumulative_incidence_ImmDis</title>
+      <link>/step_6/d6_table_7_cumulative_incidence_immdis/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/step_6/d6_table_7_cumulative_incidence_immdis/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>D6_Table_8_Impact_of_ablation_cohort_ImmDis</title>
+      <link>/step_6/d6_table_8_impact_of_ablation_cohort_immdis/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/step_6/d6_table_8_impact_of_ablation_cohort_immdis/index.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
