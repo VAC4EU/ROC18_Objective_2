@@ -1,10 +1,10 @@
 ---
 weight: 1
 menuTitle: Step_1
-datetime: 1.7268637e+09
+datetime: 1.7298769e+09
 title: _index.en
 author: ''
-date: '2024-09-20'
+date: '2024-10-25'
 slug: _index
 categories: []
 tags: []

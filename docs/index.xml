@@ -9,15 +9,8 @@
     <lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>_index.en</title>
-      <link>/step_6/index.html</link>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/step_6/index.html</guid>
-      <description>D6_Table_1_Attrition_ImmDisD6_Table_2_Cohort_characteristics_ImmDisD6_Table_3_Covariates_ImmDisD6_Table_4_IR_ImmDisD6_Table_7_cumulative_incidence_ImmDisD6_Table_8_Impact_of_ablation_cohort_ImmDis </description>
-    </item>
-    <item>
-      <title>_index.en</title>
       <link>/step_1/index.html</link>
-      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       <guid>/step_1/index.html</guid>
       <description>D3_PERSONScontains the cleaned version of PERSONS, where birth date and death date are reconstituted as dates
 D3_events_DEATHD3_output_spells_categoryconceptsetdatasetthese are multiple datasets, one per each conceptset, which is a value in the list c(conceptsets_exact_matching, conceptsets_children_matching), set in 07_algorithms. Each conceptset dataset is named after the conceptset. Each conceptset is associated to a list of codes. The dataset is obtained by retrieving records from the CDM bearing a code that match one of the codes in the codelist.</description>
@@ -25,32 +18,39 @@ D3_events_DEATHD3_output_spells_categoryconceptsetdatasetthese are multiple da
     <item>
       <title>_index.en</title>
       <link>/step_2/index.html</link>
-      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       <guid>/step_2/index.html</guid>
       <description>D4_source_populationcontains the cohort of persons in the data source where the, study cohorts will be nested
-Flowchart_exclusion_criteriaD5_Flowchart_exclusion_criteria </description>
+Flowchart_exclusion_criteria </description>
     </item>
     <item>
       <title>_index.en</title>
       <link>/step_3/index.html</link>
-      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       <guid>/step_3/index.html</guid>
       <description>D3_cohort_ImmDisMetadataData ModelParametersExample{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;metadata_name&#34;:[&#34;Name of the dataset&#34;,&#34;Content of the dataset&#34;,&#34;Unit of observation&#34;,&#34;Dataset where the list of UoOs is fully listed and with 1 record per UoO&#34;,&#34;How many observations per UoO&#34;,&#34;NxUoO&#34;,&#34;Variables capturing the UoO&#34;,&#34;Primary key&#34;,&#34;Parameters&#34;,null,null,null,null,null,null,null,null,null,null,null],&#34;metadata_content&#34;:[&#34;D3_cohort_{ImmDis}&#34;,&#34;Persons in the source population that have at least a code of {ImmDis} during study period, with selection crieria and date of entrance and start of followup in the cohort of each group of prompts&#34;</description>
     </item>
     <item>
       <title>_index.en</title>
       <link>/step_4/index.html</link>
-      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       <guid>/step_4/index.html</guid>
       <description>D4_persontime_ImmDisMetadataData ModelParametersExample{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;metadata_name&#34;:[&#34;Name of the dataset&#34;,&#34;Content of the dataset&#34;,&#34;Unit of observation&#34;,&#34;Dataset where the list of UoOs is fully listed and with 1 record per UoO&#34;,&#34;How many observations per UoO&#34;,&#34;NxUoO&#34;,&#34;Variables capturing the UoO&#34;,&#34;Primary key&#34;,&#34;Parameters&#34;,null,null,null,null,null,null,null,null,null,null,null],&#34;metadata_content&#34;:[&#34;D4_persontime_{ImmDis}&#34;,&#34;Persontime in the follow up of {ImmDis}, with 1st, 2nd, and 3rd flares, per strata of gender and age. Use CountPersonTime on D3_followup_periods_in_cohort_{ImmDis} and D3_flares_{ImmDis}, with birth date from D3_PERSONS to create the strata oif ageband&#34;</description>
     </item>
     <item>
       <title>_index.en</title>
       <link>/step_5/index.html</link>
-      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       <guid>/step_5/index.html</guid>
-      <description>D5_Table_1_Attrition_ImmDisD5_Table_2_Cohort_characteristics_ImmDisMetadataData ModelParametersAugmented shell tableExample{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;metadata_name&#34;:[&#34;Name of the dataset&#34;,&#34;Content of the dataset&#34;,&#34;Unit of observation&#34;,&#34;Dataset where the list of UoOs is fully listed and with 1 record per UoO&#34;,&#34;How many observations per UoO&#34;,&#34;NxUoO&#34;,&#34;Variables capturing the UoO&#34;,&#34;Primary key&#34;,&#34;Parameters&#34;,null,null,null,null,null,null,null,null,null,null,null],&#34;metadata_content&#34;:[&#34;D5_Table_2_Cohort_characteristics_{ImmDis}&#34;,null,&#34;datasource&#34;,null,&#34;1&#34;,&#34;1&#34;,&#34;datasource&#34;,&#34;datasource&#34;,&#34;ImmDis&#34;,null,null,null,null,null,null,null,null,null,null,null]},&#34;columns&#34;:[{&#34;id&#34;:&#34;metadata_name&#34;,&#34;name&#34;:&#34;metadata_name&#34;,&#34;type&#34;:&#34;character&#34;},{&#34;id&#34;:&#34;metadata_content&#34;,&#34;name&#34;:&#34;metadata_content&#34;,&#34;type&#34;:&#34;character&#34;}],&#34;sortable&#34;:false,&#34;searchable&#34;:true,&#34;pagination&#34;:false,&#34;highlight&#34;:true,&#34;bordered&#34;:true,&#34;striped&#34;:true,&#34;style&#34;:{&#34;maxWidth&#34;:1800},&#34;height&#34;:&#34;600px&#34;,&#34;dataKey&#34;:&#34;983b2cf27b366b5a9fd886af35b9999b&#34;},&#34;children&#34;:[]},&#34;class&#34;:&#34;reactR_markup&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;Varname&#34;:[&#34;ds&#34;,&#34;n_1_&#34;,&#34;n_2_&#34;,&#34;p_2_&#34;,&#34;n_3_&#34;,&#34;p_3&#34;,&#34;n_4_&#34;,&#34;p_4_&#34;,&#34;pc_5_&#34;,&#34;pc_6_&#34;,&#34;pc_7_&#34;,&#34;n_8_&#34;,&#34;p_8_&#34;,&#34;n_9_&#34;,&#34;p_9_&#34;,&#34;n_10_&#34;,&#34;p_10_&#34;,&#34;n_11_&#34;,&#34;p_11_&#34;,&#34;py_12&#34;],&#34;Description&#34;:[&#34;data source name, as stored in CDM_SOURCE, plus possible specification of subpopulation&#34;,&#34;Total cohort population&#34;,&#34;Female (n/%)&#34;,&#34;n_2 as a % of the total cohort population&#34;
-D5_Table_3_Covariates_ImmDisMetadataData ModelParametersAugmented shell tableExampleD5_Table_4_IR_ImmDisMetadataData ModelParametersAugmented shell tableExampleD5_Table_5_IR_ImmDis_stratumMetadataData ModelParametersAugmented shell tableExampleD5_Table_6_Impact_of_component_flare_ImmDisMetadataData ModelParametersAugmented shell tableExample{&#34;</description>
+      <description>D5_Table_1_Attrition_ImmDisMetadataData ModelParametersAugmented shell tableExample{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;metadata_name&#34;:[&#34;Name of the dataset&#34;,&#34;Content of the dataset&#34;,&#34;Unit of observation&#34;,&#34;Dataset where the list of UoOs is fully listed and with 1 record per UoO&#34;,&#34;How many observations per UoO&#34;,&#34;NxUoO&#34;,&#34;Variables capturing the UoO&#34;,&#34;Primary key&#34;,&#34;Parameters&#34;,null,null,null,null,null,null,null,null,null,null,null],&#34;metadata_content&#34;:[&#34;D5_Table_1_Attrition_{ImmDis}&#34;,&#34;Attrition table for the cohort of the disease {ImmDis}&#34;,&#34;datasource&#34;,null,&#34;1&#34;,&#34;1&#34;,&#34;datasource&#34;,&#34;datasource&#34;,&#34;{ImmDis}&#34;,null,null,null,null,null,null,null,null,null,null,null]},&#34;columns&#34;:[{&#34;id&#34;:&#34;metadata_name&#34;,&#34;name&#34;:&#34;metadata_name&#34;,&#34;type&#34;:&#34;character&#34;},{&#34;id&#34;:&#34;metadata_content&#34;,&#34;name&#34;:&#34;metadata_content&#34;,&#34;type&#34;:&#34;character&#34;}],&#34;sortable&#34;:false,&#34;searchable&#34;:true,&#34;pagination&#34;:false,&#34;highlight&#34;:true,&#34;bordered&#34;:true,&#34;striped&#34;:true,&#34;style&#34;:{&#34;maxWidth&#34;:1800},&#34;height&#34;:&#34;600px&#34;,&#34;dataKey&#34;:&#34;8253986f1e8616adaf4e8a4c519c1895&#34;},&#34;children&#34;:[]},&#34;class&#34;:&#34;reactR_markup&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;Varname&#34;:[&#34;ds&#34;,&#34;n_1_&#34;,&#34;n_2_&#34;,&#34;p_2_&#34;,&#34;n_3_&#34;,&#34;p_3&#34;,&#34;n_4_&#34;,&#34;p_4_&#34;,&#34;n_5_&#34;,&#34;p_5_&#34;,&#34;n_6_&#34;,&#34;p_6_&#34;,&#34;n_7_&#34;,&#34;p_7_&#34;,&#34;n_8_&#34;,&#34;p_8_&#34;,&#34;n_9_&#34;,&#34;p_9_&#34;,&#34;n_10_&#34;,&#34;p_10_&#34;],&#34;Description&#34;:[&#34;data source name, as stored in CDM_SOURCE, plus possible specification of subpopulation&#34;,&#34;Total persons in the data instance&#34;
+D5_Table_2_Cohort_characteristics_ImmDisMetadataData ModelParametersAugmented shell tableExample{&#34;</description>
+    </item>
+    <item>
+      <title>_index.en</title>
+      <link>/step_6/index.html</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/step_6/index.html</guid>
+      <description>D6_Table_1_Attrition_ImmDisD6_Table_2_Cohort_characteristics_ImmDisD6_Table_3_Covariates_ImmDisD6_Table_4_IR_ImmDisD6_Table_7_cumulative_incidence_ImmDisD6_Table_8_Impact_of_ablation_cohort_ImmDis </description>
     </item>
   </channel>
 </rss>

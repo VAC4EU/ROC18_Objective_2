@@ -3,10 +3,10 @@ weight: 6
 name_excel: "D5_Table_6_Impact_of_component_flare_ImmDis.xlsx"
 description: "`r get_description(rmarkdown::metadata$name_excel)`"
 slug: "D5_Table_6_Impact_of_component_flare_ImmDis"
-datetime: 1.7280727e+09
+datetime: 1.7298769e+09
 title: D5_Table_6_Impact_of_component_flare_ImmDis
 author: ''
-date: '2024-10-04'
+date: '2024-10-25'
 categories: []
 tags: []
 archetype: codebook

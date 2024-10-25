@@ -133,8 +133,8 @@ div.main-container {
 <h2><a href="../step_4/d4_persontime_immdis/index.html">D4_persontime_ImmDis</a></h2><p>MetadataData ModelParametersExample{"x":{"tag":{"name":"Reactable","attribs":{"data":{"metadata_name":["Name of the dataset","Content of the dataset","Unit of observation","Dataset where the list of UoOs is fully listed and with 1 record per UoO","How many observations per UoO","NxUoO","Variables capturing the UoO","Primary key","Parameters",null,null,null,null,null,null,null,null,null,null,null],"metadata_content":["D4_persontime_{ImmDis}","Persontime in the follow up of {ImmDis}, with 1st, 2nd, and 3rd flares, per strata of gender and age. Use CountPersonTime on D3_followup_periods_in_cohort_{ImmDis} and D3_flares_{ImmDis}, with birth date from D3_PERSONS to create the strata oif ageband"</p>
 <h2><a href="../step_4/d4_persontime_cube_immdis/index.html">D4_persontime_Cube_ImmDis</a></h2><p>MetadataData ModelParametersExample{"x":{"tag":{"name":"Reactable","attribs":{"data":{"metadata_name":["Name of the dataset","Content of the dataset","Unit of observation","Dataset where the list of UoOs is fully listed and with 1 record per UoO","How many observations per UoO","NxUoO","Variables capturing the UoO","Primary key","Parameters",null,null,null,null,null,null,null,null,null,null,null],"metadata_content":["D4_persontime_Cube_{ImmDis}","Persontime in the follow up of {ImmDis}, with flares, per strata of gender and age, incuding hyerarcical partial sums (all genders, all agebands).","hyerarchies of strata of age and gender"</p>
 <h2><a href="../step_4/d4_population_cube_immdis/index.html">D4_population_Cube_ImmDis</a></h2><p></p>
-<h2><a href="../step_4/d4_components_flare_immdis/index.html">D4_components_flare_ImmDis</a></h2><p></p>
 <h2><a href="../step_4/d4_analytical_dataset_km_immdis/index.html">D4_analytical_dataset_KM_ImmDis</a></h2><p>MetadataData ModelParametersExample{"x":{"tag":{"name":"Reactable","attribs":{"data":{"metadata_name":["Name of the dataset","Content of the dataset","Unit of observation","Dataset where the list of UoOs is fully listed and with 1 record per UoO","How many observations per UoO","NxUoO","Variables capturing the UoO","Primary key","Parameters",null,null,null,null,null,null,null,null,null,null,null],"metadata_content":["D4_analytical_dataset_KM_{ImmDis}","Persons that are in the cohort of {ImmDis}, with first periods of follow-up and flare (if any): this is the analytical dataset that enters the calculation of cumulative incidence at 180 days and at 365 days.</p>
+<h2><a href="../step_4/d4_components_flare_immdis/index.html">D4_components_flare_ImmDis</a></h2><p></p>
 </div>
 
             <footer class="footline">
@@ -239,18 +239,6 @@ div.main-container {
           <article class="codebook">
             <header class="headline">
             </header>
-<h1 id="d4_components_flare_immdis">D4_components_flare_ImmDis</h1>
-
-<div class="tabcontent"></div>
-
-            <footer class="footline">
-
-            </footer>
-          </article>
-
-          <article class="codebook">
-            <header class="headline">
-            </header>
 <h1 id="d4_analytical_dataset_km_immdis">D4_analytical_dataset_KM_ImmDis</h1>
 
 <script src="../rmarkdown-libs/core-js/shim.min.js"></script>
@@ -282,6 +270,18 @@ div.main-container {
 <div id="htmlwidget-4" class="reactable html-widget" style="width:auto;height:600px;"></div>
 <script type="application/json" data-for="htmlwidget-4">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"person_id":["P1","P2",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"sex_at_instance_creation":["F","M",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"age_at_cohort_entry_date_{ImmDis}":[54,67,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"],"start_follow_up_{ImmDis}_d":[600,500,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"],"start_period_{ImmDis}_d":[600,500,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"],"end_period_{ImmDis}_d":[780,643,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"],"days_{ImmDis}":[180,143,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"],"cause_end_period_{ImmDis}":[3,4,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"],"flare_{ImmDis}":[0,1,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"]},"columns":[{"id":"person_id","name":"person_id","type":"character"},{"id":"sex_at_instance_creation","name":"sex_at_instance_creation","type":"character"},{"id":"age_at_cohort_entry_date_{ImmDis}","name":"age_at_cohort_entry_date_{ImmDis}","type":"numeric"},{"id":"start_follow_up_{ImmDis}_d","name":"start_follow_up_{ImmDis}_d","type":"numeric"},{"id":"start_period_{ImmDis}_d","name":"start_period_{ImmDis}_d","type":"numeric"},{"id":"end_period_{ImmDis}_d","name":"end_period_{ImmDis}_d","type":"numeric"},{"id":"days_{ImmDis}","name":"days_{ImmDis}","type":"numeric"},{"id":"cause_end_period_{ImmDis}","name":"cause_end_period_{ImmDis}","type":"numeric"},{"id":"flare_{ImmDis}","name":"flare_{ImmDis}","type":"numeric"}],"sortable":false,"searchable":true,"pagination":false,"highlight":true,"bordered":true,"striped":true,"style":{"maxWidth":1800},"height":"600px","dataKey":"746c74deda4fbc82955d27567a8796c3"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
 </div>
+
+            <footer class="footline">
+
+            </footer>
+          </article>
+
+          <article class="codebook">
+            <header class="headline">
+            </header>
+<h1 id="d4_components_flare_immdis">D4_components_flare_ImmDis</h1>
+
+<div class="tabcontent"></div>
 
             <footer class="footline">
 

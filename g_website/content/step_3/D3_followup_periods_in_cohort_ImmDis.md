@@ -3,10 +3,10 @@ weight: 7
 name_excel: "D3_followup_periods_in_cohort_ImmDis.xlsx"
 description: ""
 slug: "D3_followup_periods_in_cohort_ImmDis"
-datetime: 1.7280727e+09
+datetime: 1.7298769e+09
 title: D3_followup_periods_in_cohort_ImmDis
 author: ''
-date: '2024-10-04'
+date: '2024-10-25'
 categories: []
 tags: []
 archetype: codebook

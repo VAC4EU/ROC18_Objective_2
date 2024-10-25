@@ -3,10 +3,10 @@ weight: 7
 name_excel: "D3_clean_vaccines.xlsx"
 description: "This dataset contains all the records of a COVID vaccine, including their imputation and modifications and exclusion criteria. Exclusion criteria must be applied before using the variable in the next steps"
 slug: "D3_clean_vaccines"
-datetime: 1.7268637e+09
+datetime: 1.7298769e+09
 title: D3_clean_vaccines
 author: ''
-date: '2024-09-20'
+date: '2024-10-25'
 categories: []
 tags: []
 archetype: codebook
