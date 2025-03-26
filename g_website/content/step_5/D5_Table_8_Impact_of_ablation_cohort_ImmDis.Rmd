@@ -3,10 +3,10 @@ weight: 9
 name_excel: "D5_Table_8_Impact_of_ablation_cohort_ImmDis.xlsx"
 description: "`r get_description(rmarkdown::metadata$name_excel)`"
 slug: "D5_Table_8_Impact_of_ablation_cohort_ImmDis"
-datetime: 1.7298777e+09
+datetime: 1.7429989e+09
 title: D5_Table_8_Impact_of_ablation_cohort_ImmDis
 author: ''
-date: '2024-10-25'
+date: '2025-03-26'
 categories: []
 tags: []
 archetype: codebook

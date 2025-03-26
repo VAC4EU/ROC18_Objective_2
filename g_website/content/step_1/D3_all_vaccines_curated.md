@@ -3,10 +3,10 @@ weight: 11
 name_excel: "D3_all_vaccines_curated.xlsx"
 description: "This dataset contains the records of all the curated doses of all roots of indicators in the instance listed in Table 7 of the SAP. Doses of covid vaccines are included. It is obtained by D3_clean_all_vaccines by excluding records that are duplicates or of bad quality, and after appending the curated covid vaccines"
 slug: "D3_all_vaccines_curated"
-datetime: 1.7298769e+09
+datetime: 1.7429989e+09
 title: D3_all_vaccines_curated
 author: ''
-date: '2024-10-25'
+date: '2025-03-26'
 categories: []
 tags: []
 archetype: codebook
@@ -16,7 +16,7 @@ output: html_document
 <script src="/rmarkdown-libs/core-js/shim.min.js"></script>
 <script src="/rmarkdown-libs/react/react.min.js"></script>
 <script src="/rmarkdown-libs/react/react-dom.min.js"></script>
-<script src="/rmarkdown-libs/reactwidget/react-tools.umd.cjs"></script>
+<script src="/rmarkdown-libs/reactwidget/react-tools.js"></script>
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
 <link href="/rmarkdown-libs/reactable/reactable.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/reactable-binding/reactable.js"></script>

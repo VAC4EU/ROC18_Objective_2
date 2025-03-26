@@ -3,10 +3,10 @@ weight: 9
 name_excel: "D5_Table_8_Impact_of_ablation_cohort_ImmDis.xlsx"
 description: ""
 slug: "D5_Table_8_Impact_of_ablation_cohort_ImmDis"
-datetime: 1.7298777e+09
+datetime: 1.7429989e+09
 title: D5_Table_8_Impact_of_ablation_cohort_ImmDis
 author: ''
-date: '2024-10-25'
+date: '2025-03-26'
 categories: []
 tags: []
 archetype: codebook
@@ -16,7 +16,7 @@ output: html_document
 <script src="/rmarkdown-libs/core-js/shim.min.js"></script>
 <script src="/rmarkdown-libs/react/react.min.js"></script>
 <script src="/rmarkdown-libs/react/react-dom.min.js"></script>
-<script src="/rmarkdown-libs/reactwidget/react-tools.umd.cjs"></script>
+<script src="/rmarkdown-libs/reactwidget/react-tools.js"></script>
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
 <link href="/rmarkdown-libs/reactable/reactable.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/reactable-binding/reactable.js"></script>

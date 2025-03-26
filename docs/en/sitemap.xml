@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/step_3/d3_cohort_immdis/index.html</loc>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>/step_1/d3_persons/index.html</loc>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>/step_4/d4_persontime_immdis/index.html</loc>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>/step_2/d4_source_population/index.html</loc>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>/step_5/d5_table_1_attrition_immdis/index.html</loc>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>/step_1/index.html</loc>
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url>
@@ -25,39 +45,19 @@
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_3/d3_cohort_immdis/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>/step_1/d3_persons/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>/step_4/d4_persontime_immdis/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>/step_2/d4_source_population/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>/step_5/d5_table_1_attrition_immdis/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>/step_6/d6_table_1_attrition_immdis/index.html</loc>
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_1/d3_events_death/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>/step_4/d4_persontime_cube_immdis/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>/step_5/d5_table_2_cohort_characteristics_immdis/index.html</loc>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>/step_1/d3_events_death/index.html</loc>
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -73,6 +73,10 @@
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>/step_5/d5_table_3_covariates_immdis/index.html</loc>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>/step_3/d3_components_flare_td_immdis/index.html</loc>
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url>
@@ -85,32 +89,32 @@
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_5/d5_table_3_covariates_immdis/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>/step_6/d6_table_3_covariates_immdis/index.html</loc>
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>/step_1/conceptsetdataset/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>/step_3/d3_flares_immdis/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>/step_4/d4_analytical_dataset_km_immdis/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>/step_5/d5_table_4_ir_immdis/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>/step_6/d6_table_4_ir_immdis/index.html</loc>
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>/step_5/d5_table_5_ir_immdis_stratum/index.html</loc>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>/step_3/d3_events_seccomp_complex/index.html</loc>
@@ -118,10 +122,6 @@
   </url>
   <url>
     <loc>/step_4/d4_components_flare_immdis/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>/step_5/d5_table_5_ir_immdis_stratum/index.html</loc>
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -133,11 +133,11 @@
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_3/d3_td_condition/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+    <loc>/step_5/d5_table_6_impact_of_component_flare_immdis/index.html</loc>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_5/d5_table_6_impact_of_component_flare_immdis/index.html</loc>
+    <loc>/step_3/d3_td_condition/index.html</loc>
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -150,51 +150,51 @@
   </url>
   <url>
     <loc>/step_1/d3_clean_vaccines/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>/step_3/d3_followup_periods_in_cohort_immdis/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>/step_5/d5_table_7_cumulative_incidence_immdis/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>/step_3/d3_pregnancy_while_in_followup_periods_in_cohort_immdis/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>/step_1/d3_vaccines_curated/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>/step_5/d5_data_km_figure_immdis/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>/step_3/d3_td_pregnancy_during_followup_immdis/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>/step_1/d5_flowchart_criteria_for_doses/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>/step_5/d5_table_8_impact_of_ablation_cohort_immdis/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>/step_1/d3_clean_all_vaccines/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>/step_3/d3_followup_periods_in_cohort_with_pregnancy_immdis/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>/step_1/d3_all_vaccines_curated/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>/step_1/d5_flowchart_criteria_for_all_vaccines/index.html</loc>
@@ -210,7 +210,7 @@
   </url>
   <url>
     <loc>/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="/index.html" />
     <xhtml:link rel="alternate" hreflang="en" href="/index.html" />
     <xhtml:link rel="alternate" hreflang="pir" href="/pir/index.html" />

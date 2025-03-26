@@ -3,10 +3,10 @@ weight: 4
 name_excel: "conceptsetdataset.xlsx"
 description: "these are multiple datasets, one per each conceptset, which is a value in the list c(conceptsets_exact_matching, conceptsets_children_matching), set in 07_algorithms. Each conceptset dataset is named after the conceptset. Each conceptset is associated to a list of codes. The dataset is obtained by retrieving records from the CDM bearing a code that match one of the codes in the codelist. The matching can be exact (for the conceptsets in conceptsets_exact_matching) or per ascendant (for conceptsets in conceptsets_children_matching) . Records are retrieved from the EVENTS table, but also from other tables which may bear a record, such as PROCEDURES or VACCINES"
 slug: "conceptsetdataset"
-datetime: 1.7298769e+09
+datetime: 1.7429989e+09
 title: conceptsetdataset
 author: ''
-date: '2024-10-25'
+date: '2025-03-26'
 categories: []
 tags: []
 archetype: codebook
@@ -16,7 +16,7 @@ output: html_document
 <script src="/rmarkdown-libs/core-js/shim.min.js"></script>
 <script src="/rmarkdown-libs/react/react.min.js"></script>
 <script src="/rmarkdown-libs/react/react-dom.min.js"></script>
-<script src="/rmarkdown-libs/reactwidget/react-tools.umd.cjs"></script>
+<script src="/rmarkdown-libs/reactwidget/react-tools.js"></script>
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
 <link href="/rmarkdown-libs/reactable/reactable.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/reactable-binding/reactable.js"></script>

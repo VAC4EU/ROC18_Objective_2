@@ -3,10 +3,10 @@ weight: 1
 name_excel: "D3_PERSONS.xlsx"
 description: "contains the cleaned version of PERSONS, where birth date and death date are reconstituted as dates"
 slug: "D3_PERSONS"
-datetime: 1.7298769e+09
+datetime: 1.7429989e+09
 title: D3_PERSONS
 author: ''
-date: '2024-10-25'
+date: '2025-03-26'
 categories: []
 tags: []
 archetype: codebook
@@ -16,7 +16,7 @@ output: html_document
 <script src="/rmarkdown-libs/core-js/shim.min.js"></script>
 <script src="/rmarkdown-libs/react/react.min.js"></script>
 <script src="/rmarkdown-libs/react/react-dom.min.js"></script>
-<script src="/rmarkdown-libs/reactwidget/react-tools.umd.cjs"></script>
+<script src="/rmarkdown-libs/reactwidget/react-tools.js"></script>
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
 <link href="/rmarkdown-libs/reactable/reactable.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/reactable-binding/reactable.js"></script>

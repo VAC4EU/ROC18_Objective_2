@@ -3,10 +3,10 @@ weight: 7
 name_excel: "D3_clean_vaccines.xlsx"
 description: "This dataset contains all the records of a COVID vaccine, including their imputation and modifications and exclusion criteria. Exclusion criteria must be applied before using the variable in the next steps"
 slug: "D3_clean_vaccines"
-datetime: 1.7298769e+09
+datetime: 1.7429989e+09
 title: D3_clean_vaccines
 author: ''
-date: '2024-10-25'
+date: '2025-03-26'
 categories: []
 tags: []
 archetype: codebook
@@ -16,7 +16,7 @@ output: html_document
 <script src="/rmarkdown-libs/core-js/shim.min.js"></script>
 <script src="/rmarkdown-libs/react/react.min.js"></script>
 <script src="/rmarkdown-libs/react/react-dom.min.js"></script>
-<script src="/rmarkdown-libs/reactwidget/react-tools.umd.cjs"></script>
+<script src="/rmarkdown-libs/reactwidget/react-tools.js"></script>
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
 <link href="/rmarkdown-libs/reactable/reactable.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/reactable-binding/reactable.js"></script>
