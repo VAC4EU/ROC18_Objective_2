@@ -6,7 +6,7 @@
     <description>Recent content on CVM Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>_index.en</title>
       <link>/step_1/index.html</link>
@@ -51,6 +51,13 @@ D5_Table_2_Cohort_characteristics_ImmDisMetadataData ModelParametersAugmented
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       <guid>/step_6/index.html</guid>
       <description>D6_Table_1_Attrition_ImmDisD6_Table_2_Cohort_characteristics_ImmDisD6_Table_3_Covariates_ImmDisD6_Table_4_IR_ImmDisD6_Table_7_cumulative_incidence_ImmDisD6_Table_8_Impact_of_ablation_cohort_ImmDis </description>
+    </item>
+    <item>
+      <title>_index.en</title>
+      <link>/step_7/index.html</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/step_7/index.html</guid>
+      <description>Section_10.X_ImmDis </description>
     </item>
   </channel>
 </rss>

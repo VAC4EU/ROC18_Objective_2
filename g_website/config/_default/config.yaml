@@ -9,7 +9,7 @@ defaultContentLanguage: en
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 permalinks:
   data-models: /:slug/
-title: CVM Documentation
+title: ROC18 Objective 2 Documentation
 outputs:
   home:
     - HTML
@@ -45,11 +45,11 @@ languages:
       shortcuts:
         - identifier: diagram 
           name: <i class='fas fa-project-diagram'></i> Diagram
-          url: https://imi-conception.github.io/DP3-MS-SLE/diagram.html
+          url: https://imi-conception.github.io/ROC18_Objective_2/diagram.html
           weight: 10
         - identifier: diagram draft
           name: <i class='fas fa-project-diagram'></i> Diagram
-          url: https://imi-conception.github.io/DP3-MS-SLE/diagram_draft.html
+          url: https://imi-conception.github.io/ROC18_Objective_2/diagram_draft.html
           weight: 10
         - identifier: ds
           name: <i class='fab fa-fw fa-github'></i> GitHub repo
@@ -121,7 +121,7 @@ params:
   author: ARS Tuscany
   breadcrumbSeparator: '>'
   collapsibleMenu: yes
-  description: CVM Documentation
+  description: ROC18 Objective 2 Documentation
   disableAssetsBusting: yes
   disableBreadcrumb: no
   disableInlineCopyToClipBoard: yes
