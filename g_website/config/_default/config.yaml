@@ -45,15 +45,15 @@ languages:
       shortcuts:
         - identifier: diagram 
           name: <i class='fas fa-project-diagram'></i> Diagram
-          url: https://imi-conception.github.io/ROC18_Objective_2/diagram.html
+          url: https://VAC4EU.github.io/ROC18_Objective_2/diagram.html
           weight: 10
         - identifier: diagram draft
           name: <i class='fas fa-project-diagram'></i> Diagram
-          url: https://imi-conception.github.io/ROC18_Objective_2/diagram_draft.html
+          url: https://VAC4EU.github.io/ROC18_Objective_2/diagram_draft.html
           weight: 10
         - identifier: ds
           name: <i class='fab fa-fw fa-github'></i> GitHub repo
-          url: https://github.com/VAC4EU/CVM
+          url: https://github.com/VAC4EU/ROC18_Objective_2
           weight: 11
         - identifier: link_script
           name: <i class='fas fa-link'></i> Related scripts
