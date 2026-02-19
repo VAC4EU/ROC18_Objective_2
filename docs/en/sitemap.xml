@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/step_7/section_10.x_immdis/index.html</loc>
-    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>/step_3/d3_cohort_immdis/index.html</loc>
-    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>/step_1/d3_persons/index.html</loc>
-    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>/step_7/section_10.x_immdis/index.html</loc>
+    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>/step_4/d4_persontime_immdis/index.html</loc>
@@ -81,15 +81,15 @@
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>/step_1/d3_output_spells_category/index.html</loc>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>/step_5/d5_table_3_covariates_immdis/index.html</loc>
     <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>/step_3/d3_components_flare_td_immdis/index.html</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>/step_1/d3_output_spells_category/index.html</loc>
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -157,11 +157,15 @@
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_1/d3_clean_vaccines/index.html</loc>
-    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
+    <loc>/step_3/d3_followup_periods_in_cohort_immdis/index.html</loc>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_3/d3_followup_periods_in_cohort_immdis/index.html</loc>
+    <loc>/step_6/figure_ablation_immdis/index.html</loc>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>/step_1/d3_clean_vaccines/index.html</loc>
     <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -218,7 +222,7 @@
   </url>
   <url>
     <loc>/index.html</loc>
-    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="/index.html" />
     <xhtml:link rel="alternate" hreflang="en" href="/index.html" />
     <xhtml:link rel="alternate" hreflang="pir" href="/pir/index.html" />

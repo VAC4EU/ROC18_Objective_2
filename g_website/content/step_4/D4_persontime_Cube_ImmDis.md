@@ -14,12 +14,18 @@ output: html_document
 ---
 
 <script src="/rmarkdown-libs/core-js/shim.min.js"></script>
+
 <script src="/rmarkdown-libs/react/react.min.js"></script>
+
 <script src="/rmarkdown-libs/react/react-dom.min.js"></script>
+
 <script src="/rmarkdown-libs/reactwidget/react-tools.js"></script>
+
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
+
 <link href="/rmarkdown-libs/reactable/reactable.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/reactable-binding/reactable.js"></script>
+
 <div class="tab">
 <button class="tablinks" onclick="openCity(event, &#39;Metadata&#39;)" id="defaultOpen">Metadata</button>
 <button class="tablinks" onclick="openCity(event, &#39;Data Model&#39;)">Data Model</button>

@@ -6,14 +6,14 @@
     <description>Recent content on CVM Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>_index.en</title>
       <link>/step_1/index.html</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       <guid>/step_1/index.html</guid>
       <description>D3_PERSONScontains the cleaned version of PERSONS, where birth date and death date are reconstituted as dates
-D3_events_DEATHD3_output_spells_categoryconceptsetdatasetthese are multiple datasets, one per each conceptset, which is a value in the list c(conceptsets_exact_matching, conceptsets_children_matching), set in 07_algorithms. Each conceptset dataset is named after the conceptset. Each conceptset is associated to a list of codes. The dataset is obtained by retrieving records from the CDM bearing a code that match one of the codes in the codelist.</description>
+D3_events_DEATHD3_output_spells_categorycontains the spells exited from CreateSpells, i.e., all the continuous spells of observation period of each person, stratified per op_meaning op_meaning is by default the same for all observation periods, and is set in 05_subpopulations_restricting_meanings for those data sources where the analysis is conducted on subpopulations having different sets of data banks</description>
     </item>
     <item>
       <title>_index.en</title>
@@ -50,7 +50,7 @@ D5_Table_2_Cohort_characteristics_ImmDisMetadataData ModelParametersAugmented
       <link>/step_6/index.html</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       <guid>/step_6/index.html</guid>
-      <description>D6_Table_1_Attrition_ImmDisD6_Table_2_Cohort_characteristics_ImmDisD6_Table_3_Covariates_ImmDisD6_Table_4_IR_ImmDisD6_Table_7_cumulative_incidence_ImmDisD6_Table_8_Impact_of_ablation_cohort_ImmDis </description>
+      <description>D6_Table_1_Attrition_ImmDisD6_Table_2_Cohort_characteristics_ImmDisD6_Table_3_Covariates_ImmDisD6_Table_4_IR_ImmDisD6_Table_7_cumulative_incidence_ImmDisD6_Table_8_Impact_of_ablation_cohort_ImmDisFigure_ablation_ImmDis </description>
     </item>
     <item>
       <title>_index.en</title>

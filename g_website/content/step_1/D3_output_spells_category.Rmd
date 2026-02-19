@@ -3,10 +3,10 @@ weight: 3
 name_excel: "D3_output_spells_category.xlsx"
 description: "`r get_description(rmarkdown::metadata$name_excel)`"
 slug: "D3_output_spells_category"
-datetime: 1.7298769e+09
+datetime: 1.7715249e+09
 title: D3_output_spells_category
 author: ''
-date: '2024-10-25'
+date: '2026-02-19'
 categories: []
 tags: []
 archetype: codebook
