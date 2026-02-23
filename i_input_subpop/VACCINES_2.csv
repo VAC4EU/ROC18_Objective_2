@@ -1,0 +1,2 @@
+person_id,vx_record_date,vx_admin_date,vx_atc,vx_type,vx_text,medicinal_product_id,origin_of_vx_record,meaning_of_vx_record,vx_dose,vx_manufacturer,vx_lot_num,visit_occurrence_id
+ECVM210904345,20210125,20210125,J07AN01,"","",9849269018,VCN,administration_of_vaccine_unspecified,1,pfizer,FF4213,""

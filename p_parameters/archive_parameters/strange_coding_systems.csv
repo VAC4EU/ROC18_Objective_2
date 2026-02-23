@@ -1,0 +1,115 @@
+event_definition,coding_system,code_name,concept,concept_name,tags,system,event_abbreviation,type,code_issue_dot,code
+Blood transfusion as UC flare up,CCAM,Transfusion de concentré de globules rouges d-un volume supérieur à une demimasse sanguine- au cours d-une intervention sous anesthésie générale ou locorégionale) ,"","",possible,TP,BLOODTRANSFUSIONUC,AESI,FELF001,FELF001
+Blood transfusion as UC flare up,CCAM,Transfusion de concentré de globules rouges- à domicile),"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,FELF008,FELF008
+Blood transfusion as UC flare up,CCAM,Transfusion de concentré de globules rouges d-un volume inférieur à une demimasse sanguine) ,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,FELF011,FELF011
+Blood transfusion as UC flare up,CCAM,Séance d-érythraphérèse thérapeutique avec transfusion de globules rouges [échange érythrocytaire],"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,FEPF003,FEPF003
+Blood transfusion as UC flare up,ICD9PROC,Transfusion of blood and blood components,C0371802,Transfusion- blood or blood components,narrow,TP,BLOODTRANSFUSIONUC,AESI,99.0,99.0
+Blood transfusion as UC flare up,ICD9PROC,Transfusion of platelets,C0086818,Platelet Transfusion,narrow,TP,BLOODTRANSFUSIONUC,AESI,99.05,99.05
+Blood transfusion as UC flare up,ICD9PROC,Blood transfusion- without reported diagnosis,C0260780,Encounter due to blood transfusion- without reported diagnosis,narrow,TP,BLOODTRANSFUSIONUC,AESI,V58.2,V58.2
+Blood transfusion as UC flare up,PROCDA,Behandling med blodtransfusion,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQA,BOQA
+Blood transfusion as UC flare up,PROCDA,Blodtransfusion,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQA0,BOQA0
+Blood transfusion as UC flare up,PROCDA,Blodtransfusion op til 1 liter,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQA00,BOQA00
+Blood transfusion as UC flare up,PROCDA,Blodtransfusion op til 3 liter,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQA01,BOQA01
+Blood transfusion as UC flare up,PROCDA,Blodtransfusion op til 5 liter,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQA02,BOQA02
+Blood transfusion as UC flare up,PROCDA,Blodtransfusion op til 7 liter,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQA03,BOQA03
+Blood transfusion as UC flare up,PROCDA,Blodtransfusion op til 9 liter,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQA04,BOQA04
+Blood transfusion as UC flare up,PROCDA,Blodtransfusion over 9 liter,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQA05,BOQA05
+Blood transfusion as UC flare up,PROCDA,Behandling med erytrocytter,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQB,BOQB
+Blood transfusion as UC flare up,PROCDA,Behandling med erytrocytsuspension,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQB0,BOQB0
+Blood transfusion as UC flare up,PROCDA,Behandling med frosset- optøet erytrocytsuspension,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQB00,BOQB00
+Blood transfusion as UC flare up,PROCDA,Behandling med bestrålet erytrocytsuspension,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQB02,BOQB02
+Blood transfusion as UC flare up,PROCDA,Behandling med vasket erytrocytsuspension,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQB1,BOQB1
+Blood transfusion as UC flare up,PROCDA,Behandling med vasket- bestrålet erytrocytsuspension,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQB10,BOQB10
+Blood transfusion as UC flare up,PROCDA,Behandling med leukocytdepleteret (filtreret) erytrocytsuspension,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQB2,BOQB2
+Blood transfusion as UC flare up,PROCDA,Behandling med leukocytdepleteret (filtreret)- bestrålet erytrocytsuspension,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQB20,BOQB20
+Blood transfusion as UC flare up,PROCDA,Behandling med andre erytrocytprodukter,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQB3,BOQB3
+Blood transfusion as UC flare up,PROCDA,Behandling med erytrocytkoncentrat,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQB30,BOQB30
+Blood transfusion as UC flare up,PROCDA,Anden erytrocytbehandling,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQB7,BOQB7
+Blood transfusion as UC flare up,PROCDA,Erytrocytbehandling med fuldblod,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQB70,BOQB70
+Blood transfusion as UC flare up,PROCDA,Erytrocytbehandling med frisktappet fuldblod,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQB71,BOQB71
+Blood transfusion as UC flare up,PROCDA,Behandling med trombocytter,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQC,BOQC
+Blood transfusion as UC flare up,PROCDA,Behandling med puljet trombocytkoncentrat,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQC0,BOQC0
+Blood transfusion as UC flare up,PROCDA,Behandling med bestrålet puljet trombocytkoncentrat,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQC00,BOQC00
+Blood transfusion as UC flare up,PROCDA,Behandling med leukocytdepleteret (filtreret) puljet trombocytkoncentrat,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQC01,BOQC01
+Blood transfusion as UC flare up,PROCDA,Behandling med leukocytdepleteret (filtreret) bestrålet puljet trombocytkoncentrat,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQC02,BOQC02
+Blood transfusion as UC flare up,PROCDA,Behandling med trombocytkoncentrat fra enkelt donor,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQC1,BOQC1
+Blood transfusion as UC flare up,PROCDA,Behandling med leukocytdepleteret (filtreret) trombocytkoncentrat fra enkelt donor,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQC10,BOQC10
+Blood transfusion as UC flare up,PROCDA,Behandling med bestrålet trombocytkoncentrat fra enkelt donor,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQC11,BOQC11
+Blood transfusion as UC flare up,PROCDA,Behandling med leukocytdepleteret (filtreret) bestrålet trombocytkoncentrat fra enkelt donor,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQC12,BOQC12
+Blood transfusion as UC flare up,PROCDA,Behandling med trombocytkoncentrat fremstillet på celleseparator,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQC2,BOQC2
+Blood transfusion as UC flare up,PROCDA,Behandling med leukocytdepleteret (filtreret) trombocytkoncentrat fremstillet på celleseparator,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQC20,BOQC20
+Blood transfusion as UC flare up,PROCDA,Behandling med bestrålet trombocytkoncentrat fremstillet på celleseparator,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQC21,BOQC21
+Blood transfusion as UC flare up,PROCDA,Behandling med leukocytdepleteret (filtreret) bestrålet trom-bocytkoncentrat fremstillet på celleseparator,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQC22,BOQC22
+Blood transfusion as UC flare up,PROCDA,Behandling med andet trombocytprodukt,"","",narrow,TP,BLOODTRANSFUSIONUC,AESI,BOQC3,BOQC3
+Colectomy in Ulcerative colitis,CCAM,Total colectomy with preservation of the rectum- with ileorectal anastomosis- by laparoscopy or by laparotomy with laparoscopic preparation,"","",narrow,TP,COLECTOMY,AESI,HHFA004,HHFA004
+Colectomy in Ulcerative colitis,CCAM,Total colectomy with preservation of the rectum- without restoration of continuity- by laparoscopy or by laparotomy with laparoscopic preparation,"","",narrow,TP,COLECTOMY,AESI,HHFA005,HHFA005
+Colectomy in Ulcerative colitis,CCAM,Total colectomy with preservation of the rectum- without restoration of continuity- by laparoscopy or by laparotomy with laparoscopic preparation,"","",narrow,TP,COLECTOMY,AESI,HHFA021,HHFA021
+Debridement as flare of EN,CCAM,Parage secondaire de lésion traumatique ou infectieuse de la peau et des tissus mous- sous anesthésie générale ou locorégionale,"","",possible,TP,DEBRIDEMENTEN,AESI,QZJA013,QZJA013
+Debridement as flare of EN,CCAM,Parage et-ou suture de plusieurs plaies pulpo-unguéales,"","",narrow,TP,DEBRIDEMENTEN,AESI,QZJA021,QZJA021
+Debridement as flare of EN,CCAM,Parage et-ou suture d-une plaie pulpo-unguéale,"","",narrow,TP,DEBRIDEMENTEN,AESI,QZJA022,QZJA022
+Debridement as flare of EN,ICD9PROC,Attention to dressings and sutures,C1719694,Attention to dressings and sutures,narrow,TP,DEBRIDEMENTEN,AESI,V58.3,V58.3
+Debridement as flare of EN,ICD9PROC,Encounter for change or removal of nonsurgical wound dressing,C1719690,Encounter for change or removal of nonsurgical wound dressing,narrow,TP,DEBRIDEMENTEN,AESI,V58.30,V58.30
+Proctocolectomy in UC flare up,CCAM,Total coloproctectomy without restoration of continuity- by laparoscopy or by laparotomy with laparoscopic preparation,"","",narrow,TP,PROCTOCOLECTOMY,AESI,HHFA030,HHFA030
+Radioiodine ablation therapy,CCAM,Irradiation interne de la glande thyroïde par administration d-iode 131 à une dose inférieure ou égale à 1 gigabecquerel [GBq],"","",narrow,TP,RADIOIODINEABLA,AESI,KCNL003,KCNL003
+Radioiodine ablation therapy,CCAM,Irradiation interne de la glande thyroïde par administration d-iode 131 à une dose supérieure à 1 gigabecquerel [GBq],"","",narrow,TP,RADIOIODINEABLA,AESI,KCNL004,KCNL004
+Radioiodine ablation therapy,PROCDA,Isotopterapi med I-131,"","",narrow,TP,RADIOIODINEABLA,AESI,BWGG1,BWGG1
+Radioiodine ablation therapy,PROCDA,Isotopterapi med I-131- lavdosis,"","",narrow,TP,RADIOIODINEABLA,AESI,BWGG1A,BWGG1A
+Radioiodine ablation therapy,PROCDA,Isotopterapi med I-131- højdosis,"","",possible,TP,RADIOIODINEABLA,AESI,BWGG1B,BWGG1B
+Restorative proctocolectomy as flare of UC,CCAM,Total colectomy with conservation of the rectum- with ileorectal anastomosis- by laparotomy,"","",narrow,TP,RESTRPROCTOCOLECUC,AESI,HHFA022,HHFA022
+Restorative proctocolectomy as flare of UC,CCAM,Secondary laparotomy proctectomy with transanal ileoanal anastomosis- after initial total colectomy,"","",narrow,TP,RESTRPROCTOCOLECUC,AESI,HHFA028,HHFA028
+Restorative proctocolectomy as flare of UC,CCAM,Total coloproctectomy with ileoanal anastomosis- by laparotomy,"","",narrow,TP,RESTRPROCTOCOLECUC,AESI,HHFA029,HHFA029
+Restorative proctocolectomy as flare of UC,CCAM,Total coloproctectomy with ileoanal anastomosis- by laparoscopy or by laparotomy with laparoscopic preparation,"","",narrow,TP,RESTRPROCTOCOLECUC,AESI,HHFA031,HHFA031
+Restorative proctocolectomy as flare of UC,ICD9PROC,Intestinal anastomosis,C0192711,Anastomosis of intestine,possible,TP,RESTRPROCTOCOLECUC,AESI,45.9,45.9
+Restorative proctocolectomy as flare of UC,ICD9PROC,Intestinal anastomosis- not otherwise specified,C0192711,Anastomosis of intestine,possible,TP,RESTRPROCTOCOLECUC,AESI,45.90,45.90
+Restorative proctocolectomy as flare of UC,ICD9PROC,Anastomosis to anus,C0176809,Anastomosis to anus,narrow,TP,RESTRPROCTOCOLECUC,AESI,45.95,45.95
+Thyroidectomy in Graves,CCAM,Lobectomie unilatérale de la glande thyroïde- par cervicotomie,"","",narrow,TP,THYROIDECTOMY,AESI,KCFA001,KCFA001
+Thyroidectomy in Graves,CCAM,Thyroïdectomie totale avec résection partielle de cartilage du larynx- par cervicotomie,"","",narrow,TP,THYROIDECTOMY,AESI,KCFA002,KCFA002
+Thyroidectomy in Graves,CCAM,Thyroïdectomie totale avec résection non interruptrice de la trachée- par cervicotomie,"","",narrow,TP,THYROIDECTOMY,AESI,KCFA003,KCFA003
+Thyroidectomy in Graves,CCAM,Isthmectomie de la glande thyroïde- par cervicotomie,"","",narrow,TP,THYROIDECTOMY,AESI,KCFA004,KCFA004
+Thyroidectomy in Graves,CCAM,Thyroïdectomie totale- par cervicotomie,"","",narrow,TP,THYROIDECTOMY,AESI,KCFA005,KCFA005
+Thyroidectomy in Graves,CCAM,Thyroïdectomie totale avec résection interruptrice et anastomose de la trachée- par cervicotomie,"","",narrow,TP,THYROIDECTOMY,AESI,KCFA006,KCFA006
+Thyroidectomy in Graves,CCAM,Thyroïdectomie totale- par cervicothoracotomie,"","",narrow,TP,THYROIDECTOMY,AESI,KCFA007,KCFA007
+Thyroidectomy in Graves,CCAM,Lobo-isthmectomie unilatérale de la glande thyroïde- par cervicotomie,"","",narrow,TP,THYROIDECTOMY,AESI,KCFA008,KCFA008
+Thyroidectomy in Graves,CCAM,Thyroïdectomie subtotale- par cervicothoracotomie,"","",narrow,TP,THYROIDECTOMY,AESI,KCFA009,KCFA009
+Thyroidectomy in Graves,CCAM,Thyroïdectomie subtotale- par cervicotomie,"","",narrow,TP,THYROIDECTOMY,AESI,KCFA010,KCFA010
+Transplant recipient,CCAM,Créationd-unnéovaginpartransplantationintestinale-parlaparotomie,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,JLMA004,JLMA004
+Transplant recipient,CCAM,Exérèsed-ungreffondetransplantationducoeuravecposed-uneassistancecirculatoiremécaniquebiventriculaireinterne-parthoracotomieavecC,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,DZFA004,DZFA004
+Transplant recipient,CCAM,Kératoplastielamellaireavecconjonctivoplastie[Transplantationcornéoconjonctivale,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BDMA900,BDMA900
+Transplant recipient,CCAM,Kératoplastielamellaireprofonde[Transplantationcornéennelamellaire],"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BDMA002,BDMA002
+Transplant recipient,CCAM,Kératoplastietransfixiante[Transplantationcornéennetransfixiante],"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BDMA008,BDMA008
+Transplant recipient,CCAM,Kératoplastietransfixiante[Transplantationcornéennetransfixiante]-avecextractionextracapsulaireducristallin,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BDMA003,BDMA003
+Transplant recipient,CCAM,Transplantation du rein,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,JAEA003,JAEA003
+Transplant recipient,CCAM,Transplantationbipulmonaire-parthoracotomieavecCEC,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,GFEA006,GFEA006
+Transplant recipient,CCAM,Transplantationd-intestingrêle-parlaparotomie,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,HGEA005,HGEA005
+Transplant recipient,CCAM,Transplantationd-intestingrêleetdefoieréduit-parlaparotomie,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,HGEA002,HGEA002
+Transplant recipient,CCAM,Transplantationd-intestingrêleetdefoietotal-parlaparotomie,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,HGEA004,HGEA004
+Transplant recipient,CCAM,Transplantationd-unpoumon-parthoracotomieavecCEC,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,GFEA007,GFEA007
+Transplant recipient,CCAM,Transplantationd-unpoumon-parthoracotomiesansCEC,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,GFEA003,GFEA003
+Transplant recipient,CCAM,Transplantationd-îlotspancréatiques-parinjectiondanslaveineporteparvoietranscutanéeavecguidageradiologique,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,HNEH900,HNEH900
+Transplant recipient,CCAM,Transplantationd-îlotspancréatiquespardispositifimplanté-parlaparotomie,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,HNEA740,HNEA740
+Transplant recipient,CCAM,Transplantationd-îlotspancréatiquesparvoieintraportaletranshépatiquetranscutanéeavecguidageradiologique,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,HNEH606,HNEH606
+Transplant recipient,CCAM,Transplantationde201greffonsdecuirchevelu-ouplus,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,QAEA007,QAEA007
+Transplant recipient,CCAM,Transplantationde50à200greffonsdecuirchevelu,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,QAEA005,QAEA005
+Transplant recipient,CCAM,Transplantationdefoieréduit,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,HLEA002,HLEA002
+Transplant recipient,CCAM,Transplantationdefoietotal,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,HLEA001,HLEA001
+Transplant recipient,CCAM,Transplantationdelobepulmonaire-parthoracotomieavecCEC,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,GFEA002,GFEA002
+Transplant recipient,CCAM,Transplantationdelobepulmonaire-parthoracotomiesansCEC,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,GFEA005,GFEA005
+Transplant recipient,CCAM,Transplantationdemoinsde50greffonsdecuirchevelu,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,QAEA001,QAEA001
+Transplant recipient,CCAM,Transplantationdubloccoeur-poumons-parthoracotomieavecCEC,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,DZEA004,DZEA004
+Transplant recipient,CCAM,Transplantationdupancréas-parlaparotomie,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,HNEA900,HNEA900
+Transplant recipient,CCAM,Transplantationdupancréasetdurein-parlaparotomie,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,HNEA002,HNEA002
+Transplant recipient,CCAM,Transplantationdupiedàlacuisseavecconservationdespédiculesvasculonerveux,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,NZEA003,NZEA003
+Transplant recipient,CCAM,Transplantationdurein,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,JAEA003,JAEA003
+Transplant recipient,CCAM,Transplantationexceptionnelledetissusetd-organe,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,ZZEA800,ZZEA800
+Transplant recipient,CCAM,Transplantationhétérotopiqueducoeur-parthoracotomieavecCEC,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,DZEA003,DZEA003
+Transplant recipient,CCAM,Transplantationitérativeducoeur-parthoracotomieavecCEC,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,DZEA001,DZEA001
+Transplant recipient,CCAM,Transplantationorthotopiqueducoeur-parthoracotomieavecCEC,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,DZEA002,DZEA002
+Transplant recipient,CCAM,Transplantationséquentielledes2poumons-parthoracotomieavecCEC,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,GFEA001,GFEA001
+Transplant recipient,CCAM,Transplantationséquentielledes2poumons-parthoracotomiesansCEC,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,GFEA004,GFEA004
+Transplant recipient,GHM,Allogeneic hematopoietic stem cell transplants,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,27Z02Z,27Z02Z
+Transplant recipient,GHM,Autografts of hematopoietic stem cells,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,27Z03Z,27Z03Z
+Transplant recipient,GHM,Heart transplants,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,27C05Z,27C05Z
+Transplant recipient,GHM,Kidney transplants,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,27C06Z,27C06Z
+Transplant recipient,GHM,Liver transplants,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,27C02Z,27C02Z
+Transplant recipient,GHM,Lung transplants,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,27C04Z,27C04Z
+Transplant recipient,GHM,Pancreas transplants,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,27C03Z,27C03Z

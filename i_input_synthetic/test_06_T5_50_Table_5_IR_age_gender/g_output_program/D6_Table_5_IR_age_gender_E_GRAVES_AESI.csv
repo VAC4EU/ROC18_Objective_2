@@ -1,0 +1,41 @@
+Characteristics,Gender,Ageband,Datasource TEST,Datasource TEST2
+Number of persons who develop a first flare-up episode,F,,< 5,< 5
+Number of persons who develop a first flare-up episode,M,,0,0
+Number of persons who develop a first flare-up episode,,0-17,,
+Number of persons who develop a first flare-up episode,,18-59,,
+Number of persons who develop a first flare-up episode,,60+,,
+"IR of first flare-up episode, per 1,000 PY (CI 95%)",F,,20841.7,20841.7
+"IR of first flare-up episode, per 1,000 PY (CI 95%)",M,,0,0
+"IR of first flare-up episode, per 1,000 PY (CI 95%)",,0-17,NA,NA
+"IR of first flare-up episode, per 1,000 PY (CI 95%)",,18-59,NA,NA
+"IR of first flare-up episode, per 1,000 PY (CI 95%)",,60+,NA,NA
+Number of persons still in the study 90 days after first flare,F,,< 5,< 5
+Number of persons still in the study 90 days after first flare,M,,,
+Number of persons still in the study 90 days after first flare,,0-17,,
+Number of persons still in the study 90 days after first flare,,18-59,,
+Number of persons still in the study 90 days after first flare,,60+,,
+Number of persons who develop a second flare-up episode,F,,< 5,< 5
+Number of persons who develop a second flare-up episode,M,,,
+Number of persons who develop a second flare-up episode,,0-17,,
+Number of persons who develop a second flare-up episode,,18-59,,
+Number of persons who develop a second flare-up episode,,60+,,
+"IR of second flare-up episode, per 1,000 PY PY (CI 95%)",F,,59487,59487
+"IR of second flare-up episode, per 1,000 PY PY (CI 95%)",M,,NA,NA
+"IR of second flare-up episode, per 1,000 PY PY (CI 95%)",,0-17,NA,NA
+"IR of second flare-up episode, per 1,000 PY PY (CI 95%)",,18-59,NA,NA
+"IR of second flare-up episode, per 1,000 PY PY (CI 95%)",,60+,NA,NA
+Number of persons still in the study 90 days after second flare,F,,< 5,< 5
+Number of persons still in the study 90 days after second flare,M,,,
+Number of persons still in the study 90 days after second flare,,0-17,,
+Number of persons still in the study 90 days after second flare,,18-59,,
+Number of persons still in the study 90 days after second flare,,60+,,
+Number of persons who develop a third flare-up episode,F,,< 5,< 5
+Number of persons who develop a third flare-up episode,M,,,
+Number of persons who develop a third flare-up episode,,0-17,,
+Number of persons who develop a third flare-up episode,,18-59,,
+Number of persons who develop a third flare-up episode,,60+,,
+"IR of third flare-up episode, per 1,000 PY PY (CI 95%)",F,,195320.9,195320.9
+"IR of third flare-up episode, per 1,000 PY PY (CI 95%)",M,,NA,NA
+"IR of third flare-up episode, per 1,000 PY PY (CI 95%)",,0-17,NA,NA
+"IR of third flare-up episode, per 1,000 PY PY (CI 95%)",,18-59,NA,NA
+"IR of third flare-up episode, per 1,000 PY PY (CI 95%)",,60+,NA,NA

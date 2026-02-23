@@ -1,0 +1,11 @@
+Exclusion criteria,Datasource TEST
+Total persons in the data instance,"8,861"
+"Sex or birth year missing or absurd or no dates of entry or exit, or incomplete date of death or birth, or observation period too short",236 (2.7%)
+Exit from data source before 1 Jan 2017,181
+No disease codes identified after study entry,"8,435 (95.2%)"
+Disease codes found during lookback,0 (0%)
+Other criteria suggesting the disease is present during lookback,0 (0%)
+Total cohort of  Graves' disease,9 (0.1%)
+Persons dying before entrance in the follow-up,< 5
+Persons leaving alive the cohort before entering the follow-up (censoring),0 (0%)
+Persons entering follow-up,7 (0.1%)

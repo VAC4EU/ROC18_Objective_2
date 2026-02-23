@@ -1,0 +1,30 @@
+Steps in ablation analysis,Datasource TEST
+"Subjects with at least one disease diagnosis during study period, Main, n",9
+"Subjects with at least one disease diagnosis during study period, Ablation analysis keeping PC, n (%)",9 (100%)
+"Subjects with at least one disease diagnosis during study period, Ablation analysis keeping Inpatient and medicines, n (%)",9 (100%)
+"Subjects with at least one disease diagnosis during study period, Ablation analysis keeping Inpatient, specialist and medicines, n (%)",
+"At least one disease diagnosis during look-back, Main, n",0
+"At least one disease diagnosis during look-back, Ablation analysis keeping PC, n",0
+"At least one disease diagnosis during look-back, Ablation analysis keeping Inpatient and medicines, n",0
+"At least one disease diagnosis during look-back, Ablation analysis keeping Inpatient, specialist and medicines, n",
+"Additional exclusion criterion, Main, n",0
+"Additional exclusion criterion, Ablation analysis keeping PC, n",0
+"Additional exclusion criterion, Ablation analysis keeping Inpatient and medicines, n",0
+"Additional exclusion criterion, Ablation analysis keeping Inpatient, specialist and medicines, n",
+"Subjects included in the study cohort, Main, n",9
+"Subjects included in the study cohort, Ablation analysis keeping PC, n",9
+"Subjects included in the study cohort, only in main and not in PC, n (%)",0 (0%)
+"Subjects in both main and PC, n (%)",0 (0%)
+"Subjects included in the study cohort, Ablation analysis keeping Inpatient and medicines, n",9
+"Subjects included in the study cohort, only in main and not in Inpatient and medicines, n (%)",0 (0%)
+"Subjects in both main and Inpatient and medicines, n (%)",0 (0%)
+"Subjects included in the study cohort, Ablation analysis keeping Inpatient, specialist and medicines, n",
+"Subjects included in the study cohort, only in main and not in Inpatient, specialist and medicines, n (%)",
+"Subjects in both main and Inpatient, specialist and medicines, n (%)",
+"Days from start of study period (1/1/2017) and first disease diagnosis (cohort entry) in the main analysis, median (IQ range)",827 (153-1382)
+"Days from start of study period (1/1/2017) and first disease diagnosis (cohort entry), in the ablation analysis keeping PC median (IQ range)",827 (153-1382)
+"Days from start of study period (1/1/2017) and first disease diagnosis (cohort entry), in the ablation analysis keeping Inpatient and medicines median (IQ range)",827 (153-1382)
+"Days from start of study period (1/1/2017) and first disease diagnosis (cohort entry), in the ablation analysis keeping Inpatient, specialist and medicines median (IQ range)",NA (NA-NA)
+"Difference between cohort entry date in the main cohort and in the ablation analysis keeping PC, median (IQ range)",0 (0-0)
+"Difference between cohort entry date in the main cohort and in the ablation analysis keeping Inpatient and medicines, median (IQ range)",0 (0-0)
+"Difference between cohort entry date in the main cohort and in the ablation analysis keeping Inpatient, specialist and medicines, median (IQ range)",NA (NA-NA)

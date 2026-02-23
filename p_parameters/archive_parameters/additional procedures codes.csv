@@ -1,0 +1,433 @@
+event_definition,coding_system,code_name,concept,concept_name,tags,system,event_abbreviation,type,code_issue_dot,code
+Blood transfusion as UC flare up,ICD10,Administration @ Circulatory @ Transfusion @ Peripheral Vein @ Percutaneous @ Red Blood Cells,C2490133,Administration @ Circulatory @ Transfusion @ Peripheral Vein @ Percutaneous @ Red Blood Cells,narrow,TP,BLOODTRANSFUSIONUC,AESI,30233N,302.33N
+Blood transfusion as UC flare up,ICD10,Transfusion of Nonautologous Red Blood Cells into Peripheral Vein- Percutaneous Approach,C2452670,Transfusion of Nonautologous Red Blood Cells into Peripheral Vein- Percutaneous Approach,narrow,TP,BLOODTRANSFUSIONUC,AESI,30233N1,302.33N1
+Blood transfusion as UC flare up,ICD10,Administration @ Circulatory @ Transfusion @ Peripheral Vein @ Percutaneous @ Red Blood Cells,C2490133,Administration @ Circulatory @ Transfusion @ Peripheral Vein @ Percutaneous @ Red Blood Cells,narrow,TP,BLOODTRANSFUSIONUC,AESI,30233N,302.33N
+Blood transfusion as UC flare up,ICD10,Transfusion of Nonautologous Red Blood Cells into Peripheral Vein- Percutaneous Approach,C2452670,Transfusion of Nonautologous Red Blood Cells into Peripheral Vein- Percutaneous Approach,narrow,TP,BLOODTRANSFUSIONUC,AESI,30233N1,302.33N1
+Colectomy in Ulcerative colitis,ICD10,Resection of Ascending Colon- Open Approach,C2409595,Resection of Ascending Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTK0ZZ,0DT.K0ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Ascending Colon- Percutaneous Endoscopic Approach,C2409597,Resection of Ascending Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTK4ZZ,0DT.K4ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Ascending Colon- Via Natural or Artificial Opening,C2409598,Resection of Ascending Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTK7ZZ,0DT.K7ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Ascending Colon- Via Natural or Artificial Opening Endoscopic,C2409599,Resection of Ascending Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTK8ZZ,0DT.K8ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Transverse Colon- Open Approach,C2409600,Resection of Transverse Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTL0ZZ,0DT.L0ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Transverse Colon- Percutaneous Endoscopic Approach,C2409602,Resection of Transverse Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTL4ZZ,0DT.L4ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Transverse Colon- Via Natural or Artificial Opening,C2409603,Resection of Transverse Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTL7ZZ,0DT.L7ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Transverse Colon- Via Natural or Artificial Opening Endoscopic,C2409604,Resection of Transverse Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTL8ZZ,0DT.L8ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Transverse Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,C4498031,Resection of Transverse Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,narrow,TP,COLECTOMY,AESI,0DTLFZZ,0DT.LFZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Descending Colon- Open Approach,C2409605,Resection of Descending Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTM0ZZ,0DT.M0ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Descending Colon- Percutaneous Endoscopic Approach,C2409607,Resection of Descending Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTM4ZZ,0DT.M4ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Descending Colon- Via Natural or Artificial Opening,C2409608,Resection of Descending Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTM7ZZ,0DT.M7ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Descending Colon- Via Natural or Artificial Opening Endoscopic,C2409609,Resection of Descending Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTM8ZZ,0DT.M8ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Descending Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,C4498034,Resection of Descending Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,narrow,TP,COLECTOMY,AESI,0DTMFZZ,0DT.MFZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Sigmoid Colon- Open Approach,C2409610,Resection of Sigmoid Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTN0ZZ,0DT.N0ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Sigmoid Colon- Percutaneous Endoscopic Approach,C2409612,Resection of Sigmoid Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTN4ZZ,0DT.N4ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Sigmoid Colon- Via Natural or Artificial Opening,C2409613,Resection of Sigmoid Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTN7ZZ,0DT.N7ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Sigmoid Colon- Via Natural or Artificial Opening Endoscopic,C2409614,Resection of Sigmoid Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTN8ZZ,0DT.N8ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Sigmoid Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,C4498037,Resection of Sigmoid Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,narrow,TP,COLECTOMY,AESI,0DTNFZZ,0DT.NFZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Ascending Colon- Open Approach,C2409595,Resection of Ascending Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTK0ZZ,0DT.K0ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Ascending Colon- Percutaneous Endoscopic Approach,C2409597,Resection of Ascending Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTK4ZZ,0DT.K4ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Ascending Colon- Via Natural or Artificial Opening,C2409598,Resection of Ascending Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTK7ZZ,0DT.K7ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Ascending Colon- Via Natural or Artificial Opening Endoscopic,C2409599,Resection of Ascending Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTK8ZZ,0DT.K8ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Transverse Colon- Open Approach,C2409600,Resection of Transverse Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTL0ZZ,0DT.L0ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Transverse Colon- Percutaneous Endoscopic Approach,C2409602,Resection of Transverse Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTL4ZZ,0DT.L4ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Transverse Colon- Via Natural or Artificial Opening,C2409603,Resection of Transverse Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTL7ZZ,0DT.L7ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Transverse Colon- Via Natural or Artificial Opening Endoscopic,C2409604,Resection of Transverse Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTL8ZZ,0DT.L8ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Transverse Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,C4498031,Resection of Transverse Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,narrow,TP,COLECTOMY,AESI,0DTLFZZ,0DT.LFZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Descending Colon- Open Approach,C2409605,Resection of Descending Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTM0ZZ,0DT.M0ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Descending Colon- Percutaneous Endoscopic Approach,C2409607,Resection of Descending Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTM4ZZ,0DT.M4ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Descending Colon- Via Natural or Artificial Opening,C2409608,Resection of Descending Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTM7ZZ,0DT.M7ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Descending Colon- Via Natural or Artificial Opening Endoscopic,C2409609,Resection of Descending Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTM8ZZ,0DT.M8ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Descending Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,C4498034,Resection of Descending Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,narrow,TP,COLECTOMY,AESI,0DTMFZZ,0DT.MFZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Sigmoid Colon- Open Approach,C2409610,Resection of Sigmoid Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTN0ZZ,0DT.N0ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Sigmoid Colon- Percutaneous Endoscopic Approach,C2409612,Resection of Sigmoid Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTN4ZZ,0DT.N4ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Sigmoid Colon- Via Natural or Artificial Opening,C2409613,Resection of Sigmoid Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTN7ZZ,0DT.N7ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Sigmoid Colon- Via Natural or Artificial Opening Endoscopic,C2409614,Resection of Sigmoid Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTN8ZZ,0DT.N8ZZ
+Colectomy in Ulcerative colitis,ICD10,Resection of Sigmoid Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,C4498037,Resection of Sigmoid Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,narrow,TP,COLECTOMY,AESI,0DTNFZZ,0DT.NFZZ
+Radioiodine ablation therapy,ICD10,Nonimaging Nuclear Medicine Uptake of Thyroid Gland using Iodine 131 (I-131),C2457332,Nonimaging Nuclear Medicine Uptake of Thyroid Gland using Iodine 131 (I-131),narrow,TP,RADIOIODINEABLA,AESI,CG42GZZ,CG4.2GZZ
+Radioiodine ablation therapy,ICD10,Systemic Nuclear Medicine Therapy of Thyroid using Iodine 131 (I-131),C2457612,Systemic Nuclear Medicine Therapy of Thyroid using Iodine 131 (I-131),narrow,TP,RADIOIODINEABLA,AESI,CW7GGZZ,CW7.GGZZ
+Radioiodine ablation therapy,ICD10,Nonimaging Nuclear Medicine Uptake of Thyroid Gland using Iodine 131 (I-131),C2457332,Nonimaging Nuclear Medicine Uptake of Thyroid Gland using Iodine 131 (I-131),narrow,TP,RADIOIODINEABLA,AESI,CG42GZZ,CG4.2GZZ
+Radioiodine ablation therapy,ICD10,Systemic Nuclear Medicine Therapy of Thyroid using Iodine 131 (I-131),C2457612,Systemic Nuclear Medicine Therapy of Thyroid using Iodine 131 (I-131),narrow,TP,RADIOIODINEABLA,AESI,CW7GGZZ,CW7.GGZZ
+Restorative proctocolectomy as flare of UC,ICD10,Medical and Surgical @ Gastrointestinal System @ Bypass @ Ileum @ Open @ No Device,C2516473,Medical and Surgical @ Gastrointestinal System @ Bypass @ Ileum @ Open @ No Device,narrow,TP,RESTRPROCTOCOLECUC,AESI,0D1B0Z,0D1.B0Z
+Restorative proctocolectomy as flare of UC,ICD10,Bypass Ileum to Anus- Open Approach,C2405380,Bypass Ileum to Anus- Open Approach,narrow,TP,RESTRPROCTOCOLECUC,AESI,0D1B0ZQ,0D1.B0ZQ
+Restorative proctocolectomy as flare of UC,ICD10,Medical and Surgical @ Gastrointestinal System @ Bypass @ Ileum @ Open @ No Device,C2516473,Medical and Surgical @ Gastrointestinal System @ Bypass @ Ileum @ Open @ No Device,narrow,TP,RESTRPROCTOCOLECUC,AESI,0D1B0Z,0D1.B0Z
+Restorative proctocolectomy as flare of UC,ICD10,Bypass Ileum to Anus- Open Approach,C2405380,Bypass Ileum to Anus- Open Approach,narrow,TP,RESTRPROCTOCOLECUC,AESI,0D1B0ZQ,0D1.B0ZQ
+Thyroidectomy in Graves,ICD10,Resection of Left Thyroid Gland Lobe- Open Approach,C2413531,Resection of Left Thyroid Gland Lobe- Open Approach,narrow,TP,THYROIDECTOMY,AESI,0GTG0ZZ,0GT.G0ZZ
+Thyroidectomy in Graves,ICD10,Resection of Left Thyroid Gland Lobe- Percutaneous Endoscopic Approach,C2413532,Resection of Left Thyroid Gland Lobe- Percutaneous Endoscopic Approach,narrow,TP,THYROIDECTOMY,AESI,0GTG4ZZ,0GT.G4ZZ
+Thyroidectomy in Graves,ICD10,Resection of Right Thyroid Gland Lobe- Open Approach,C2413533,Resection of Right Thyroid Gland Lobe- Open Approach,narrow,TP,THYROIDECTOMY,AESI,0GTH0ZZ,0GT.H0ZZ
+Thyroidectomy in Graves,ICD10,Resection of Right Thyroid Gland Lobe- Percutaneous Endoscopic Approach,C2413534,Resection of Right Thyroid Gland Lobe- Percutaneous Endoscopic Approach,narrow,TP,THYROIDECTOMY,AESI,0GTH4ZZ,0GT.H4ZZ
+Thyroidectomy in Graves,ICD10,Resection of Thyroid Gland- Open Approach,C2413535,Resection of Thyroid Gland- Open Approach,narrow,TP,THYROIDECTOMY,AESI,0GTK0ZZ,0GT.K0ZZ
+Thyroidectomy in Graves,ICD10,Resection of Left Thyroid Gland Lobe- Open Approach,C2413531,Resection of Left Thyroid Gland Lobe- Open Approach,narrow,TP,THYROIDECTOMY,AESI,0GTG0ZZ,0GT.G0ZZ
+Thyroidectomy in Graves,ICD10,Resection of Left Thyroid Gland Lobe- Percutaneous Endoscopic Approach,C2413532,Resection of Left Thyroid Gland Lobe- Percutaneous Endoscopic Approach,narrow,TP,THYROIDECTOMY,AESI,0GTG4ZZ,0GT.G4ZZ
+Thyroidectomy in Graves,ICD10,Resection of Right Thyroid Gland Lobe- Open Approach,C2413533,Resection of Right Thyroid Gland Lobe- Open Approach,narrow,TP,THYROIDECTOMY,AESI,0GTH0ZZ,0GT.H0ZZ
+Thyroidectomy in Graves,ICD10,Resection of Right Thyroid Gland Lobe- Percutaneous Endoscopic Approach,C2413534,Resection of Right Thyroid Gland Lobe- Percutaneous Endoscopic Approach,narrow,TP,THYROIDECTOMY,AESI,0GTH4ZZ,0GT.H4ZZ
+Thyroidectomy in Graves,ICD10,Resection of Thyroid Gland- Open Approach,C2413535,Resection of Thyroid Gland- Open Approach,narrow,TP,THYROIDECTOMY,AESI,0GTK0ZZ,0GT.K0ZZ
+Transplant recipient,ICD10,Anatomical Regions- General- Transplantation,C4261202,Medical and Surgical @ Anatomical Regions- General @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,0WY,0WY
+Transplant recipient,ICD10,Anatomical Regions- Upper Extremities- Transplantation,C4261201,Medical and Surgical @ Anatomical Regions- Upper Extremities @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,0XY,0XY
+Transplant recipient,ICD10,Computerized Tomography (CT Scan) of Kidney Transplant using High Osmolar Contrast- Unenhanced and Enhanced,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT2900Z,BT2.900Z
+Transplant recipient,ICD10,Computerized Tomography (CT Scan) of Renal Artery Transplant using High Osmolar Contrast,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,B42M0ZZ,B42.M0ZZ
+Transplant recipient,ICD10,Female Reproductive System- Transplantation,C2392741,Medical and Surgical @ Female Reproductive System @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,0UY,0UY
+Transplant recipient,ICD10,Gastrointestinal System- Transplantation,C2547778,Medical and Surgical @ Gastrointestinal System @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,0DY,0DY
+Transplant recipient,ICD10,Heart and Great Vessels- Transplantation,C2513211,Medical and Surgical @ Heart and Great Vessels @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,02Y,02Y
+Transplant recipient,ICD10,Hepatobiliary System and Pancreas- Transplantation,C2564167,Medical and Surgical @ Hepatobiliary System and Pancreas @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,0FY,0FY
+Transplant recipient,ICD10,Imaging @ Lower Arteries @ Computerized Tomography (CT Scan) @ Renal Artery Transplant,C2501284,Imaging @ Lower Arteries @ Computerized Tomography (CT Scan) @ Renal Artery Transplant,narrow,TP,TRANSPLANTRECIPIENT,COV,B42M,B42.M
+Transplant recipient,ICD10,Imaging @ Lower Arteries @ Computerized Tomography (CT Scan) @ Renal Artery Transplant @ High Osmolar,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,B42M0,B42.M0
+Transplant recipient,ICD10,Imaging @ Lower Arteries @ Computerized Tomography (CT Scan) @ Renal Artery Transplant @ High Osmolar @ None,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,B42M0Z,B42.M0Z
+Transplant recipient,ICD10,Imaging @ Urinary System @ Computerized Tomography (CT Scan) @ Kidney Transplant,C2520838,Imaging @ Urinary System @ Computerized Tomography (CT Scan) @ Kidney Transplant,narrow,TP,TRANSPLANTRECIPIENT,COV,BT29,BT2.9
+Transplant recipient,ICD10,Imaging @ Urinary System @ Computerized Tomography (CT Scan) @ Kidney Transplant @ High Osmolar,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT290,BT2.90
+Transplant recipient,ICD10,Imaging @ Urinary System @ Computerized Tomography (CT Scan) @ Kidney Transplant @ High Osmolar @ Unenhanced and Enhanced,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT2900,BT2.900
+Transplant recipient,ICD10,Imaging @ Urinary System @ Magnetic Resonance Imaging (MRI) @ Kidney Transplant,C2520875,Imaging @ Urinary System @ Magnetic Resonance Imaging (MRI) @ Kidney Transplant,narrow,TP,TRANSPLANTRECIPIENT,COV,BT39,BT3.9
+Transplant recipient,ICD10,Imaging @ Urinary System @ Magnetic Resonance Imaging (MRI) @ Kidney Transplant @ Other Contrast,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT39Y,BT3.9Y
+Transplant recipient,ICD10,Imaging @ Urinary System @ Magnetic Resonance Imaging (MRI) @ Kidney Transplant @ Other Contrast @ Unenhanced and Enhanced,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT39Y0,BT3.9Y0
+Transplant recipient,ICD10,Imaging @ Urinary System @ Ultrasonography @ Kidney Transplant,C2520914,Imaging @ Urinary System @ Ultrasonography @ Kidney Transplant,narrow,TP,TRANSPLANTRECIPIENT,COV,BT49,BT4.9
+Transplant recipient,ICD10,Imaging @ Urinary System @ Ultrasonography @ Kidney Transplant @ None,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT49Z,BT4.9Z
+Transplant recipient,ICD10,Imaging @ Urinary System @ Ultrasonography @ Kidney Transplant @ None @ None,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT49ZZ,BT4.9ZZ
+Transplant recipient,ICD10,Lymphatic and Hemic Systems- Transplantation,C2461268,Medical and Surgical @ Lymphatic and Hemic Systems @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,07Y,07Y
+Transplant recipient,ICD10,Magnetic Resonance Imaging (MRI) of Kidney Transplant using Other Contrast- Unenhanced and Enhanced,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT39Y0Z,BT3.9Y0Z
+Transplant recipient,ICD10,Male Reproductive System- Transplantation,C5385920,Medical and Surgical @ Male Reproductive System @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,0VY,0VY
+Transplant recipient,ICD10,Medical and Surgical @ Anatomical Regions- General @ Transplantation @ Face,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0WY2,0WY.2
+Transplant recipient,ICD10,Medical and Surgical @ Anatomical Regions- General @ Transplantation @ Face @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0WY20,0WY.20
+Transplant recipient,ICD10,Medical and Surgical @ Anatomical Regions- General @ Transplantation @ Face @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0WY20Z,0WY.20Z
+Transplant recipient,ICD10,Medical and Surgical @ Anatomical Regions- Upper Extremities @ Transplantation @ Hand- Left,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0XYK,0XY.K
+Transplant recipient,ICD10,Medical and Surgical @ Anatomical Regions- Upper Extremities @ Transplantation @ Hand- Left @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0XYK0,0XY.K0
+Transplant recipient,ICD10,Medical and Surgical @ Anatomical Regions- Upper Extremities @ Transplantation @ Hand- Left @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0XYK0Z,0XY.K0Z
+Transplant recipient,ICD10,Medical and Surgical @ Female Reproductive System @ Transplantation @ Ovary- Right,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0UY0,0UY.0
+Transplant recipient,ICD10,Medical and Surgical @ Female Reproductive System @ Transplantation @ Ovary- Right @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0UY00,0UY.00
+Transplant recipient,ICD10,Medical and Surgical @ Female Reproductive System @ Transplantation @ Ovary- Right @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0UY00Z,0UY.00Z
+Transplant recipient,ICD10,Medical and Surgical @ Gastrointestinal System @ Transplantation @ Esophagus,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0DY5,0DY.5
+Transplant recipient,ICD10,Medical and Surgical @ Gastrointestinal System @ Transplantation @ Esophagus @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0DY50,0DY.50
+Transplant recipient,ICD10,Medical and Surgical @ Gastrointestinal System @ Transplantation @ Esophagus @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0DY50Z,0DY.50Z
+Transplant recipient,ICD10,Medical and Surgical @ Heart and Great Vessels @ Transplantation @ Heart,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,02YA,02Y.A
+Transplant recipient,ICD10,Medical and Surgical @ Heart and Great Vessels @ Transplantation @ Heart @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,02YA0,02Y.A0
+Transplant recipient,ICD10,Medical and Surgical @ Heart and Great Vessels @ Transplantation @ Heart @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,02YA0Z,02Y.A0Z
+Transplant recipient,ICD10,Medical and Surgical @ Hepatobiliary System and Pancreas @ Transplantation @ Liver,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0FY0,0FY.0
+Transplant recipient,ICD10,Medical and Surgical @ Hepatobiliary System and Pancreas @ Transplantation @ Liver @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0FY00,0FY.00
+Transplant recipient,ICD10,Medical and Surgical @ Hepatobiliary System and Pancreas @ Transplantation @ Liver @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0FY00Z,0FY.00Z
+Transplant recipient,ICD10,Medical and Surgical @ Lymphatic and Hemic Systems @ Transplantation @ Thymus,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,07YM,07Y.M
+Transplant recipient,ICD10,Medical and Surgical @ Lymphatic and Hemic Systems @ Transplantation @ Thymus @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,07YM0,07Y.M0
+Transplant recipient,ICD10,Medical and Surgical @ Lymphatic and Hemic Systems @ Transplantation @ Thymus @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,07YM0Z,07Y.M0Z
+Transplant recipient,ICD10,Medical and Surgical @ Male Reproductive System @ Transplantation @ Scrotum,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0VY5,0VY.5
+Transplant recipient,ICD10,Medical and Surgical @ Male Reproductive System @ Transplantation @ Scrotum @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0VY50,0VY.50
+Transplant recipient,ICD10,Medical and Surgical @ Male Reproductive System @ Transplantation @ Scrotum @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0VY50Z,0VY.50Z
+Transplant recipient,ICD10,Medical and Surgical @ Respiratory System @ Transplantation @ Upper Lung Lobe- Right,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0BYC,0BY.C
+Transplant recipient,ICD10,Medical and Surgical @ Respiratory System @ Transplantation @ Upper Lung Lobe- Right @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0BYC0,0BY.C0
+Transplant recipient,ICD10,Medical and Surgical @ Respiratory System @ Transplantation @ Upper Lung Lobe- Right @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0BYC0Z,0BY.C0Z
+Transplant recipient,ICD10,Medical and Surgical @ Urinary System @ Transplantation,C2583679,Medical and Surgical @ Urinary System @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,0TY,0TY
+Transplant recipient,ICD10,Medical and Surgical @ Urinary System @ Transplantation @ Kidney- Right,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0TY0,0TY.0
+Transplant recipient,ICD10,Medical and Surgical @ Urinary System @ Transplantation @ Kidney- Right @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0TY00,0TY.00
+Transplant recipient,ICD10,Medical and Surgical @ Urinary System @ Transplantation @ Kidney- Right @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0TY00Z,0TY.00Z
+Transplant recipient,ICD10,Transplantation of Esophagus- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0DY50Z0,0DY.50Z0
+Transplant recipient,ICD10,Transplantation of Esophagus- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0DY50Z1,0DY.50Z1
+Transplant recipient,ICD10,Transplantation of Esophagus- Zooplastic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0DY50Z2,0DY.50Z2
+Transplant recipient,ICD10,Transplantation of Face- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0WY20Z0,0WY.20Z0
+Transplant recipient,ICD10,Transplantation of Face- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0WY20Z1,0WY.20Z1
+Transplant recipient,ICD10,Transplantation of Heart- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,02YA0Z0,02Y.A0Z0
+Transplant recipient,ICD10,Transplantation of Heart- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,02YA0Z1,02Y.A0Z1
+Transplant recipient,ICD10,Transplantation of Heart- Zooplastic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,02YA0Z2,02Y.A0Z2
+Transplant recipient,ICD10,Transplantation of Left Hand- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0XYK0Z0,0XY.K0Z0
+Transplant recipient,ICD10,Transplantation of Left Hand- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0XYK0Z1,0XY.K0Z1
+Transplant recipient,ICD10,Transplantation of Liver- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0FY00Z0,0FY.00Z0
+Transplant recipient,ICD10,Transplantation of Liver- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0FY00Z1,0FY.00Z1
+Transplant recipient,ICD10,Transplantation of Liver- Zooplastic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0FY00Z2,0FY.00Z2
+Transplant recipient,ICD10,Transplantation of Right Kidney- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0TY00Z0,0TY.00Z0
+Transplant recipient,ICD10,Transplantation of Right Kidney- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0TY00Z1,0TY.00Z1
+Transplant recipient,ICD10,Transplantation of Right Kidney- Zooplastic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0TY00Z2,0TY.00Z2
+Transplant recipient,ICD10,Transplantation of Right Ovary- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0UY00Z0,0UY.00Z0
+Transplant recipient,ICD10,Transplantation of Right Ovary- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0UY00Z1,0UY.00Z1
+Transplant recipient,ICD10,Transplantation of Right Ovary- Zooplastic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0UY00Z2,0UY.00Z2
+Transplant recipient,ICD10,Transplantation of Right Upper Lung Lobe- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0BYC0Z0,0BY.C0Z0
+Transplant recipient,ICD10,Transplantation of Right Upper Lung Lobe- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0BYC0Z1,0BY.C0Z1
+Transplant recipient,ICD10,Transplantation of Right Upper Lung Lobe- Zooplastic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0BYC0Z2,0BY.C0Z2
+Transplant recipient,ICD10,Transplantation of Scrotum- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0VY50Z0,0VY.50Z0
+Transplant recipient,ICD10,Transplantation of Scrotum- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0VY50Z1,0VY.50Z1
+Transplant recipient,ICD10,Transplantation of Scrotum- Zooplastic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0VY50Z2,0VY.50Z2
+Transplant recipient,ICD10,Transplantation of Thymus- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,07YM0Z0,07Y.M0Z0
+Transplant recipient,ICD10,Transplantation of Thymus- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,07YM0Z1,07Y.M0Z1
+Transplant recipient,ICD10,Transplantation of Thymus- Zooplastic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,07YM0Z2,07Y.M0Z2
+Transplant recipient,ICD10,Transplantation of Uterus- Allogeneic- Open Approach,C4720304,Transplantation of Uterus- Allogeneic- Open Approach,narrow,TP,TRANSPLANTRECIPIENT,COV,0UY90Z0,0UY.90Z0
+Transplant recipient,ICD10,Ultrasonography of Kidney Transplant,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT49ZZZ,BT4.9ZZZ
+Blood transfusion as UC flare up,ICD10ES,Administration @ Circulatory @ Transfusion @ Peripheral Vein @ Percutaneous @ Red Blood Cells,C2490133,Administration @ Circulatory @ Transfusion @ Peripheral Vein @ Percutaneous @ Red Blood Cells,narrow,TP,BLOODTRANSFUSIONUC,AESI,30233N,302.33N
+Blood transfusion as UC flare up,ICD10ES,Transfusion of Nonautologous Red Blood Cells into Peripheral Vein- Percutaneous Approach,C2452670,Transfusion of Nonautologous Red Blood Cells into Peripheral Vein- Percutaneous Approach,narrow,TP,BLOODTRANSFUSIONUC,AESI,30233N1,302.33N1
+Blood transfusion as UC flare up,ICD10ES,Administration @ Circulatory @ Transfusion @ Peripheral Vein @ Percutaneous @ Red Blood Cells,C2490133,Administration @ Circulatory @ Transfusion @ Peripheral Vein @ Percutaneous @ Red Blood Cells,narrow,TP,BLOODTRANSFUSIONUC,AESI,30233N,302.33N
+Blood transfusion as UC flare up,ICD10ES,Transfusion of Nonautologous Red Blood Cells into Peripheral Vein- Percutaneous Approach,C2452670,Transfusion of Nonautologous Red Blood Cells into Peripheral Vein- Percutaneous Approach,narrow,TP,BLOODTRANSFUSIONUC,AESI,30233N1,302.33N1
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Ascending Colon- Open Approach,C2409595,Resection of Ascending Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTK0ZZ,0DT.K0ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Ascending Colon- Percutaneous Endoscopic Approach,C2409597,Resection of Ascending Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTK4ZZ,0DT.K4ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Ascending Colon- Via Natural or Artificial Opening,C2409598,Resection of Ascending Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTK7ZZ,0DT.K7ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Ascending Colon- Via Natural or Artificial Opening Endoscopic,C2409599,Resection of Ascending Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTK8ZZ,0DT.K8ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Transverse Colon- Open Approach,C2409600,Resection of Transverse Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTL0ZZ,0DT.L0ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Transverse Colon- Percutaneous Endoscopic Approach,C2409602,Resection of Transverse Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTL4ZZ,0DT.L4ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Transverse Colon- Via Natural or Artificial Opening,C2409603,Resection of Transverse Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTL7ZZ,0DT.L7ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Transverse Colon- Via Natural or Artificial Opening Endoscopic,C2409604,Resection of Transverse Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTL8ZZ,0DT.L8ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Transverse Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,C4498031,Resection of Transverse Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,narrow,TP,COLECTOMY,AESI,0DTLFZZ,0DT.LFZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Descending Colon- Open Approach,C2409605,Resection of Descending Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTM0ZZ,0DT.M0ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Descending Colon- Percutaneous Endoscopic Approach,C2409607,Resection of Descending Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTM4ZZ,0DT.M4ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Descending Colon- Via Natural or Artificial Opening,C2409608,Resection of Descending Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTM7ZZ,0DT.M7ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Descending Colon- Via Natural or Artificial Opening Endoscopic,C2409609,Resection of Descending Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTM8ZZ,0DT.M8ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Descending Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,C4498034,Resection of Descending Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,narrow,TP,COLECTOMY,AESI,0DTMFZZ,0DT.MFZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Sigmoid Colon- Open Approach,C2409610,Resection of Sigmoid Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTN0ZZ,0DT.N0ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Sigmoid Colon- Percutaneous Endoscopic Approach,C2409612,Resection of Sigmoid Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTN4ZZ,0DT.N4ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Sigmoid Colon- Via Natural or Artificial Opening,C2409613,Resection of Sigmoid Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTN7ZZ,0DT.N7ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Sigmoid Colon- Via Natural or Artificial Opening Endoscopic,C2409614,Resection of Sigmoid Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTN8ZZ,0DT.N8ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Sigmoid Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,C4498037,Resection of Sigmoid Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,narrow,TP,COLECTOMY,AESI,0DTNFZZ,0DT.NFZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Ascending Colon- Open Approach,C2409595,Resection of Ascending Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTK0ZZ,0DT.K0ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Ascending Colon- Percutaneous Endoscopic Approach,C2409597,Resection of Ascending Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTK4ZZ,0DT.K4ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Ascending Colon- Via Natural or Artificial Opening,C2409598,Resection of Ascending Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTK7ZZ,0DT.K7ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Ascending Colon- Via Natural or Artificial Opening Endoscopic,C2409599,Resection of Ascending Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTK8ZZ,0DT.K8ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Transverse Colon- Open Approach,C2409600,Resection of Transverse Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTL0ZZ,0DT.L0ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Transverse Colon- Percutaneous Endoscopic Approach,C2409602,Resection of Transverse Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTL4ZZ,0DT.L4ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Transverse Colon- Via Natural or Artificial Opening,C2409603,Resection of Transverse Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTL7ZZ,0DT.L7ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Transverse Colon- Via Natural or Artificial Opening Endoscopic,C2409604,Resection of Transverse Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTL8ZZ,0DT.L8ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Transverse Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,C4498031,Resection of Transverse Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,narrow,TP,COLECTOMY,AESI,0DTLFZZ,0DT.LFZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Descending Colon- Open Approach,C2409605,Resection of Descending Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTM0ZZ,0DT.M0ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Descending Colon- Percutaneous Endoscopic Approach,C2409607,Resection of Descending Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTM4ZZ,0DT.M4ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Descending Colon- Via Natural or Artificial Opening,C2409608,Resection of Descending Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTM7ZZ,0DT.M7ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Descending Colon- Via Natural or Artificial Opening Endoscopic,C2409609,Resection of Descending Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTM8ZZ,0DT.M8ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Descending Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,C4498034,Resection of Descending Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,narrow,TP,COLECTOMY,AESI,0DTMFZZ,0DT.MFZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Sigmoid Colon- Open Approach,C2409610,Resection of Sigmoid Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTN0ZZ,0DT.N0ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Sigmoid Colon- Percutaneous Endoscopic Approach,C2409612,Resection of Sigmoid Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTN4ZZ,0DT.N4ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Sigmoid Colon- Via Natural or Artificial Opening,C2409613,Resection of Sigmoid Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTN7ZZ,0DT.N7ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Sigmoid Colon- Via Natural or Artificial Opening Endoscopic,C2409614,Resection of Sigmoid Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTN8ZZ,0DT.N8ZZ
+Colectomy in Ulcerative colitis,ICD10ES,Resection of Sigmoid Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,C4498037,Resection of Sigmoid Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,narrow,TP,COLECTOMY,AESI,0DTNFZZ,0DT.NFZZ
+Radioiodine ablation therapy,ICD10ES,Nonimaging Nuclear Medicine Uptake of Thyroid Gland using Iodine 131 (I-131),C2457332,Nonimaging Nuclear Medicine Uptake of Thyroid Gland using Iodine 131 (I-131),narrow,TP,RADIOIODINEABLA,AESI,CG42GZZ,CG4.2GZZ
+Radioiodine ablation therapy,ICD10ES,Systemic Nuclear Medicine Therapy of Thyroid using Iodine 131 (I-131),C2457612,Systemic Nuclear Medicine Therapy of Thyroid using Iodine 131 (I-131),narrow,TP,RADIOIODINEABLA,AESI,CW7GGZZ,CW7.GGZZ
+Radioiodine ablation therapy,ICD10ES,Nonimaging Nuclear Medicine Uptake of Thyroid Gland using Iodine 131 (I-131),C2457332,Nonimaging Nuclear Medicine Uptake of Thyroid Gland using Iodine 131 (I-131),narrow,TP,RADIOIODINEABLA,AESI,CG42GZZ,CG4.2GZZ
+Radioiodine ablation therapy,ICD10ES,Systemic Nuclear Medicine Therapy of Thyroid using Iodine 131 (I-131),C2457612,Systemic Nuclear Medicine Therapy of Thyroid using Iodine 131 (I-131),narrow,TP,RADIOIODINEABLA,AESI,CW7GGZZ,CW7.GGZZ
+Restorative proctocolectomy as flare of UC,ICD10ES,Medical and Surgical @ Gastrointestinal System @ Bypass @ Ileum @ Open @ No Device,C2516473,Medical and Surgical @ Gastrointestinal System @ Bypass @ Ileum @ Open @ No Device,narrow,TP,RESTRPROCTOCOLECUC,AESI,0D1B0Z,0D1.B0Z
+Restorative proctocolectomy as flare of UC,ICD10ES,Bypass Ileum to Anus- Open Approach,C2405380,Bypass Ileum to Anus- Open Approach,narrow,TP,RESTRPROCTOCOLECUC,AESI,0D1B0ZQ,0D1.B0ZQ
+Restorative proctocolectomy as flare of UC,ICD10ES,Medical and Surgical @ Gastrointestinal System @ Bypass @ Ileum @ Open @ No Device,C2516473,Medical and Surgical @ Gastrointestinal System @ Bypass @ Ileum @ Open @ No Device,narrow,TP,RESTRPROCTOCOLECUC,AESI,0D1B0Z,0D1.B0Z
+Restorative proctocolectomy as flare of UC,ICD10ES,Bypass Ileum to Anus- Open Approach,C2405380,Bypass Ileum to Anus- Open Approach,narrow,TP,RESTRPROCTOCOLECUC,AESI,0D1B0ZQ,0D1.B0ZQ
+Thyroidectomy in Graves,ICD10ES,Resection of Left Thyroid Gland Lobe- Open Approach,C2413531,Resection of Left Thyroid Gland Lobe- Open Approach,narrow,TP,THYROIDECTOMY,AESI,0GTG0ZZ,0GT.G0ZZ
+Thyroidectomy in Graves,ICD10ES,Resection of Left Thyroid Gland Lobe- Percutaneous Endoscopic Approach,C2413532,Resection of Left Thyroid Gland Lobe- Percutaneous Endoscopic Approach,narrow,TP,THYROIDECTOMY,AESI,0GTG4ZZ,0GT.G4ZZ
+Thyroidectomy in Graves,ICD10ES,Resection of Right Thyroid Gland Lobe- Open Approach,C2413533,Resection of Right Thyroid Gland Lobe- Open Approach,narrow,TP,THYROIDECTOMY,AESI,0GTH0ZZ,0GT.H0ZZ
+Thyroidectomy in Graves,ICD10ES,Resection of Right Thyroid Gland Lobe- Percutaneous Endoscopic Approach,C2413534,Resection of Right Thyroid Gland Lobe- Percutaneous Endoscopic Approach,narrow,TP,THYROIDECTOMY,AESI,0GTH4ZZ,0GT.H4ZZ
+Thyroidectomy in Graves,ICD10ES,Resection of Thyroid Gland- Open Approach,C2413535,Resection of Thyroid Gland- Open Approach,narrow,TP,THYROIDECTOMY,AESI,0GTK0ZZ,0GT.K0ZZ
+Thyroidectomy in Graves,ICD10ES,Resection of Left Thyroid Gland Lobe- Open Approach,C2413531,Resection of Left Thyroid Gland Lobe- Open Approach,narrow,TP,THYROIDECTOMY,AESI,0GTG0ZZ,0GT.G0ZZ
+Thyroidectomy in Graves,ICD10ES,Resection of Left Thyroid Gland Lobe- Percutaneous Endoscopic Approach,C2413532,Resection of Left Thyroid Gland Lobe- Percutaneous Endoscopic Approach,narrow,TP,THYROIDECTOMY,AESI,0GTG4ZZ,0GT.G4ZZ
+Thyroidectomy in Graves,ICD10ES,Resection of Right Thyroid Gland Lobe- Open Approach,C2413533,Resection of Right Thyroid Gland Lobe- Open Approach,narrow,TP,THYROIDECTOMY,AESI,0GTH0ZZ,0GT.H0ZZ
+Thyroidectomy in Graves,ICD10ES,Resection of Right Thyroid Gland Lobe- Percutaneous Endoscopic Approach,C2413534,Resection of Right Thyroid Gland Lobe- Percutaneous Endoscopic Approach,narrow,TP,THYROIDECTOMY,AESI,0GTH4ZZ,0GT.H4ZZ
+Thyroidectomy in Graves,ICD10ES,Resection of Thyroid Gland- Open Approach,C2413535,Resection of Thyroid Gland- Open Approach,narrow,TP,THYROIDECTOMY,AESI,0GTK0ZZ,0GT.K0ZZ
+Transplant recipient,ICD10ES,Anatomical Regions- General- Transplantation,C4261202,Medical and Surgical @ Anatomical Regions- General @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,0WY,0WY
+Transplant recipient,ICD10ES,Anatomical Regions- Upper Extremities- Transplantation,C4261201,Medical and Surgical @ Anatomical Regions- Upper Extremities @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,0XY,0XY
+Transplant recipient,ICD10ES,Computerized Tomography (CT Scan) of Kidney Transplant using High Osmolar Contrast- Unenhanced and Enhanced,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT2900Z,BT2.900Z
+Transplant recipient,ICD10ES,Computerized Tomography (CT Scan) of Renal Artery Transplant using High Osmolar Contrast,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,B42M0ZZ,B42.M0ZZ
+Transplant recipient,ICD10ES,Female Reproductive System- Transplantation,C2392741,Medical and Surgical @ Female Reproductive System @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,0UY,0UY
+Transplant recipient,ICD10ES,Gastrointestinal System- Transplantation,C2547778,Medical and Surgical @ Gastrointestinal System @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,0DY,0DY
+Transplant recipient,ICD10ES,Heart and Great Vessels- Transplantation,C2513211,Medical and Surgical @ Heart and Great Vessels @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,02Y,02Y
+Transplant recipient,ICD10ES,Hepatobiliary System and Pancreas- Transplantation,C2564167,Medical and Surgical @ Hepatobiliary System and Pancreas @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,0FY,0FY
+Transplant recipient,ICD10ES,Imaging @ Lower Arteries @ Computerized Tomography (CT Scan) @ Renal Artery Transplant,C2501284,Imaging @ Lower Arteries @ Computerized Tomography (CT Scan) @ Renal Artery Transplant,narrow,TP,TRANSPLANTRECIPIENT,COV,B42M,B42.M
+Transplant recipient,ICD10ES,Imaging @ Lower Arteries @ Computerized Tomography (CT Scan) @ Renal Artery Transplant @ High Osmolar,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,B42M0,B42.M0
+Transplant recipient,ICD10ES,Imaging @ Lower Arteries @ Computerized Tomography (CT Scan) @ Renal Artery Transplant @ High Osmolar @ None,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,B42M0Z,B42.M0Z
+Transplant recipient,ICD10ES,Imaging @ Urinary System @ Computerized Tomography (CT Scan) @ Kidney Transplant,C2520838,Imaging @ Urinary System @ Computerized Tomography (CT Scan) @ Kidney Transplant,narrow,TP,TRANSPLANTRECIPIENT,COV,BT29,BT2.9
+Transplant recipient,ICD10ES,Imaging @ Urinary System @ Computerized Tomography (CT Scan) @ Kidney Transplant @ High Osmolar,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT290,BT2.90
+Transplant recipient,ICD10ES,Imaging @ Urinary System @ Computerized Tomography (CT Scan) @ Kidney Transplant @ High Osmolar @ Unenhanced and Enhanced,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT2900,BT2.900
+Transplant recipient,ICD10ES,Imaging @ Urinary System @ Magnetic Resonance Imaging (MRI) @ Kidney Transplant,C2520875,Imaging @ Urinary System @ Magnetic Resonance Imaging (MRI) @ Kidney Transplant,narrow,TP,TRANSPLANTRECIPIENT,COV,BT39,BT3.9
+Transplant recipient,ICD10ES,Imaging @ Urinary System @ Magnetic Resonance Imaging (MRI) @ Kidney Transplant @ Other Contrast,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT39Y,BT3.9Y
+Transplant recipient,ICD10ES,Imaging @ Urinary System @ Magnetic Resonance Imaging (MRI) @ Kidney Transplant @ Other Contrast @ Unenhanced and Enhanced,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT39Y0,BT3.9Y0
+Transplant recipient,ICD10ES,Imaging @ Urinary System @ Ultrasonography @ Kidney Transplant,C2520914,Imaging @ Urinary System @ Ultrasonography @ Kidney Transplant,narrow,TP,TRANSPLANTRECIPIENT,COV,BT49,BT4.9
+Transplant recipient,ICD10ES,Imaging @ Urinary System @ Ultrasonography @ Kidney Transplant @ None,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT49Z,BT4.9Z
+Transplant recipient,ICD10ES,Imaging @ Urinary System @ Ultrasonography @ Kidney Transplant @ None @ None,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT49ZZ,BT4.9ZZ
+Transplant recipient,ICD10ES,Lymphatic and Hemic Systems- Transplantation,C2461268,Medical and Surgical @ Lymphatic and Hemic Systems @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,07Y,07Y
+Transplant recipient,ICD10ES,Magnetic Resonance Imaging (MRI) of Kidney Transplant using Other Contrast- Unenhanced and Enhanced,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT39Y0Z,BT3.9Y0Z
+Transplant recipient,ICD10ES,Male Reproductive System- Transplantation,C5385920,Medical and Surgical @ Male Reproductive System @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,0VY,0VY
+Transplant recipient,ICD10ES,Medical and Surgical @ Anatomical Regions- General @ Transplantation @ Face,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0WY2,0WY.2
+Transplant recipient,ICD10ES,Medical and Surgical @ Anatomical Regions- General @ Transplantation @ Face @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0WY20,0WY.20
+Transplant recipient,ICD10ES,Medical and Surgical @ Anatomical Regions- General @ Transplantation @ Face @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0WY20Z,0WY.20Z
+Transplant recipient,ICD10ES,Medical and Surgical @ Anatomical Regions- Upper Extremities @ Transplantation @ Hand- Left,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0XYK,0XY.K
+Transplant recipient,ICD10ES,Medical and Surgical @ Anatomical Regions- Upper Extremities @ Transplantation @ Hand- Left @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0XYK0,0XY.K0
+Transplant recipient,ICD10ES,Medical and Surgical @ Anatomical Regions- Upper Extremities @ Transplantation @ Hand- Left @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0XYK0Z,0XY.K0Z
+Transplant recipient,ICD10ES,Medical and Surgical @ Female Reproductive System @ Transplantation @ Ovary- Right,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0UY0,0UY.0
+Transplant recipient,ICD10ES,Medical and Surgical @ Female Reproductive System @ Transplantation @ Ovary- Right @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0UY00,0UY.00
+Transplant recipient,ICD10ES,Medical and Surgical @ Female Reproductive System @ Transplantation @ Ovary- Right @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0UY00Z,0UY.00Z
+Transplant recipient,ICD10ES,Medical and Surgical @ Gastrointestinal System @ Transplantation @ Esophagus,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0DY5,0DY.5
+Transplant recipient,ICD10ES,Medical and Surgical @ Gastrointestinal System @ Transplantation @ Esophagus @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0DY50,0DY.50
+Transplant recipient,ICD10ES,Medical and Surgical @ Gastrointestinal System @ Transplantation @ Esophagus @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0DY50Z,0DY.50Z
+Transplant recipient,ICD10ES,Medical and Surgical @ Heart and Great Vessels @ Transplantation @ Heart,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,02YA,02Y.A
+Transplant recipient,ICD10ES,Medical and Surgical @ Heart and Great Vessels @ Transplantation @ Heart @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,02YA0,02Y.A0
+Transplant recipient,ICD10ES,Medical and Surgical @ Heart and Great Vessels @ Transplantation @ Heart @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,02YA0Z,02Y.A0Z
+Transplant recipient,ICD10ES,Medical and Surgical @ Hepatobiliary System and Pancreas @ Transplantation @ Liver,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0FY0,0FY.0
+Transplant recipient,ICD10ES,Medical and Surgical @ Hepatobiliary System and Pancreas @ Transplantation @ Liver @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0FY00,0FY.00
+Transplant recipient,ICD10ES,Medical and Surgical @ Hepatobiliary System and Pancreas @ Transplantation @ Liver @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0FY00Z,0FY.00Z
+Transplant recipient,ICD10ES,Medical and Surgical @ Lymphatic and Hemic Systems @ Transplantation @ Thymus,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,07YM,07Y.M
+Transplant recipient,ICD10ES,Medical and Surgical @ Lymphatic and Hemic Systems @ Transplantation @ Thymus @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,07YM0,07Y.M0
+Transplant recipient,ICD10ES,Medical and Surgical @ Lymphatic and Hemic Systems @ Transplantation @ Thymus @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,07YM0Z,07Y.M0Z
+Transplant recipient,ICD10ES,Medical and Surgical @ Male Reproductive System @ Transplantation @ Scrotum,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0VY5,0VY.5
+Transplant recipient,ICD10ES,Medical and Surgical @ Male Reproductive System @ Transplantation @ Scrotum @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0VY50,0VY.50
+Transplant recipient,ICD10ES,Medical and Surgical @ Male Reproductive System @ Transplantation @ Scrotum @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0VY50Z,0VY.50Z
+Transplant recipient,ICD10ES,Medical and Surgical @ Respiratory System @ Transplantation @ Upper Lung Lobe- Right,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0BYC,0BY.C
+Transplant recipient,ICD10ES,Medical and Surgical @ Respiratory System @ Transplantation @ Upper Lung Lobe- Right @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0BYC0,0BY.C0
+Transplant recipient,ICD10ES,Medical and Surgical @ Respiratory System @ Transplantation @ Upper Lung Lobe- Right @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0BYC0Z,0BY.C0Z
+Transplant recipient,ICD10ES,Medical and Surgical @ Urinary System @ Transplantation,C2583679,Medical and Surgical @ Urinary System @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,0TY,0TY
+Transplant recipient,ICD10ES,Medical and Surgical @ Urinary System @ Transplantation @ Kidney- Right,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0TY0,0TY.0
+Transplant recipient,ICD10ES,Medical and Surgical @ Urinary System @ Transplantation @ Kidney- Right @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0TY00,0TY.00
+Transplant recipient,ICD10ES,Medical and Surgical @ Urinary System @ Transplantation @ Kidney- Right @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0TY00Z,0TY.00Z
+Transplant recipient,ICD10ES,Transplantation of Esophagus- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0DY50Z0,0DY.50Z0
+Transplant recipient,ICD10ES,Transplantation of Esophagus- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0DY50Z1,0DY.50Z1
+Transplant recipient,ICD10ES,Transplantation of Esophagus- Zooplastic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0DY50Z2,0DY.50Z2
+Transplant recipient,ICD10ES,Transplantation of Face- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0WY20Z0,0WY.20Z0
+Transplant recipient,ICD10ES,Transplantation of Face- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0WY20Z1,0WY.20Z1
+Transplant recipient,ICD10ES,Transplantation of Heart- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,02YA0Z0,02Y.A0Z0
+Transplant recipient,ICD10ES,Transplantation of Heart- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,02YA0Z1,02Y.A0Z1
+Transplant recipient,ICD10ES,Transplantation of Heart- Zooplastic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,02YA0Z2,02Y.A0Z2
+Transplant recipient,ICD10ES,Transplantation of Left Hand- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0XYK0Z0,0XY.K0Z0
+Transplant recipient,ICD10ES,Transplantation of Left Hand- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0XYK0Z1,0XY.K0Z1
+Transplant recipient,ICD10ES,Transplantation of Liver- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0FY00Z0,0FY.00Z0
+Transplant recipient,ICD10ES,Transplantation of Liver- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0FY00Z1,0FY.00Z1
+Transplant recipient,ICD10ES,Transplantation of Liver- Zooplastic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0FY00Z2,0FY.00Z2
+Transplant recipient,ICD10ES,Transplantation of Right Kidney- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0TY00Z0,0TY.00Z0
+Transplant recipient,ICD10ES,Transplantation of Right Kidney- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0TY00Z1,0TY.00Z1
+Transplant recipient,ICD10ES,Transplantation of Right Kidney- Zooplastic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0TY00Z2,0TY.00Z2
+Transplant recipient,ICD10ES,Transplantation of Right Ovary- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0UY00Z0,0UY.00Z0
+Transplant recipient,ICD10ES,Transplantation of Right Ovary- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0UY00Z1,0UY.00Z1
+Transplant recipient,ICD10ES,Transplantation of Right Ovary- Zooplastic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0UY00Z2,0UY.00Z2
+Transplant recipient,ICD10ES,Transplantation of Right Upper Lung Lobe- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0BYC0Z0,0BY.C0Z0
+Transplant recipient,ICD10ES,Transplantation of Right Upper Lung Lobe- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0BYC0Z1,0BY.C0Z1
+Transplant recipient,ICD10ES,Transplantation of Right Upper Lung Lobe- Zooplastic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0BYC0Z2,0BY.C0Z2
+Transplant recipient,ICD10ES,Transplantation of Scrotum- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0VY50Z0,0VY.50Z0
+Transplant recipient,ICD10ES,Transplantation of Scrotum- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0VY50Z1,0VY.50Z1
+Transplant recipient,ICD10ES,Transplantation of Scrotum- Zooplastic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0VY50Z2,0VY.50Z2
+Transplant recipient,ICD10ES,Transplantation of Thymus- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,07YM0Z0,07Y.M0Z0
+Transplant recipient,ICD10ES,Transplantation of Thymus- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,07YM0Z1,07Y.M0Z1
+Transplant recipient,ICD10ES,Transplantation of Thymus- Zooplastic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,07YM0Z2,07Y.M0Z2
+Transplant recipient,ICD10ES,Transplantation of Uterus- Allogeneic- Open Approach,C4720304,Transplantation of Uterus- Allogeneic- Open Approach,narrow,TP,TRANSPLANTRECIPIENT,COV,0UY90Z0,0UY.90Z0
+Transplant recipient,ICD10ES,Ultrasonography of Kidney Transplant,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT49ZZZ,BT4.9ZZZ
+Blood transfusion as UC flare up,ICD9PCS,Administration @ Circulatory @ Transfusion @ Peripheral Vein @ Percutaneous @ Red Blood Cells,C2490133,Administration @ Circulatory @ Transfusion @ Peripheral Vein @ Percutaneous @ Red Blood Cells,narrow,TP,BLOODTRANSFUSIONUC,AESI,30233N,302.33N
+Blood transfusion as UC flare up,ICD9PCS,Transfusion of Nonautologous Red Blood Cells into Peripheral Vein- Percutaneous Approach,C2452670,Transfusion of Nonautologous Red Blood Cells into Peripheral Vein- Percutaneous Approach,narrow,TP,BLOODTRANSFUSIONUC,AESI,30233N1,302.33N1
+Blood transfusion as UC flare up,ICD9PCS,Administration @ Circulatory @ Transfusion @ Peripheral Vein @ Percutaneous @ Red Blood Cells,C2490133,Administration @ Circulatory @ Transfusion @ Peripheral Vein @ Percutaneous @ Red Blood Cells,narrow,TP,BLOODTRANSFUSIONUC,AESI,30233N,302.33N
+Blood transfusion as UC flare up,ICD9PCS,Transfusion of Nonautologous Red Blood Cells into Peripheral Vein- Percutaneous Approach,C2452670,Transfusion of Nonautologous Red Blood Cells into Peripheral Vein- Percutaneous Approach,narrow,TP,BLOODTRANSFUSIONUC,AESI,30233N1,302.33N1
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Ascending Colon- Open Approach,C2409595,Resection of Ascending Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTK0ZZ,0DT.K0ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Ascending Colon- Percutaneous Endoscopic Approach,C2409597,Resection of Ascending Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTK4ZZ,0DT.K4ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Ascending Colon- Via Natural or Artificial Opening,C2409598,Resection of Ascending Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTK7ZZ,0DT.K7ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Ascending Colon- Via Natural or Artificial Opening Endoscopic,C2409599,Resection of Ascending Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTK8ZZ,0DT.K8ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Transverse Colon- Open Approach,C2409600,Resection of Transverse Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTL0ZZ,0DT.L0ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Transverse Colon- Percutaneous Endoscopic Approach,C2409602,Resection of Transverse Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTL4ZZ,0DT.L4ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Transverse Colon- Via Natural or Artificial Opening,C2409603,Resection of Transverse Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTL7ZZ,0DT.L7ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Transverse Colon- Via Natural or Artificial Opening Endoscopic,C2409604,Resection of Transverse Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTL8ZZ,0DT.L8ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Transverse Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,C4498031,Resection of Transverse Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,narrow,TP,COLECTOMY,AESI,0DTLFZZ,0DT.LFZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Descending Colon- Open Approach,C2409605,Resection of Descending Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTM0ZZ,0DT.M0ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Descending Colon- Percutaneous Endoscopic Approach,C2409607,Resection of Descending Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTM4ZZ,0DT.M4ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Descending Colon- Via Natural or Artificial Opening,C2409608,Resection of Descending Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTM7ZZ,0DT.M7ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Descending Colon- Via Natural or Artificial Opening Endoscopic,C2409609,Resection of Descending Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTM8ZZ,0DT.M8ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Descending Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,C4498034,Resection of Descending Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,narrow,TP,COLECTOMY,AESI,0DTMFZZ,0DT.MFZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Sigmoid Colon- Open Approach,C2409610,Resection of Sigmoid Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTN0ZZ,0DT.N0ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Sigmoid Colon- Percutaneous Endoscopic Approach,C2409612,Resection of Sigmoid Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTN4ZZ,0DT.N4ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Sigmoid Colon- Via Natural or Artificial Opening,C2409613,Resection of Sigmoid Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTN7ZZ,0DT.N7ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Sigmoid Colon- Via Natural or Artificial Opening Endoscopic,C2409614,Resection of Sigmoid Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTN8ZZ,0DT.N8ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Sigmoid Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,C4498037,Resection of Sigmoid Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,narrow,TP,COLECTOMY,AESI,0DTNFZZ,0DT.NFZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Ascending Colon- Open Approach,C2409595,Resection of Ascending Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTK0ZZ,0DT.K0ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Ascending Colon- Percutaneous Endoscopic Approach,C2409597,Resection of Ascending Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTK4ZZ,0DT.K4ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Ascending Colon- Via Natural or Artificial Opening,C2409598,Resection of Ascending Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTK7ZZ,0DT.K7ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Ascending Colon- Via Natural or Artificial Opening Endoscopic,C2409599,Resection of Ascending Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTK8ZZ,0DT.K8ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Transverse Colon- Open Approach,C2409600,Resection of Transverse Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTL0ZZ,0DT.L0ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Transverse Colon- Percutaneous Endoscopic Approach,C2409602,Resection of Transverse Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTL4ZZ,0DT.L4ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Transverse Colon- Via Natural or Artificial Opening,C2409603,Resection of Transverse Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTL7ZZ,0DT.L7ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Transverse Colon- Via Natural or Artificial Opening Endoscopic,C2409604,Resection of Transverse Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTL8ZZ,0DT.L8ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Transverse Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,C4498031,Resection of Transverse Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,narrow,TP,COLECTOMY,AESI,0DTLFZZ,0DT.LFZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Descending Colon- Open Approach,C2409605,Resection of Descending Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTM0ZZ,0DT.M0ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Descending Colon- Percutaneous Endoscopic Approach,C2409607,Resection of Descending Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTM4ZZ,0DT.M4ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Descending Colon- Via Natural or Artificial Opening,C2409608,Resection of Descending Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTM7ZZ,0DT.M7ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Descending Colon- Via Natural or Artificial Opening Endoscopic,C2409609,Resection of Descending Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTM8ZZ,0DT.M8ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Descending Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,C4498034,Resection of Descending Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,narrow,TP,COLECTOMY,AESI,0DTMFZZ,0DT.MFZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Sigmoid Colon- Open Approach,C2409610,Resection of Sigmoid Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTN0ZZ,0DT.N0ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Sigmoid Colon- Percutaneous Endoscopic Approach,C2409612,Resection of Sigmoid Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTN4ZZ,0DT.N4ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Sigmoid Colon- Via Natural or Artificial Opening,C2409613,Resection of Sigmoid Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTN7ZZ,0DT.N7ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Sigmoid Colon- Via Natural or Artificial Opening Endoscopic,C2409614,Resection of Sigmoid Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTN8ZZ,0DT.N8ZZ
+Colectomy in Ulcerative colitis,ICD9PCS,Resection of Sigmoid Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,C4498037,Resection of Sigmoid Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,narrow,TP,COLECTOMY,AESI,0DTNFZZ,0DT.NFZZ
+Radioiodine ablation therapy,ICD9PCS,Nonimaging Nuclear Medicine Uptake of Thyroid Gland using Iodine 131 (I-131),C2457332,Nonimaging Nuclear Medicine Uptake of Thyroid Gland using Iodine 131 (I-131),narrow,TP,RADIOIODINEABLA,AESI,CG42GZZ,CG4.2GZZ
+Radioiodine ablation therapy,ICD9PCS,Systemic Nuclear Medicine Therapy of Thyroid using Iodine 131 (I-131),C2457612,Systemic Nuclear Medicine Therapy of Thyroid using Iodine 131 (I-131),narrow,TP,RADIOIODINEABLA,AESI,CW7GGZZ,CW7.GGZZ
+Radioiodine ablation therapy,ICD9PCS,Nonimaging Nuclear Medicine Uptake of Thyroid Gland using Iodine 131 (I-131),C2457332,Nonimaging Nuclear Medicine Uptake of Thyroid Gland using Iodine 131 (I-131),narrow,TP,RADIOIODINEABLA,AESI,CG42GZZ,CG4.2GZZ
+Radioiodine ablation therapy,ICD9PCS,Systemic Nuclear Medicine Therapy of Thyroid using Iodine 131 (I-131),C2457612,Systemic Nuclear Medicine Therapy of Thyroid using Iodine 131 (I-131),narrow,TP,RADIOIODINEABLA,AESI,CW7GGZZ,CW7.GGZZ
+Restorative proctocolectomy as flare of UC,ICD9PCS,Medical and Surgical @ Gastrointestinal System @ Bypass @ Ileum @ Open @ No Device,C2516473,Medical and Surgical @ Gastrointestinal System @ Bypass @ Ileum @ Open @ No Device,narrow,TP,RESTRPROCTOCOLECUC,AESI,0D1B0Z,0D1.B0Z
+Restorative proctocolectomy as flare of UC,ICD9PCS,Bypass Ileum to Anus- Open Approach,C2405380,Bypass Ileum to Anus- Open Approach,narrow,TP,RESTRPROCTOCOLECUC,AESI,0D1B0ZQ,0D1.B0ZQ
+Restorative proctocolectomy as flare of UC,ICD9PCS,Medical and Surgical @ Gastrointestinal System @ Bypass @ Ileum @ Open @ No Device,C2516473,Medical and Surgical @ Gastrointestinal System @ Bypass @ Ileum @ Open @ No Device,narrow,TP,RESTRPROCTOCOLECUC,AESI,0D1B0Z,0D1.B0Z
+Restorative proctocolectomy as flare of UC,ICD9PCS,Bypass Ileum to Anus- Open Approach,C2405380,Bypass Ileum to Anus- Open Approach,narrow,TP,RESTRPROCTOCOLECUC,AESI,0D1B0ZQ,0D1.B0ZQ
+Thyroidectomy in Graves,ICD9PCS,Resection of Left Thyroid Gland Lobe- Open Approach,C2413531,Resection of Left Thyroid Gland Lobe- Open Approach,narrow,TP,THYROIDECTOMY,AESI,0GTG0ZZ,0GT.G0ZZ
+Thyroidectomy in Graves,ICD9PCS,Resection of Left Thyroid Gland Lobe- Percutaneous Endoscopic Approach,C2413532,Resection of Left Thyroid Gland Lobe- Percutaneous Endoscopic Approach,narrow,TP,THYROIDECTOMY,AESI,0GTG4ZZ,0GT.G4ZZ
+Thyroidectomy in Graves,ICD9PCS,Resection of Right Thyroid Gland Lobe- Open Approach,C2413533,Resection of Right Thyroid Gland Lobe- Open Approach,narrow,TP,THYROIDECTOMY,AESI,0GTH0ZZ,0GT.H0ZZ
+Thyroidectomy in Graves,ICD9PCS,Resection of Right Thyroid Gland Lobe- Percutaneous Endoscopic Approach,C2413534,Resection of Right Thyroid Gland Lobe- Percutaneous Endoscopic Approach,narrow,TP,THYROIDECTOMY,AESI,0GTH4ZZ,0GT.H4ZZ
+Thyroidectomy in Graves,ICD9PCS,Resection of Thyroid Gland- Open Approach,C2413535,Resection of Thyroid Gland- Open Approach,narrow,TP,THYROIDECTOMY,AESI,0GTK0ZZ,0GT.K0ZZ
+Thyroidectomy in Graves,ICD9PCS,Resection of Left Thyroid Gland Lobe- Open Approach,C2413531,Resection of Left Thyroid Gland Lobe- Open Approach,narrow,TP,THYROIDECTOMY,AESI,0GTG0ZZ,0GT.G0ZZ
+Thyroidectomy in Graves,ICD9PCS,Resection of Left Thyroid Gland Lobe- Percutaneous Endoscopic Approach,C2413532,Resection of Left Thyroid Gland Lobe- Percutaneous Endoscopic Approach,narrow,TP,THYROIDECTOMY,AESI,0GTG4ZZ,0GT.G4ZZ
+Thyroidectomy in Graves,ICD9PCS,Resection of Right Thyroid Gland Lobe- Open Approach,C2413533,Resection of Right Thyroid Gland Lobe- Open Approach,narrow,TP,THYROIDECTOMY,AESI,0GTH0ZZ,0GT.H0ZZ
+Thyroidectomy in Graves,ICD9PCS,Resection of Right Thyroid Gland Lobe- Percutaneous Endoscopic Approach,C2413534,Resection of Right Thyroid Gland Lobe- Percutaneous Endoscopic Approach,narrow,TP,THYROIDECTOMY,AESI,0GTH4ZZ,0GT.H4ZZ
+Thyroidectomy in Graves,ICD9PCS,Resection of Thyroid Gland- Open Approach,C2413535,Resection of Thyroid Gland- Open Approach,narrow,TP,THYROIDECTOMY,AESI,0GTK0ZZ,0GT.K0ZZ
+Transplant recipient,ICD9PCS,Anatomical Regions- General- Transplantation,C4261202,Medical and Surgical @ Anatomical Regions- General @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,0WY,0WY
+Transplant recipient,ICD9PCS,Anatomical Regions- Upper Extremities- Transplantation,C4261201,Medical and Surgical @ Anatomical Regions- Upper Extremities @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,0XY,0XY
+Transplant recipient,ICD9PCS,Computerized Tomography (CT Scan) of Kidney Transplant using High Osmolar Contrast- Unenhanced and Enhanced,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT2900Z,BT2.900Z
+Transplant recipient,ICD9PCS,Computerized Tomography (CT Scan) of Renal Artery Transplant using High Osmolar Contrast,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,B42M0ZZ,B42.M0ZZ
+Transplant recipient,ICD9PCS,Female Reproductive System- Transplantation,C2392741,Medical and Surgical @ Female Reproductive System @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,0UY,0UY
+Transplant recipient,ICD9PCS,Gastrointestinal System- Transplantation,C2547778,Medical and Surgical @ Gastrointestinal System @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,0DY,0DY
+Transplant recipient,ICD9PCS,Heart and Great Vessels- Transplantation,C2513211,Medical and Surgical @ Heart and Great Vessels @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,02Y,02Y
+Transplant recipient,ICD9PCS,Hepatobiliary System and Pancreas- Transplantation,C2564167,Medical and Surgical @ Hepatobiliary System and Pancreas @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,0FY,0FY
+Transplant recipient,ICD9PCS,Imaging @ Lower Arteries @ Computerized Tomography (CT Scan) @ Renal Artery Transplant,C2501284,Imaging @ Lower Arteries @ Computerized Tomography (CT Scan) @ Renal Artery Transplant,narrow,TP,TRANSPLANTRECIPIENT,COV,B42M,B42.M
+Transplant recipient,ICD9PCS,Imaging @ Lower Arteries @ Computerized Tomography (CT Scan) @ Renal Artery Transplant @ High Osmolar,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,B42M0,B42.M0
+Transplant recipient,ICD9PCS,Imaging @ Lower Arteries @ Computerized Tomography (CT Scan) @ Renal Artery Transplant @ High Osmolar @ None,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,B42M0Z,B42.M0Z
+Transplant recipient,ICD9PCS,Imaging @ Urinary System @ Computerized Tomography (CT Scan) @ Kidney Transplant,C2520838,Imaging @ Urinary System @ Computerized Tomography (CT Scan) @ Kidney Transplant,narrow,TP,TRANSPLANTRECIPIENT,COV,BT29,BT2.9
+Transplant recipient,ICD9PCS,Imaging @ Urinary System @ Computerized Tomography (CT Scan) @ Kidney Transplant @ High Osmolar,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT290,BT2.90
+Transplant recipient,ICD9PCS,Imaging @ Urinary System @ Computerized Tomography (CT Scan) @ Kidney Transplant @ High Osmolar @ Unenhanced and Enhanced,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT2900,BT2.900
+Transplant recipient,ICD9PCS,Imaging @ Urinary System @ Magnetic Resonance Imaging (MRI) @ Kidney Transplant,C2520875,Imaging @ Urinary System @ Magnetic Resonance Imaging (MRI) @ Kidney Transplant,narrow,TP,TRANSPLANTRECIPIENT,COV,BT39,BT3.9
+Transplant recipient,ICD9PCS,Imaging @ Urinary System @ Magnetic Resonance Imaging (MRI) @ Kidney Transplant @ Other Contrast,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT39Y,BT3.9Y
+Transplant recipient,ICD9PCS,Imaging @ Urinary System @ Magnetic Resonance Imaging (MRI) @ Kidney Transplant @ Other Contrast @ Unenhanced and Enhanced,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT39Y0,BT3.9Y0
+Transplant recipient,ICD9PCS,Imaging @ Urinary System @ Ultrasonography @ Kidney Transplant,C2520914,Imaging @ Urinary System @ Ultrasonography @ Kidney Transplant,narrow,TP,TRANSPLANTRECIPIENT,COV,BT49,BT4.9
+Transplant recipient,ICD9PCS,Imaging @ Urinary System @ Ultrasonography @ Kidney Transplant @ None,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT49Z,BT4.9Z
+Transplant recipient,ICD9PCS,Imaging @ Urinary System @ Ultrasonography @ Kidney Transplant @ None @ None,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT49ZZ,BT4.9ZZ
+Transplant recipient,ICD9PCS,Lymphatic and Hemic Systems- Transplantation,C2461268,Medical and Surgical @ Lymphatic and Hemic Systems @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,07Y,07Y
+Transplant recipient,ICD9PCS,Magnetic Resonance Imaging (MRI) of Kidney Transplant using Other Contrast- Unenhanced and Enhanced,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT39Y0Z,BT3.9Y0Z
+Transplant recipient,ICD9PCS,Male Reproductive System- Transplantation,C5385920,Medical and Surgical @ Male Reproductive System @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,0VY,0VY
+Transplant recipient,ICD9PCS,Medical and Surgical @ Anatomical Regions- General @ Transplantation @ Face,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0WY2,0WY.2
+Transplant recipient,ICD9PCS,Medical and Surgical @ Anatomical Regions- General @ Transplantation @ Face @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0WY20,0WY.20
+Transplant recipient,ICD9PCS,Medical and Surgical @ Anatomical Regions- General @ Transplantation @ Face @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0WY20Z,0WY.20Z
+Transplant recipient,ICD9PCS,Medical and Surgical @ Anatomical Regions- Upper Extremities @ Transplantation @ Hand- Left,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0XYK,0XY.K
+Transplant recipient,ICD9PCS,Medical and Surgical @ Anatomical Regions- Upper Extremities @ Transplantation @ Hand- Left @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0XYK0,0XY.K0
+Transplant recipient,ICD9PCS,Medical and Surgical @ Anatomical Regions- Upper Extremities @ Transplantation @ Hand- Left @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0XYK0Z,0XY.K0Z
+Transplant recipient,ICD9PCS,Medical and Surgical @ Female Reproductive System @ Transplantation @ Ovary- Right,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0UY0,0UY.0
+Transplant recipient,ICD9PCS,Medical and Surgical @ Female Reproductive System @ Transplantation @ Ovary- Right @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0UY00,0UY.00
+Transplant recipient,ICD9PCS,Medical and Surgical @ Female Reproductive System @ Transplantation @ Ovary- Right @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0UY00Z,0UY.00Z
+Transplant recipient,ICD9PCS,Medical and Surgical @ Gastrointestinal System @ Transplantation @ Esophagus,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0DY5,0DY.5
+Transplant recipient,ICD9PCS,Medical and Surgical @ Gastrointestinal System @ Transplantation @ Esophagus @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0DY50,0DY.50
+Transplant recipient,ICD9PCS,Medical and Surgical @ Gastrointestinal System @ Transplantation @ Esophagus @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0DY50Z,0DY.50Z
+Transplant recipient,ICD9PCS,Medical and Surgical @ Heart and Great Vessels @ Transplantation @ Heart,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,02YA,02Y.A
+Transplant recipient,ICD9PCS,Medical and Surgical @ Heart and Great Vessels @ Transplantation @ Heart @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,02YA0,02Y.A0
+Transplant recipient,ICD9PCS,Medical and Surgical @ Heart and Great Vessels @ Transplantation @ Heart @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,02YA0Z,02Y.A0Z
+Transplant recipient,ICD9PCS,Medical and Surgical @ Hepatobiliary System and Pancreas @ Transplantation @ Liver,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0FY0,0FY.0
+Transplant recipient,ICD9PCS,Medical and Surgical @ Hepatobiliary System and Pancreas @ Transplantation @ Liver @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0FY00,0FY.00
+Transplant recipient,ICD9PCS,Medical and Surgical @ Hepatobiliary System and Pancreas @ Transplantation @ Liver @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0FY00Z,0FY.00Z
+Transplant recipient,ICD9PCS,Medical and Surgical @ Lymphatic and Hemic Systems @ Transplantation @ Thymus,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,07YM,07Y.M
+Transplant recipient,ICD9PCS,Medical and Surgical @ Lymphatic and Hemic Systems @ Transplantation @ Thymus @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,07YM0,07Y.M0
+Transplant recipient,ICD9PCS,Medical and Surgical @ Lymphatic and Hemic Systems @ Transplantation @ Thymus @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,07YM0Z,07Y.M0Z
+Transplant recipient,ICD9PCS,Medical and Surgical @ Male Reproductive System @ Transplantation @ Scrotum,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0VY5,0VY.5
+Transplant recipient,ICD9PCS,Medical and Surgical @ Male Reproductive System @ Transplantation @ Scrotum @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0VY50,0VY.50
+Transplant recipient,ICD9PCS,Medical and Surgical @ Male Reproductive System @ Transplantation @ Scrotum @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0VY50Z,0VY.50Z
+Transplant recipient,ICD9PCS,Medical and Surgical @ Respiratory System @ Transplantation @ Upper Lung Lobe- Right,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0BYC,0BY.C
+Transplant recipient,ICD9PCS,Medical and Surgical @ Respiratory System @ Transplantation @ Upper Lung Lobe- Right @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0BYC0,0BY.C0
+Transplant recipient,ICD9PCS,Medical and Surgical @ Respiratory System @ Transplantation @ Upper Lung Lobe- Right @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0BYC0Z,0BY.C0Z
+Transplant recipient,ICD9PCS,Medical and Surgical @ Urinary System @ Transplantation,C2583679,Medical and Surgical @ Urinary System @ Transplantation,narrow,TP,TRANSPLANTRECIPIENT,COV,0TY,0TY
+Transplant recipient,ICD9PCS,Medical and Surgical @ Urinary System @ Transplantation @ Kidney- Right,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0TY0,0TY.0
+Transplant recipient,ICD9PCS,Medical and Surgical @ Urinary System @ Transplantation @ Kidney- Right @ Open,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0TY00,0TY.00
+Transplant recipient,ICD9PCS,Medical and Surgical @ Urinary System @ Transplantation @ Kidney- Right @ Open @ No Device,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0TY00Z,0TY.00Z
+Transplant recipient,ICD9PCS,Transplantation of Esophagus- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0DY50Z0,0DY.50Z0
+Transplant recipient,ICD9PCS,Transplantation of Esophagus- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0DY50Z1,0DY.50Z1
+Transplant recipient,ICD9PCS,Transplantation of Esophagus- Zooplastic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0DY50Z2,0DY.50Z2
+Transplant recipient,ICD9PCS,Transplantation of Face- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0WY20Z0,0WY.20Z0
+Transplant recipient,ICD9PCS,Transplantation of Face- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0WY20Z1,0WY.20Z1
+Transplant recipient,ICD9PCS,Transplantation of Heart- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,02YA0Z0,02Y.A0Z0
+Transplant recipient,ICD9PCS,Transplantation of Heart- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,02YA0Z1,02Y.A0Z1
+Transplant recipient,ICD9PCS,Transplantation of Heart- Zooplastic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,02YA0Z2,02Y.A0Z2
+Transplant recipient,ICD9PCS,Transplantation of Left Hand- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0XYK0Z0,0XY.K0Z0
+Transplant recipient,ICD9PCS,Transplantation of Left Hand- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0XYK0Z1,0XY.K0Z1
+Transplant recipient,ICD9PCS,Transplantation of Liver- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0FY00Z0,0FY.00Z0
+Transplant recipient,ICD9PCS,Transplantation of Liver- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0FY00Z1,0FY.00Z1
+Transplant recipient,ICD9PCS,Transplantation of Liver- Zooplastic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0FY00Z2,0FY.00Z2
+Transplant recipient,ICD9PCS,Transplantation of Right Kidney- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0TY00Z0,0TY.00Z0
+Transplant recipient,ICD9PCS,Transplantation of Right Kidney- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0TY00Z1,0TY.00Z1
+Transplant recipient,ICD9PCS,Transplantation of Right Kidney- Zooplastic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0TY00Z2,0TY.00Z2
+Transplant recipient,ICD9PCS,Transplantation of Right Ovary- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0UY00Z0,0UY.00Z0
+Transplant recipient,ICD9PCS,Transplantation of Right Ovary- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0UY00Z1,0UY.00Z1
+Transplant recipient,ICD9PCS,Transplantation of Right Ovary- Zooplastic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0UY00Z2,0UY.00Z2
+Transplant recipient,ICD9PCS,Transplantation of Right Upper Lung Lobe- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0BYC0Z0,0BY.C0Z0
+Transplant recipient,ICD9PCS,Transplantation of Right Upper Lung Lobe- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0BYC0Z1,0BY.C0Z1
+Transplant recipient,ICD9PCS,Transplantation of Right Upper Lung Lobe- Zooplastic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0BYC0Z2,0BY.C0Z2
+Transplant recipient,ICD9PCS,Transplantation of Scrotum- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0VY50Z0,0VY.50Z0
+Transplant recipient,ICD9PCS,Transplantation of Scrotum- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0VY50Z1,0VY.50Z1
+Transplant recipient,ICD9PCS,Transplantation of Scrotum- Zooplastic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,0VY50Z2,0VY.50Z2
+Transplant recipient,ICD9PCS,Transplantation of Thymus- Allogeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,07YM0Z0,07Y.M0Z0
+Transplant recipient,ICD9PCS,Transplantation of Thymus- Syngeneic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,07YM0Z1,07Y.M0Z1
+Transplant recipient,ICD9PCS,Transplantation of Thymus- Zooplastic- Open Approach,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,07YM0Z2,07Y.M0Z2
+Transplant recipient,ICD9PCS,Transplantation of Uterus- Allogeneic- Open Approach,C4720304,Transplantation of Uterus- Allogeneic- Open Approach,narrow,TP,TRANSPLANTRECIPIENT,COV,0UY90Z0,0UY.90Z0
+Transplant recipient,ICD9PCS,Ultrasonography of Kidney Transplant,"","",narrow,TP,TRANSPLANTRECIPIENT,COV,BT49ZZZ,BT4.9ZZZ

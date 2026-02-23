@@ -1,0 +1,21 @@
+Algorithm,N,Total in the algorithm (left-hand OR right-hand),Left-hand,Right-hand,Unique contribution of the left-hand component (left-hand AND NOT right-hand),Overlap of both components (left-hand AND right-hand),Unique contribution of the right-hand component (right-hand AND NOT left-hand)
+1: Diagnoses,0,0,,,,,
+2: Medicines,< 5,142.9,,,,,
+3: Procedures,0,0,,,,,
+4: Emergency,0,0,,,,,
+5: Hospitalization,0,0,,,,,
+6: Flare,0,0,,,,,
+7: Dia + flares (1 or 6),0,0,,,,,
+8: ER + H (4 or 5),0,0,,,,,
+9: Dia + flares + ER + H (7 or 8),0,0,,,,,
+10: Med + proc (2 or 3),< 5,142.9,,,,,
+11: Diagnosis vs flares (1 vs 6),0,0,0,0,0,0,0
+12: ER vs H (4 vs 5),0,0,0,0,0,0,0
+13: (Dia + flares) vs medicines (7 vs 2),< 5,142.9,0,142.9,0,0,142.9
+14: (Dia + flares) vs procedures (7 vs 3),0,0,0,0,0,0,0
+15: (ER + H) vs medicines (8 vs 2),< 5,142.9,0,142.9,0,0,142.9
+16: (ER + H) vs procedures (8 vs 3),0,0,0,0,0,0,0
+17: (Dia + flares) vs (ER + H) (7 vs 8),0,0,0,0,0,0,0
+18: (Dia + flares + ER + H) vs medicines (9 vs 2),< 5,142.9,0,142.9,0,0,142.9
+19: (Dia + flares + ER + H) vs procedures (9 vs 3),0,0,0,0,0,0,0
+20: (Dia + flares + ER + H) vs (med + proc)  (9 vs 10),< 5,142.9,0,142.9,0,0,142.9

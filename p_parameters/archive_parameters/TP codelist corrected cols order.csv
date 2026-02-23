@@ -1,0 +1,438 @@
+event_definition,coding_system,code_name,concept,concept_name,tags,system,event_abbreviation,type,code_issue_dot,code
+Blood transfusion as UC flare up,ICD10,Blood transfusion without reported diagnosis,C0260780,Encounter due to blood transfusion- without reported diagnosis,narrow,TP,BLOODTRANSFUSIONUC,AESI,Z51.3,Z51.3
+Blood transfusion as UC flare up,ICD10PCS,Administration @ Circulatory @ Transfusion @ Peripheral Vein @ Percutaneous @ Red Blood Cells,C2490133,Administration @ Circulatory @ Transfusion @ Peripheral Vein @ Percutaneous @ Red Blood Cells,narrow,TP,BLOODTRANSFUSIONUC,AESI,30233N,302.33N
+Blood transfusion as UC flare up,ICD10PCS,Transfusion of Nonautologous Red Blood Cells into Peripheral Vein- Percutaneous Approach,C2452670,Transfusion of Nonautologous Red Blood Cells into Peripheral Vein- Percutaneous Approach,narrow,TP,BLOODTRANSFUSIONUC,AESI,30233N1,302.33N1
+Blood transfusion as UC flare up,ICD9CM,Transfusion of blood and blood components,C0371802,Transfusion- blood or blood components,narrow,TP,BLOODTRANSFUSIONUC,AESI,99.0,99.0
+Blood transfusion as UC flare up,ICD9CM,Transfusion of platelets,C0086818,Platelet Transfusion,narrow,TP,BLOODTRANSFUSIONUC,AESI,99.05,99.05
+Blood transfusion as UC flare up,ICD9CM,Blood transfusion- without reported diagnosis,C0260780,Encounter due to blood transfusion- without reported diagnosis,narrow,TP,BLOODTRANSFUSIONUC,AESI,V58.2,V58.2
+Blood transfusion as UC flare up,SCTSPA,servicio de medicina transfusional,C0587607,Transfusion medicine service,possible,TP,BLOODTRANSFUSIONUC,AESI,104075000,104075000
+Blood transfusion as UC flare up,SCTSPA,transfusión de hemoderivado,C0005841,Blood Transfusion,narrow,TP,BLOODTRANSFUSIONUC,AESI,116859006,116859006
+Blood transfusion as UC flare up,SCTSPA,transfusión de eritrocitos,C0086252,Red Blood Cell Transfusion,narrow,TP,BLOODTRANSFUSIONUC,AESI,116863004,116863004
+Blood transfusion as UC flare up,SCTSPA,transfusión de plaquetas,C0086818,Platelet Transfusion,narrow,TP,BLOODTRANSFUSIONUC,AESI,12719002,12719002
+Blood transfusion as UC flare up,SCTSPA,transfusión intravenosa de plaquetas,C0086818,Platelet Transfusion,narrow,TP,BLOODTRANSFUSIONUC,AESI,180208003,180208003
+Blood transfusion as UC flare up,SCTSPA,transfusión de un componente sanguíneo,C0085430,Blood Component Transfusion,narrow,TP,BLOODTRANSFUSIONUC,AESI,54790000,54790000
+Blood transfusion as UC flare up,SNOMEDCT_US,Transfusion medicine service,C0587607,Transfusion medicine service,possible,TP,BLOODTRANSFUSIONUC,AESI,104075000,104075000
+Blood transfusion as UC flare up,SNOMEDCT_US,Transfusion of blood product,C0005841,Blood Transfusion,narrow,TP,BLOODTRANSFUSIONUC,AESI,116859006,116859006
+Blood transfusion as UC flare up,SNOMEDCT_US,Transfusion of red blood cells,C0086252,Red Blood Cell Transfusion,narrow,TP,BLOODTRANSFUSIONUC,AESI,116863004,116863004
+Blood transfusion as UC flare up,SNOMEDCT_US,Platelet transfusion,C0086818,Platelet Transfusion,narrow,TP,BLOODTRANSFUSIONUC,AESI,12719002,12719002
+Blood transfusion as UC flare up,SNOMEDCT_US,Intravenous blood transfusion of platelets,C0086818,Platelet Transfusion,narrow,TP,BLOODTRANSFUSIONUC,AESI,180208003,180208003
+Blood transfusion as UC flare up,SNOMEDCT_US,Transfusion of blood component,C0085430,Blood Component Transfusion,narrow,TP,BLOODTRANSFUSIONUC,AESI,54790000,54790000
+Colectomy in Ulcerative colitis,ICD10PCS,Resection of Ascending Colon- Open Approach,C2409595,Resection of Ascending Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTK0ZZ,0DT.K0ZZ
+Colectomy in Ulcerative colitis,ICD10PCS,Resection of Ascending Colon- Percutaneous Endoscopic Approach,C2409597,Resection of Ascending Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTK4ZZ,0DT.K4ZZ
+Colectomy in Ulcerative colitis,ICD10PCS,Resection of Ascending Colon- Via Natural or Artificial Opening,C2409598,Resection of Ascending Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTK7ZZ,0DT.K7ZZ
+Colectomy in Ulcerative colitis,ICD10PCS,Resection of Ascending Colon- Via Natural or Artificial Opening Endoscopic,C2409599,Resection of Ascending Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTK8ZZ,0DT.K8ZZ
+Colectomy in Ulcerative colitis,ICD10PCS,Resection of Transverse Colon- Open Approach,C2409600,Resection of Transverse Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTL0ZZ,0DT.L0ZZ
+Colectomy in Ulcerative colitis,ICD10PCS,Resection of Transverse Colon- Percutaneous Endoscopic Approach,C2409602,Resection of Transverse Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTL4ZZ,0DT.L4ZZ
+Colectomy in Ulcerative colitis,ICD10PCS,Resection of Transverse Colon- Via Natural or Artificial Opening,C2409603,Resection of Transverse Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTL7ZZ,0DT.L7ZZ
+Colectomy in Ulcerative colitis,ICD10PCS,Resection of Transverse Colon- Via Natural or Artificial Opening Endoscopic,C2409604,Resection of Transverse Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTL8ZZ,0DT.L8ZZ
+Colectomy in Ulcerative colitis,ICD10PCS,Resection of Transverse Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,C4498031,Resection of Transverse Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,narrow,TP,COLECTOMY,AESI,0DTLFZZ,0DT.LFZZ
+Colectomy in Ulcerative colitis,ICD10PCS,Resection of Descending Colon- Open Approach,C2409605,Resection of Descending Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTM0ZZ,0DT.M0ZZ
+Colectomy in Ulcerative colitis,ICD10PCS,Resection of Descending Colon- Percutaneous Endoscopic Approach,C2409607,Resection of Descending Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTM4ZZ,0DT.M4ZZ
+Colectomy in Ulcerative colitis,ICD10PCS,Resection of Descending Colon- Via Natural or Artificial Opening,C2409608,Resection of Descending Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTM7ZZ,0DT.M7ZZ
+Colectomy in Ulcerative colitis,ICD10PCS,Resection of Descending Colon- Via Natural or Artificial Opening Endoscopic,C2409609,Resection of Descending Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTM8ZZ,0DT.M8ZZ
+Colectomy in Ulcerative colitis,ICD10PCS,Resection of Descending Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,C4498034,Resection of Descending Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,narrow,TP,COLECTOMY,AESI,0DTMFZZ,0DT.MFZZ
+Colectomy in Ulcerative colitis,ICD10PCS,Resection of Sigmoid Colon- Open Approach,C2409610,Resection of Sigmoid Colon- Open Approach,narrow,TP,COLECTOMY,AESI,0DTN0ZZ,0DT.N0ZZ
+Colectomy in Ulcerative colitis,ICD10PCS,Resection of Sigmoid Colon- Percutaneous Endoscopic Approach,C2409612,Resection of Sigmoid Colon- Percutaneous Endoscopic Approach,narrow,TP,COLECTOMY,AESI,0DTN4ZZ,0DT.N4ZZ
+Colectomy in Ulcerative colitis,ICD10PCS,Resection of Sigmoid Colon- Via Natural or Artificial Opening,C2409613,Resection of Sigmoid Colon- Via Natural or Artificial Opening,narrow,TP,COLECTOMY,AESI,0DTN7ZZ,0DT.N7ZZ
+Colectomy in Ulcerative colitis,ICD10PCS,Resection of Sigmoid Colon- Via Natural or Artificial Opening Endoscopic,C2409614,Resection of Sigmoid Colon- Via Natural or Artificial Opening Endoscopic,narrow,TP,COLECTOMY,AESI,0DTN8ZZ,0DT.N8ZZ
+Colectomy in Ulcerative colitis,ICD10PCS,Resection of Sigmoid Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,C4498037,Resection of Sigmoid Colon- Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance,narrow,TP,COLECTOMY,AESI,0DTNFZZ,0DT.NFZZ
+Colectomy in Ulcerative colitis,MEDCODEID,Other right hemicolectomy,C0192861,Right colectomy,narrow,TP,COLECTOMY,AESI,1221533013,1221533013
+Colectomy in Ulcerative colitis,MEDCODEID,Other colectomy,C0009274,Colectomy,narrow,TP,COLECTOMY,AESI,1221534019,1221534019
+Colectomy in Ulcerative colitis,MEDCODEID,Total excision of colon,C0192871,Total colectomy,narrow,TP,COLECTOMY,AESI,1225014019,1225014019
+Colectomy in Ulcerative colitis,MEDCODEID,Excision of transverse colon,C0192863,Transverse colectomy,narrow,TP,COLECTOMY,AESI,1225143013,1225143013
+Colectomy in Ulcerative colitis,MEDCODEID,Left hemicolectomy,C0192865,Left colectomy,narrow,TP,COLECTOMY,AESI,137056018,137056018
+Colectomy in Ulcerative colitis,MEDCODEID,Rankin partial colectomy,C0149750,Partial resection of colon,narrow,TP,COLECTOMY,AESI,191811000006117,191811000006117
+Colectomy in Ulcerative colitis,MEDCODEID,Proctocolectomy NEC,C0400076,Proctocolectomy,narrow,TP,COLECTOMY,AESI,269614017,269614017
+Colectomy in Ulcerative colitis,MEDCODEID,Other specified total excision of colon and rectum,C0400076,Proctocolectomy,narrow,TP,COLECTOMY,AESI,269615016,269615016
+Colectomy in Ulcerative colitis,MEDCODEID,Total excision of colon and rectum NOS,C0400076,Proctocolectomy,narrow,TP,COLECTOMY,AESI,269617012,269617012
+Colectomy in Ulcerative colitis,MEDCODEID,Other specified total excision of colon,C0192871,Total colectomy,narrow,TP,COLECTOMY,AESI,269623019,269623019
+Colectomy in Ulcerative colitis,MEDCODEID,Total excision of colon NOS,C0192871,Total colectomy,narrow,TP,COLECTOMY,AESI,269624013,269624013
+Colectomy in Ulcerative colitis,MEDCODEID,Right colectomy,C0192861,Right colectomy,narrow,TP,COLECTOMY,AESI,269634016,269634016
+Colectomy in Ulcerative colitis,MEDCODEID,Other specified other excision of right hemicolon,C0192861,Right colectomy,narrow,TP,COLECTOMY,AESI,269641010,269641010
+Colectomy in Ulcerative colitis,MEDCODEID,Other excision of right hemicolon NOS,C0192861,Right colectomy,narrow,TP,COLECTOMY,AESI,269642015,269642015
+Colectomy in Ulcerative colitis,MEDCODEID,Other specified excision of transverse colon,C0192863,Transverse colectomy,narrow,TP,COLECTOMY,AESI,269649012,269649012
+Colectomy in Ulcerative colitis,MEDCODEID,Excision of transverse colon NOS,C0192863,Transverse colectomy,narrow,TP,COLECTOMY,AESI,269650012,269650012
+Colectomy in Ulcerative colitis,MEDCODEID,Other specified excision of left hemicolon,C0192865,Left colectomy,narrow,TP,COLECTOMY,AESI,269657010,269657010
+Colectomy in Ulcerative colitis,MEDCODEID,Excision of left hemicolon NOS,C0192865,Left colectomy,narrow,TP,COLECTOMY,AESI,269658017,269658017
+Colectomy in Ulcerative colitis,MEDCODEID,Other excision of colon,C0009274,Colectomy,narrow,TP,COLECTOMY,AESI,269667017,269667017
+Colectomy in Ulcerative colitis,MEDCODEID,Colectomy and anastomosis NEC,C0009274,Colectomy,narrow,TP,COLECTOMY,AESI,269670018,269670018
+Colectomy in Ulcerative colitis,MEDCODEID,Partial colectomy,C0149750,Partial resection of colon,narrow,TP,COLECTOMY,AESI,269677015,269677015
+Colectomy in Ulcerative colitis,MEDCODEID,Other specified other excision of colon,C0009274,Colectomy,narrow,TP,COLECTOMY,AESI,269678013,269678013
+Colectomy in Ulcerative colitis,MEDCODEID,Excision of lesion of colon NEC,C0192869,Excision of lesion of colon,narrow,TP,COLECTOMY,AESI,269685012,269685012
+Colectomy in Ulcerative colitis,MEDCODEID,Total removal of colon,C0192871,Total colectomy,narrow,TP,COLECTOMY,AESI,2922561000006117,2922561000006117
+Colectomy in Ulcerative colitis,MEDCODEID,Resection of transverse colon,C0192863,Transverse colectomy,narrow,TP,COLECTOMY,AESI,2931161000006115,2931161000006115
+Colectomy in Ulcerative colitis,MEDCODEID,Subtotal colectomy,C0149750,Partial resection of colon,narrow,TP,COLECTOMY,AESI,3194261000006111,3194261000006111
+Colectomy in Ulcerative colitis,MEDCODEID,Segmental colectomy,C0149750,Partial resection of colon,narrow,TP,COLECTOMY,AESI,3194281000006118,3194281000006118
+Colectomy in Ulcerative colitis,MEDCODEID,Partial resection of colon,C0149750,Partial resection of colon,narrow,TP,COLECTOMY,AESI,352722017,352722017
+Colectomy in Ulcerative colitis,MEDCODEID,Colectomy,C0009274,Colectomy,narrow,TP,COLECTOMY,AESI,352723010,352723010
+Colectomy in Ulcerative colitis,MEDCODEID,Subtotal excision of colon,C0149750,Partial resection of colon,narrow,TP,COLECTOMY,AESI,354911000000115,354911000000115
+Colectomy in Ulcerative colitis,MEDCODEID,Other specified subtotal excision of colon,C0149750,Partial resection of colon,narrow,TP,COLECTOMY,AESI,375591000000118,375591000000118
+Colectomy in Ulcerative colitis,MEDCODEID,Subtotal excision of colon NOS,C0149750,Partial resection of colon,narrow,TP,COLECTOMY,AESI,375611000000114,375611000000114
+Colectomy in Ulcerative colitis,MEDCODEID,Left colectomy,C0192865,Left colectomy,narrow,TP,COLECTOMY,AESI,3843931000006113,3843931000006113
+Colectomy in Ulcerative colitis,MEDCODEID,Resection of descending colon,C0192865,Left colectomy,narrow,TP,COLECTOMY,AESI,3843941000006115,3843941000006115
+Colectomy in Ulcerative colitis,MEDCODEID,Colectomy and exteriorisation of bowel NEC,C0009274,Colectomy,narrow,TP,COLECTOMY,AESI,394172019,394172019
+Colectomy in Ulcerative colitis,MEDCODEID,Other excision of colon NOS,C0009274,Colectomy,narrow,TP,COLECTOMY,AESI,394174018,394174018
+Colectomy in Ulcerative colitis,MEDCODEID,Ileocolic resection,C1280902,Ileocolic resection,narrow,TP,COLECTOMY,AESI,412239016,412239016
+Colectomy in Ulcerative colitis,MEDCODEID,Total colectomy,C0192871,Total colectomy,narrow,TP,COLECTOMY,AESI,44200018,44200018
+Colectomy in Ulcerative colitis,MEDCODEID,Transverse colectomy,C0192863,Transverse colectomy,narrow,TP,COLECTOMY,AESI,45041010,45041010
+Colectomy in Ulcerative colitis,MEDCODEID,Excision of lesion of colon,C0192869,Excision of lesion of colon,narrow,TP,COLECTOMY,AESI,482551000000117,482551000000117
+Colectomy in Ulcerative colitis,MEDCODEID,Anterior resection of rectum with stapled anastomosis of sigmoid colon to anus with creation of J pouch,C0729753,Anterior resection of rectum with stapled anastomosis of sigmoid colon to anus with creation of J pouch,narrow,TP,COLECTOMY,AESI,485291000006112,485291000006112
+Colectomy in Ulcerative colitis,MEDCODEID,Anterior resection of rectum and anastomosis of colon to rectum using staples,C0400192,Anterior resection of rectum and anastomosis of colon to rectum using staples,narrow,TP,COLECTOMY,AESI,486451000006110,486451000006110
+Colectomy in Ulcerative colitis,MEDCODEID,Excision of left hemicolon,C0192865,Left colectomy,narrow,TP,COLECTOMY,AESI,505179012,505179012
+Colectomy in Ulcerative colitis,MEDCODEID,Ileocolectomy,C1280902,Ileocolic resection,narrow,TP,COLECTOMY,AESI,5582111000006112,5582111000006112
+Colectomy in Ulcerative colitis,MEDCODEID,Colectomy and end to end anastomosis of colon to colon NEC,C0009274,Colectomy,narrow,TP,COLECTOMY,AESI,571961000006111,571961000006111
+Colectomy in Ulcerative colitis,MEDCODEID,Colectomy and side to side anastomosis of ileum to colon NEC,C0009274,Colectomy,narrow,TP,COLECTOMY,AESI,571991000006115,571991000006115
+Colectomy in Ulcerative colitis,MEDCODEID,Snare resection of lesion of colon,C0578387,Snare resection of lesion of colon,narrow,TP,COLECTOMY,AESI,5897151000006114,5897151000006114
+Colectomy in Ulcerative colitis,MEDCODEID,Right hemicolectomy,C0192861,Right colectomy,narrow,TP,COLECTOMY,AESI,6203741000006114,6203741000006114
+Colectomy in Ulcerative colitis,MEDCODEID,Partial resection of colon and resection of terminal ileum with ileocolic anastomosis,C2733466,Excision of part of colon and excision of terminal ileum with ileocolic anastomosis,narrow,TP,COLECTOMY,AESI,7289051000006112,7289051000006112
+Colectomy in Ulcerative colitis,MEDCODEID,Partial colectomy,C0149750,Partial resection of colon,narrow,TP,COLECTOMY,AESI,863561000006114,863561000006114
+Colectomy in Ulcerative colitis,MEDCODEID,Proctocolectomy,C0400076,Proctocolectomy,narrow,TP,COLECTOMY,AESI,97301000006110,97301000006110
+Colectomy in Ulcerative colitis,MEDCODEID,Total proctocolectomy,C0400076,Proctocolectomy,narrow,TP,COLECTOMY,AESI,98111000006114,98111000006114
+Colectomy in Ulcerative colitis,SCTSPA,polipectomÃ­a colonoscÃ³pica de colon con asa,-,-,narrow,TP,COLECTOMY,AESI,10371000132109,10371000132109
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a parcial por abordaje transanal,-,-,narrow,TP,COLECTOMY,AESI,13327002,13327002
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a sigmoidea- asistida por laparoscopia,-,-,narrow,TP,COLECTOMY,AESI,1390003,1390003
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a derecha,C0192861,Right colectomy,narrow,TP,COLECTOMY,AESI,1409005,1409005
+Colectomy in Ulcerative colitis,SCTSPA,operaciÃ³n de Hartmann- resecciÃ³n rectal,-,-,narrow,TP,COLECTOMY,AESI,16564004,16564004
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n de colon y recto,C0400076,Proctocolectomy,narrow,TP,COLECTOMY,AESI,174059005,174059005
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n total de colon- SAI,C0192871,Total colectomy,narrow,TP,COLECTOMY,AESI,174070003,174070003
+Colectomy in Ulcerative colitis,SCTSPA,hemicolectomÃ­a derecha ampliada,-,-,narrow,TP,COLECTOMY,AESI,174071004,174071004
+Colectomy in Ulcerative colitis,SCTSPA,hemicolectomÃ­a derecha ampliada y anastomosis terminoterminal,-,-,narrow,TP,COLECTOMY,AESI,174072006,174072006
+Colectomy in Ulcerative colitis,SCTSPA,hemicolectomÃ­a derecha ampliada y anastomosis ileocÃ³lica,-,-,narrow,TP,COLECTOMY,AESI,174073001,174073001
+Colectomy in Ulcerative colitis,SCTSPA,hemicolectomÃ­a derecha y anastomosis ileocÃ³lica terminoterminal,-,-,narrow,TP,COLECTOMY,AESI,174080004,174080004
+Colectomy in Ulcerative colitis,SCTSPA,hemicolectomÃ­a derecha y anastomosis laterolateral de Ã­leon a colon transverso,-,-,narrow,TP,COLECTOMY,AESI,174081000,174081000
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a transversa y anastomosis terminoterminal,-,-,narrow,TP,COLECTOMY,AESI,174086005,174086005
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a transversa y anastomosis de Ã­leon a colon,-,-,narrow,TP,COLECTOMY,AESI,174087001,174087001
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n de colon transverso- SAI,C0192863,Transverse colectomy,narrow,TP,COLECTOMY,AESI,174092004,174092004
+Colectomy in Ulcerative colitis,SCTSPA,hemicolectomÃ­a izquierda y anastomosis colorrectal terminoterminal,-,-,narrow,TP,COLECTOMY,AESI,174093009,174093009
+Colectomy in Ulcerative colitis,SCTSPA,hemicolectomÃ­a izquierda y anastomosis colocolÃ³nica terminoterminal,-,-,narrow,TP,COLECTOMY,AESI,174094003,174094003
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n de hemicolon izquierdo- SAI,C0192865,Left colectomy,narrow,TP,COLECTOMY,AESI,174099008,174099008
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a sigmoidea y anastomosis terminoterminal de Ã­leon a recto,-,-,narrow,TP,COLECTOMY,AESI,174100000,174100000
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a sigmoidea y anastomosis de colon a recto,-,-,narrow,TP,COLECTOMY,AESI,174101001,174101001
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n anterior de recto y anastomosis de colon a recto mediante sutura mecÃ¡nica,C0400192,Anterior resection of rectum and anastomosis of colon to rectum using staples,narrow,TP,COLECTOMY,AESI,174241004,174241004
+Colectomy in Ulcerative colitis,SCTSPA,hemicolectomÃ­a izquierda ampliada,-,-,narrow,TP,COLECTOMY,AESI,235325001,235325001
+Colectomy in Ulcerative colitis,SCTSPA,hemicolectomÃ­a derecha,C0192861,Right colectomy,narrow,TP,COLECTOMY,AESI,235326000,235326000
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n de colon,C0009274,Colectomy,narrow,TP,COLECTOMY,AESI,23968004,23968004
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a total,C0192871,Total colectomy,narrow,TP,COLECTOMY,AESI,26390003,26390003
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n parcial de recto y colon sigmoide por prolapso,-,-,narrow,TP,COLECTOMY,AESI,265411006,265411006
+Colectomy in Ulcerative colitis,SCTSPA,rectosigmoidectomÃ­a y rectopexia,-,-,narrow,TP,COLECTOMY,AESI,265412004,265412004
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n de colon transverso,C0192863,Transverse colectomy,narrow,TP,COLECTOMY,AESI,26925005,26925005
+Colectomy in Ulcerative colitis,SCTSPA,polipectomÃ­a colÃ³nica,-,-,narrow,TP,COLECTOMY,AESI,274025005,274025005
+Colectomy in Ulcerative colitis,SCTSPA,remociÃ³n de Duhamel de tabique colorrectal,C0554057,Duhamel removal of colorectal septum,narrow,TP,COLECTOMY,AESI,275017002,275017002
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n ileocÃ³lica,C1280902,Ileocolic resection,narrow,TP,COLECTOMY,AESI,276190007,276190007
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n de mucosa de colostomÃ­a excedente,-,-,narrow,TP,COLECTOMY,AESI,287815004,287815004
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n con lazo de lesiÃ³n de colon,C0578387,Snare resection of lesion of colon,narrow,TP,COLECTOMY,AESI,301699000,301699000
+Colectomy in Ulcerative colitis,SCTSPA,hemicolectomÃ­a derecha ampliada e ileostomÃ­a,-,-,narrow,TP,COLECTOMY,AESI,304583001,304583001
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n de reservorio colÃ³nico,C0582489,Excision of colonic pouch,narrow,TP,COLECTOMY,AESI,304587000,304587000
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n de fÃ­stula yeyunocÃ³lica,-,-,narrow,TP,COLECTOMY,AESI,307507006,307507006
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a transversa laparoscÃ³pica,-,-,narrow,TP,COLECTOMY,AESI,307586000,307586000
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a transversa e ileostomÃ­a,-,-,narrow,TP,COLECTOMY,AESI,307644001,307644001
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a transversa y colostomÃ­a,-,-,narrow,TP,COLECTOMY,AESI,307645000,307645000
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a sigmoidea e ileostomÃ­a,-,-,narrow,TP,COLECTOMY,AESI,307648003,307648003
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a subtotal con anastomosis cecorrectal,-,-,narrow,TP,COLECTOMY,AESI,307654002,307654002
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a subtotal con anastomosis ileosigmoidea,-,-,narrow,TP,COLECTOMY,AESI,307656000,307656000
+Colectomy in Ulcerative colitis,SCTSPA,hemicolectomÃ­a izquierda y colostomÃ­a,-,-,narrow,TP,COLECTOMY,AESI,307657009,307657009
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a sigmoidea y colostomÃ­a,-,-,narrow,TP,COLECTOMY,AESI,307658004,307658004
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a subtotal con anastomosis ileorrectal,-,-,narrow,TP,COLECTOMY,AESI,307659007,307659007
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n de fÃ­stula colocutÃ¡nea,-,-,narrow,TP,COLECTOMY,AESI,307662005,307662005
+Colectomy in Ulcerative colitis,SCTSPA,ileostomÃ­a y colectomÃ­a total,-,-,narrow,TP,COLECTOMY,AESI,307666008,307666008
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a total- ileostomÃ­a y fÃ­stula mucosa rectal,-,-,narrow,TP,COLECTOMY,AESI,307667004,307667004
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a total- ileostomÃ­a y cierre de muÃ±Ã³n rectal,-,-,narrow,TP,COLECTOMY,AESI,307669001,307669001
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a abdominal total- con protectomÃ­a e ileostomÃ­a,-,-,narrow,TP,COLECTOMY,AESI,31130001,31130001
+Colectomy in Ulcerative colitis,SCTSPA,polipectomÃ­a colonoscÃ³pica,-,-,narrow,TP,COLECTOMY,AESI,311774002,311774002
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n anterior de recto con anastomosis por sutura mecÃ¡nica de colon sigmoide a ano con creaciÃ³n de reservorio en J,C0729753,Anterior resection of rectum with stapled anastomosis of sigmoid colon to anus with creation of J pouch,narrow,TP,COLECTOMY,AESI,312406002,312406002
+Colectomy in Ulcerative colitis,SCTSPA,hemicolectomÃ­a derecha y anastomosis ileocÃ³lica,-,-,narrow,TP,COLECTOMY,AESI,315321001,315321001
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a transversa con anastomosis,-,-,narrow,TP,COLECTOMY,AESI,315322008,315322008
+Colectomy in Ulcerative colitis,SCTSPA,hemicolectomÃ­a izquierda con anastomosis,-,-,narrow,TP,COLECTOMY,AESI,315324009,315324009
+Colectomy in Ulcerative colitis,SCTSPA,hemicolectomÃ­a izquierda con estoma,-,-,narrow,TP,COLECTOMY,AESI,315325005,315325005
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a sigmoidea con anastomosis,-,-,narrow,TP,COLECTOMY,AESI,315326006,315326006
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a sigmoidea con estoma,-,-,narrow,TP,COLECTOMY,AESI,315327002,315327002
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a parcial por abordaje abdominal,-,-,narrow,TP,COLECTOMY,AESI,32044008,32044008
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a derecha,C0192861,Right colectomy,narrow,TP,COLECTOMY,AESI,359571009,359571009
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a abdominal total- con ileoproctostomÃ­a,-,-,narrow,TP,COLECTOMY,AESI,36192008,36192008
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n de divertÃ­culos colÃ³nicos,-,-,narrow,TP,COLECTOMY,AESI,386197003,386197003
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a izquierda- asistida por laparoscopia,-,-,narrow,TP,COLECTOMY,AESI,41330009,41330009
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n subtotal de colon y recto con creaciÃ³n de bolsillo colÃ³nico y anastomosis coloanal,-,-,narrow,TP,COLECTOMY,AESI,427997001,427997001
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n parcial del colon,C0149750,Partial resection of colon,narrow,TP,COLECTOMY,AESI,43075005,43075005
+Colectomy in Ulcerative colitis,SCTSPA,fijaciÃ³n laparoscÃ³pica de prolapso rectal con resecciÃ³n de colon sigmoide,-,-,possible,TP,COLECTOMY,AESI,440033009,440033009
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n laparoscÃ³pica de parte del colon,C2733511,Laparoscopic excision of part of colon,narrow,TP,COLECTOMY,AESI,443480008,443480008
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a parcial con anastomosis quirÃºrgica,-,-,narrow,TP,COLECTOMY,AESI,44378008,44378008
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n de parte del colon con movilizaciÃ³n del Ã¡ngulo esplÃ©nico,C2733474,Excision of part of colon with mobilization of splenic flexure,narrow,TP,COLECTOMY,AESI,443909001,443909001
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n de parte del colon y resecciÃ³n de Ã­leon terminal con anastomosis ileocÃ³lica,C2733466,Excision of part of colon and excision of terminal ileum with ileocolic anastomosis,narrow,TP,COLECTOMY,AESI,444165004,444165004
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n en cuÃ±a de colon,C2959634,Wedge resection of colon,narrow,TP,COLECTOMY,AESI,445884009,445884009
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a laparoscÃ³pica izquierda asistida manualmente,-,-,narrow,TP,COLECTOMY,AESI,446222007,446222007
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a laparoscÃ³pica derecha asistida manualmente,-,-,narrow,TP,COLECTOMY,AESI,446223002,446223002
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a laparoscÃ³pica izquierda ampliada asistida manualmente,-,-,narrow,TP,COLECTOMY,AESI,446228006,446228006
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a parcial con colostomÃ­a y creaciÃ³n de mucofÃ­stula,-,-,narrow,TP,COLECTOMY,AESI,44642007,44642007
+Colectomy in Ulcerative colitis,SCTSPA,incisiÃ³n de colon y resecciÃ³n de pÃ³lipo,-,-,narrow,TP,COLECTOMY,AESI,446472006,446472006
+Colectomy in Ulcerative colitis,SCTSPA,colonoscopia y resecciÃ³n de mucosa de colon,-,-,narrow,TP,COLECTOMY,AESI,446521004,446521004
+Colectomy in Ulcerative colitis,SCTSPA,sigmoidoscopia y resecciÃ³n de mucosa de colon sigmoide,-,-,possible,TP,COLECTOMY,AESI,446747005,446747005
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a laparoscÃ³pica derecha ampliada asistida manualmente,-,-,narrow,TP,COLECTOMY,AESI,447166008,447166008
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a abdominal total- con proctectomÃ­a e ileostomÃ­a continente,-,-,narrow,TP,COLECTOMY,AESI,44751009,44751009
+Colectomy in Ulcerative colitis,SCTSPA,hemicolectomÃ­a derecha e ileostomÃ­a,-,-,narrow,TP,COLECTOMY,AESI,447946003,447946003
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a y anastomosis laterolateral de Ã­leon a colon,C3164339,Colectomy and side to side anastomosis of ileum to colon,narrow,TP,COLECTOMY,AESI,448050005,448050005
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n subtotal de colon y creaciÃ³n de reservorio colÃ³nico,-,-,narrow,TP,COLECTOMY,AESI,450461000,450461000
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n subtotal de colon y recto y creaciÃ³n de reservorio colÃ³nico,-,-,narrow,TP,COLECTOMY,AESI,450462007,450462007
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a abdominal total- con ileostomÃ­a,-,-,narrow,TP,COLECTOMY,AESI,456004,456004
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a derecha- asistida por laparoscopia,-,-,narrow,TP,COLECTOMY,AESI,50774009,50774009
+Colectomy in Ulcerative colitis,SCTSPA,rectosigmoidectomÃ­a,-,-,narrow,TP,COLECTOMY,AESI,54164009,54164009
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a total laparoscÃ³pica con anastomosis ileorrectal,-,-,narrow,TP,COLECTOMY,AESI,713165008,713165008
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a parcial con colostomÃ­a a nivel cutÃ¡neo,-,-,narrow,TP,COLECTOMY,AESI,73509004,73509004
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a derecha con estoma,-,-,narrow,TP,COLECTOMY,AESI,738551006,738551006
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n parcial de colon con estoma,C4545401,Partial resection of colon with stoma,narrow,TP,COLECTOMY,AESI,738552004,738552004
+Colectomy in Ulcerative colitis,SCTSPA,proctopexia combinada con resecciÃ³n de la porciÃ³n sigmoidea- por abordaje abdominal,-,-,narrow,TP,COLECTOMY,AESI,73996007,73996007
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a parcial con ileostomÃ­a y creaciÃ³n de mucofÃ­stula,-,-,narrow,TP,COLECTOMY,AESI,75312003,75312003
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n de apÃ©ndices epliploicos,-,-,narrow,TP,COLECTOMY,AESI,75404005,75404005
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n fibroendoscÃ³pica de lesiÃ³n de membrana mucosa colÃ³nica,-,-,narrow,TP,COLECTOMY,AESI,771568007,771568007
+Colectomy in Ulcerative colitis,SCTSPA,proctocolectomÃ­a restaurativa laparoscÃ³pica con bolsillo ileal y anastomosis anal,-,-,narrow,TP,COLECTOMY,AESI,787108001,787108001
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n de colon y recto completos,-,-,narrow,TP,COLECTOMY,AESI,787109009,787109009
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a total laparoscÃ³pica,C2111551,Laparoscopic total colectomy,narrow,TP,COLECTOMY,AESI,787874000,787874000
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a total e ileostomÃ­a en asa laparoscÃ³picas,-,-,narrow,TP,COLECTOMY,AESI,787875004,787875004
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a total e ileostomÃ­a laparoscÃ³picas,-,-,narrow,TP,COLECTOMY,AESI,787876003,787876003
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a abdominal total- con mucosectomÃ­a rectal y anastomosis quirÃºrgica ileoanal,-,-,narrow,TP,COLECTOMY,AESI,80294005,80294005
+Colectomy in Ulcerative colitis,SCTSPA,rectosigmoidectomÃ­a transacra,-,-,narrow,TP,COLECTOMY,AESI,81092009,81092009
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n del colon descendente,C0192865,Left colectomy,narrow,TP,COLECTOMY,AESI,82619000,82619000
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a parcial con coloproctostomÃ­a,-,-,narrow,TP,COLECTOMY,AESI,82900007,82900007
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a sigmoidea,-,-,narrow,TP,COLECTOMY,AESI,84604002,84604002
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n del colon para procedimiento de interposiciÃ³n,-,-,narrow,TP,COLECTOMY,AESI,84952009,84952009
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n de colon- recto y conducto anal completos,-,-,narrow,TP,COLECTOMY,AESI,858579005,858579005
+Colectomy in Ulcerative colitis,SCTSPA,resecciÃ³n de lesiÃ³n del colon,C0192869,Excision of lesion of colon,narrow,TP,COLECTOMY,AESI,87279008,87279008
+Colectomy in Ulcerative colitis,SCTSPA,cierre de una enterostomÃ­a de intestino grueso- con resecciÃ³n y anastomosis quirÃºrgica,C0192961,Closure of enterostomy of large intestine with resection and anastomosis,narrow,TP,COLECTOMY,AESI,87602008,87602008
+Colectomy in Ulcerative colitis,SCTSPA,colectomÃ­a parcial con coloproctostomÃ­a y colostomÃ­a,-,-,narrow,TP,COLECTOMY,AESI,89339008,89339008
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Colonoscopic snare polypectomy of colon,-,-,narrow,TP,COLECTOMY,AESI,10371000132109,10371000132109
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Partial colectomy by transanal approach,-,-,narrow,TP,COLECTOMY,AESI,13327002,13327002
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Laparoscopic-assisted sigmoid colectomy,-,-,narrow,TP,COLECTOMY,AESI,1390003,1390003
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Resection of ascending colon- cecum and terminal ileum,C0192861,Right colectomy,narrow,TP,COLECTOMY,AESI,1409005,1409005
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Colectomy,C0009274,Colectomy,narrow,TP,COLECTOMY,AESI,149388006,149388006
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Partial colectomy,C0149750,Partial resection of colon,narrow,TP,COLECTOMY,AESI,149392004,149392004
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Total colectomy,C0192871,Total colectomy,narrow,TP,COLECTOMY,AESI,149393009,149393009
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Hartmann operation- rectal resection,-,-,narrow,TP,COLECTOMY,AESI,16564004,16564004
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Excision of colon and rectum,C0400076,Proctocolectomy,narrow,TP,COLECTOMY,AESI,174059005,174059005
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Total excision of colon NOS,C0192871,Total colectomy,narrow,TP,COLECTOMY,AESI,174070003,174070003
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Extended right hemicolectomy,-,-,narrow,TP,COLECTOMY,AESI,174071004,174071004
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Extended right hemicolectomy and end-to-end anastomosis,-,-,narrow,TP,COLECTOMY,AESI,174072006,174072006
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Extended right hemicolectomy and anastomosis of ileum to colon,-,-,narrow,TP,COLECTOMY,AESI,174073001,174073001
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Right hemicolectomy and end to end anastomosis of ileum to colon,-,-,narrow,TP,COLECTOMY,AESI,174080004,174080004
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Right hemicolectomy and side-to-side anastomosis of ileum to transverse colon,-,-,narrow,TP,COLECTOMY,AESI,174081000,174081000
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Transverse colectomy and end-to-end anastomosis,-,-,narrow,TP,COLECTOMY,AESI,174086005,174086005
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Transverse colectomy and anastomosis of ileum to colon,-,-,narrow,TP,COLECTOMY,AESI,174087001,174087001
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Excision of transverse colon NOS,C0192863,Transverse colectomy,narrow,TP,COLECTOMY,AESI,174092004,174092004
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Left hemicolectomy and end to end anastomosis of colon to rectum,-,-,narrow,TP,COLECTOMY,AESI,174093009,174093009
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Left hemicolectomy and end-to-end anastomosis of colon to colon,-,-,narrow,TP,COLECTOMY,AESI,174094003,174094003
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Excision of left hemicolon NOS,C0192865,Left colectomy,narrow,TP,COLECTOMY,AESI,174099008,174099008
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Sigmoid colectomy and end-to-end anastomosis of ileum to rectum,-,-,narrow,TP,COLECTOMY,AESI,174100000,174100000
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Sigmoid colectomy and anastomosis of colon to rectum,-,-,narrow,TP,COLECTOMY,AESI,174101001,174101001
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Anterior resection of rectum and anastomosis of colon to rectum using staples,C0400192,Anterior resection of rectum and anastomosis of colon to rectum using staples,narrow,TP,COLECTOMY,AESI,174241004,174241004
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Anterior resection of rectum with stapled anastomosis of sigmoid colon to anus with creation of J pouch,C0729753,Anterior resection of rectum with stapled anastomosis of sigmoid colon to anus with creation of J pouch,narrow,TP,COLECTOMY,AESI,174243001,174243001
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Duhamel removal of colorectal septum,C0554057,Duhamel removal of colorectal septum,narrow,TP,COLECTOMY,AESI,174311003,174311003
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Subtotal colectomy,C0149750,Partial resection of colon,narrow,TP,COLECTOMY,AESI,235324002,235324002
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Extended left hemicolectomy,-,-,narrow,TP,COLECTOMY,AESI,235325001,235325001
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Right hemicolectomy,C0192861,Right colectomy,narrow,TP,COLECTOMY,AESI,235326000,235326000
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Segmental colectomy,C0149750,Partial resection of colon,narrow,TP,COLECTOMY,AESI,235328004,235328004
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Excision of colon,C0009274,Colectomy,narrow,TP,COLECTOMY,AESI,23968004,23968004
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Total colectomy,C0192871,Total colectomy,narrow,TP,COLECTOMY,AESI,26390003,26390003
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Partial excision of rectum and sigmoid colon for prolapse,-,-,narrow,TP,COLECTOMY,AESI,265411006,265411006
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Rectosigmoidectomy and rectopexy,-,-,narrow,TP,COLECTOMY,AESI,265412004,265412004
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Colectomy,C0009274,Colectomy,narrow,TP,COLECTOMY,AESI,265869005,265869005
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Partial colectomy,C0149750,Partial resection of colon,narrow,TP,COLECTOMY,AESI,265871005,265871005
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Transverse colectomy,C0192863,Transverse colectomy,narrow,TP,COLECTOMY,AESI,26925005,26925005
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Colonic polypectomy,-,-,narrow,TP,COLECTOMY,AESI,274025005,274025005
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Duhamel removal of colorectal septum,C0554057,Duhamel removal of colorectal septum,narrow,TP,COLECTOMY,AESI,275017002,275017002
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Ileocolic resection,C1280902,Ileocolic resection,narrow,TP,COLECTOMY,AESI,276190007,276190007
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Excision of excess colostomy mucosa,-,-,narrow,TP,COLECTOMY,AESI,287815004,287815004
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Snare resection of lesion of colon,C0578387,Snare resection of lesion of colon,narrow,TP,COLECTOMY,AESI,301699000,301699000
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Extended right hemicolectomy and ileostomy,-,-,narrow,TP,COLECTOMY,AESI,304583001,304583001
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Excision of colonic pouch,C0582489,Excision of colonic pouch,narrow,TP,COLECTOMY,AESI,304587000,304587000
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Excision jejunocolic fistula,-,-,narrow,TP,COLECTOMY,AESI,307507006,307507006
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Laparoscopic transverse colectomy,-,-,narrow,TP,COLECTOMY,AESI,307586000,307586000
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Transverse colectomy and ileostomy,-,-,narrow,TP,COLECTOMY,AESI,307644001,307644001
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Transverse colectomy and colostomy,-,-,narrow,TP,COLECTOMY,AESI,307645000,307645000
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Sigmoid colectomy and ileostomy,-,-,narrow,TP,COLECTOMY,AESI,307648003,307648003
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Subtotal colectomy with cecorectal anastomosis,-,-,narrow,TP,COLECTOMY,AESI,307654002,307654002
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Subtotal colectomy with ileosigmoid anastomosis,-,-,narrow,TP,COLECTOMY,AESI,307656000,307656000
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Left hemicolectomy and colostomy,-,-,narrow,TP,COLECTOMY,AESI,307657009,307657009
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Sigmoid colectomy and colostomy,-,-,narrow,TP,COLECTOMY,AESI,307658004,307658004
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Subtotal colectomy with ileorectal anastomosis,-,-,narrow,TP,COLECTOMY,AESI,307659007,307659007
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Excision of colocutaneous fistula,-,-,narrow,TP,COLECTOMY,AESI,307662005,307662005
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Total colectomy and ileostomy,-,-,narrow,TP,COLECTOMY,AESI,307666008,307666008
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Total colectomy- ileostomy and rectal mucous fistula,-,-,narrow,TP,COLECTOMY,AESI,307667004,307667004
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Total colectomy- ileostomy and closure of rectal stump,-,-,narrow,TP,COLECTOMY,AESI,307669001,307669001
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Total abdominal colectomy with proctectomy and ileostomy,-,-,narrow,TP,COLECTOMY,AESI,31130001,31130001
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Colonoscopic polypectomy,-,-,narrow,TP,COLECTOMY,AESI,311774002,311774002
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Anterior resection of rectum with stapled anastomosis of sigmoid colon to anus with creation of J pouch,C0729753,Anterior resection of rectum with stapled anastomosis of sigmoid colon to anus with creation of J pouch,narrow,TP,COLECTOMY,AESI,312406002,312406002
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Right hemicolectomy and anastomosis of ileum to colon,-,-,narrow,TP,COLECTOMY,AESI,315321001,315321001
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Transverse colectomy with anastomosis,-,-,narrow,TP,COLECTOMY,AESI,315322008,315322008
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Left hemicolectomy with anastomosis,-,-,narrow,TP,COLECTOMY,AESI,315324009,315324009
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Left hemicolectomy with stoma,-,-,narrow,TP,COLECTOMY,AESI,315325005,315325005
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Sigmoid colectomy with anastomosis,-,-,narrow,TP,COLECTOMY,AESI,315326006,315326006
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Sigmoid colectomy with stoma,-,-,narrow,TP,COLECTOMY,AESI,315327002,315327002
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Partial colectomy by abdominal approach,-,-,narrow,TP,COLECTOMY,AESI,32044008,32044008
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Right colectomy,C0192861,Right colectomy,narrow,TP,COLECTOMY,AESI,359571009,359571009
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Total abdominal colectomy with ileoproctostomy,-,-,narrow,TP,COLECTOMY,AESI,36192008,36192008
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Excision of diverticula of colon,-,-,narrow,TP,COLECTOMY,AESI,386197003,386197003
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Laparoscopic-assisted left colectomy,-,-,narrow,TP,COLECTOMY,AESI,41330009,41330009
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Subtotal excision of colon and rectum and creation of colonic pouch and anastomosis of colon to anus,-,-,narrow,TP,COLECTOMY,AESI,427997001,427997001
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Partial resection of colon,C0149750,Partial resection of colon,narrow,TP,COLECTOMY,AESI,43075005,43075005
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Laparoscopic fixation of prolapse of rectum with resection of sigmoid,-,-,possible,TP,COLECTOMY,AESI,440033009,440033009
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Laparoscopic excision of part of colon,C2733511,Laparoscopic excision of part of colon,narrow,TP,COLECTOMY,AESI,443480008,443480008
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Partial colectomy with anastomosis,-,-,narrow,TP,COLECTOMY,AESI,44378008,44378008
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Excision of part of colon with mobilization of splenic flexure,C2733474,Excision of part of colon with mobilization of splenic flexure,narrow,TP,COLECTOMY,AESI,443909001,443909001
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Excision of part of colon and excision of terminal ileum with ileocolic anastomosis,C2733466,Excision of part of colon and excision of terminal ileum with ileocolic anastomosis,narrow,TP,COLECTOMY,AESI,444165004,444165004
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Wedge resection of colon,C2959634,Wedge resection of colon,narrow,TP,COLECTOMY,AESI,445884009,445884009
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Hand assisted laparoscopic left colectomy,-,-,narrow,TP,COLECTOMY,AESI,446222007,446222007
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Hand assisted laparoscopic right colectomy,-,-,narrow,TP,COLECTOMY,AESI,446223002,446223002
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Hand assisted laparoscopic extended left colectomy,-,-,narrow,TP,COLECTOMY,AESI,446228006,446228006
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Partial colectomy with colostomy and creation of mucofistula,-,-,narrow,TP,COLECTOMY,AESI,44642007,44642007
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Incision of colon and excision of polyp,-,-,narrow,TP,COLECTOMY,AESI,446472006,446472006
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Colonoscopy and excision of mucosa of colon,-,-,narrow,TP,COLECTOMY,AESI,446521004,446521004
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Sigmoidoscopy and excision of mucosa of sigmoid colon,-,-,possible,TP,COLECTOMY,AESI,446747005,446747005
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Hand assisted laparoscopic extended right colectomy,-,-,narrow,TP,COLECTOMY,AESI,447166008,447166008
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Total abdominal colectomy with proctectomy and continent ileostomy,-,-,narrow,TP,COLECTOMY,AESI,44751009,44751009
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Right hemicolectomy and ileostomy,-,-,narrow,TP,COLECTOMY,AESI,447946003,447946003
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Colectomy and side to side anastomosis of ileum to colon,C3164339,Colectomy and side to side anastomosis of ileum to colon,narrow,TP,COLECTOMY,AESI,448050005,448050005
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Subtotal excision of colon and creation of colonic pouch,-,-,narrow,TP,COLECTOMY,AESI,450461000,450461000
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Subtotal excision of colon and rectum and creation of colonic pouch,-,-,narrow,TP,COLECTOMY,AESI,450462007,450462007
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Total abdominal colectomy with ileostomy,-,-,narrow,TP,COLECTOMY,AESI,456004,456004
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Laparoscopic-assisted right colectomy,-,-,narrow,TP,COLECTOMY,AESI,50774009,50774009
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Rectosigmoidectomy,-,-,narrow,TP,COLECTOMY,AESI,54164009,54164009
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Laparoscopic total colectomy with ileo-rectal anastomosis,-,-,narrow,TP,COLECTOMY,AESI,713165008,713165008
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Partial colectomy with skin level colostomy,-,-,narrow,TP,COLECTOMY,AESI,73509004,73509004
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Right colectomy with stoma,-,-,narrow,TP,COLECTOMY,AESI,738551006,738551006
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Partial resection of colon with stoma,C4545401,Partial resection of colon with stoma,narrow,TP,COLECTOMY,AESI,738552004,738552004
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Proctopexy combined with sigmoid resection by abdominal approach,-,-,narrow,TP,COLECTOMY,AESI,73996007,73996007
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Partial colectomy with ileostomy and creation of mucofistula,-,-,narrow,TP,COLECTOMY,AESI,75312003,75312003
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Epiploectomy,-,-,narrow,TP,COLECTOMY,AESI,75404005,75404005
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Fiberoptic endoscopic excision of lesion of colonic mucous membrane,-,-,narrow,TP,COLECTOMY,AESI,771568007,771568007
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Laparoscopic restorative proctocolectomy with ileal pouch anal anastomosis,-,-,narrow,TP,COLECTOMY,AESI,787108001,787108001
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Excision of entire colon and entire rectum,-,-,narrow,TP,COLECTOMY,AESI,787109009,787109009
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Laparoscopic total colectomy,C2111551,Laparoscopic total colectomy,narrow,TP,COLECTOMY,AESI,787874000,787874000
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Laparoscopic total colectomy and loop ileostomy,-,-,narrow,TP,COLECTOMY,AESI,787875004,787875004
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Laparoscopic total colectomy and ileostomy,-,-,narrow,TP,COLECTOMY,AESI,787876003,787876003
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Total abdominal colectomy with rectal mucosectomy and ileoanal anastomosis,-,-,narrow,TP,COLECTOMY,AESI,80294005,80294005
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Transsacral rectosigmoidectomy,-,-,narrow,TP,COLECTOMY,AESI,81092009,81092009
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Resection of descending colon,C0192865,Left colectomy,narrow,TP,COLECTOMY,AESI,82619000,82619000
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Partial colectomy with coloproctostomy,-,-,narrow,TP,COLECTOMY,AESI,82900007,82900007
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Sigmoid colectomy,-,-,narrow,TP,COLECTOMY,AESI,84604002,84604002
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Resection of colon for interposition,-,-,narrow,TP,COLECTOMY,AESI,84952009,84952009
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Panproctocolectomy,-,-,narrow,TP,COLECTOMY,AESI,858579005,858579005
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Excision of lesion of colon,C0192869,Excision of lesion of colon,narrow,TP,COLECTOMY,AESI,87279008,87279008
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Closure of enterostomy of large intestine with resection and anastomosis,C0192961,Closure of enterostomy of large intestine with resection and anastomosis,narrow,TP,COLECTOMY,AESI,87602008,87602008
+Colectomy in Ulcerative colitis,SNOMEDCT_US,Partial colectomy with coloproctostomy and colostomy,-,-,narrow,TP,COLECTOMY,AESI,89339008,89339008
+Debridement as flare of EN,ICD10CM,Encounter for change or removal of nonsurgical wound dressing,C1719690,Encounter for change or removal of nonsurgical wound dressing,narrow,TP,DEBRIDEMENTEN,AESI,Z48.00,Z48.00
+Debridement as flare of EN,ICD9CM,Attention to dressings and sutures,C1719694,Attention to dressings and sutures,narrow,TP,DEBRIDEMENTEN,AESI,V58.3,V58.3
+Debridement as flare of EN,ICD9CM,Encounter for change or removal of nonsurgical wound dressing,C1719690,Encounter for change or removal of nonsurgical wound dressing,narrow,TP,DEBRIDEMENTEN,AESI,V58.30,V58.30
+Debridement as flare of EN,SCTSPA,desbridamiento (acción),C0011079,Debridement,narrow,TP,DEBRIDEMENTEN,AESI,129317004,129317004
+Debridement as flare of EN,SCTSPA,desbridamiento y sutura,C0185004,Debridement and suture,narrow,TP,DEBRIDEMENTEN,AESI,19697009,19697009
+Debridement as flare of EN,SCTSPA,desbridamiento de úlcera de pierna,C0730079,Debridement of leg ulcer,narrow,TP,DEBRIDEMENTEN,AESI,312732009,312732009
+Debridement as flare of EN,SCTSPA,desbridamiento de úlcera de pie,C0730080,Debridement of foot ulcer,narrow,TP,DEBRIDEMENTEN,AESI,312733004,312733004
+Debridement as flare of EN,SCTSPA,desbridamiento de úlcera,C0730126,Debridement of ulcer,narrow,TP,DEBRIDEMENTEN,AESI,312775003,312775003
+Debridement as flare of EN,SCTSPA,desbridamiento,C0011079,Debridement,narrow,TP,DEBRIDEMENTEN,AESI,36777000,36777000
+Debridement as flare of EN,SCTSPA,desbridamiento por resección - acción,C2732598,Excision debridement - action,narrow,TP,DEBRIDEMENTEN,AESI,442837002,442837002
+Debridement as flare of EN,SCTSPA,desbridamiento de la piel- tejido celular subcutáneo y músculo,C0185219,Debridement of skin- subcutaneous tissue and muscle,narrow,TP,DEBRIDEMENTEN,AESI,46863009,46863009
+Debridement as flare of EN,SCTSPA,desbridamiento de herida en la piel,C0191342,Debridement of wound of skin,narrow,TP,DEBRIDEMENTEN,AESI,85875009,85875009
+Debridement as flare of EN,SNOMEDCT_US,Debridement - action,C0011079,Debridement,narrow,TP,DEBRIDEMENTEN,AESI,129317004,129317004
+Debridement as flare of EN,SNOMEDCT_US,Debridement and suture,C0185004,Debridement and suture,narrow,TP,DEBRIDEMENTEN,AESI,19697009,19697009
+Debridement as flare of EN,SNOMEDCT_US,Debridement of leg ulcer,C0730079,Debridement of leg ulcer,narrow,TP,DEBRIDEMENTEN,AESI,312732009,312732009
+Debridement as flare of EN,SNOMEDCT_US,Debridement of foot ulcer,C0730080,Debridement of foot ulcer,narrow,TP,DEBRIDEMENTEN,AESI,312733004,312733004
+Debridement as flare of EN,SNOMEDCT_US,Debridement of ulcer,C0730126,Debridement of ulcer,narrow,TP,DEBRIDEMENTEN,AESI,312775003,312775003
+Debridement as flare of EN,SNOMEDCT_US,Debridement,C0011079,Debridement,narrow,TP,DEBRIDEMENTEN,AESI,36777000,36777000
+Debridement as flare of EN,SNOMEDCT_US,Excision debridement - action,C2732598,Excision debridement - action,narrow,TP,DEBRIDEMENTEN,AESI,442837002,442837002
+Debridement as flare of EN,SNOMEDCT_US,Debridement of skin- subcutaneous tissue and muscle,C0185219,Debridement of skin- subcutaneous tissue and muscle,narrow,TP,DEBRIDEMENTEN,AESI,46863009,46863009
+Debridement as flare of EN,SNOMEDCT_US,Debridement of wound of skin,C0191342,Debridement of wound of skin,narrow,TP,DEBRIDEMENTEN,AESI,85875009,85875009
+Proctocolectomy in UC flare up,MEDCODEID,Laparoscopic restorative proctocolectomy,C5192602,Laparoscopic restorative proctocolectomy with ileal pouch anal anastomosis,narrow,TP,PROCTOCOLECTOMY,AESI,13662261000006117,13662261000006117
+Proctocolectomy in UC flare up,MEDCODEID,Excision of entire colon and entire rectum,C0842176,Total Proctocolectomy,narrow,TP,PROCTOCOLECTOMY,AESI,13662271000006112,13662271000006112
+Proctocolectomy in UC flare up,MEDCODEID,Total proctocolectomy,C0842176,Total Proctocolectomy,narrow,TP,PROCTOCOLECTOMY,AESI,13662281000006110,13662281000006110
+Proctocolectomy in UC flare up,MEDCODEID,Panproctocolectomy,C0842176,Total Proctocolectomy,narrow,TP,PROCTOCOLECTOMY,AESI,13662291000006113,13662291000006113
+Proctocolectomy in UC flare up,MEDCODEID,Total excision of colon and rectum,C0842176,Total Proctocolectomy,narrow,TP,PROCTOCOLECTOMY,AESI,13662301000006114,13662301000006114
+Proctocolectomy in UC flare up,MEDCODEID,Panproctocolectomy,C5234875,Excision of entire colon- entire rectum and entire anal canal (procedure),narrow,TP,PROCTOCOLECTOMY,AESI,13948461000006113,13948461000006113
+Proctocolectomy in UC flare up,MEDCODEID,Total abdominal colectomy with rectal mucosectomy and ileoanal anastomosis,C0192876,Total abdominal colectomy with rectal mucosectomy and ileoanal anastomosis,narrow,TP,PROCTOCOLECTOMY,AESI,249841000006113,249841000006113
+Proctocolectomy in UC flare up,MEDCODEID,Panproctocolectomy and anastomosis of ileum to anus NEC,C0192876,Total abdominal colectomy with rectal mucosectomy and ileoanal anastomosis,narrow,TP,PROCTOCOLECTOMY,AESI,269613011,269613011
+Proctocolectomy in UC flare up,MEDCODEID,Proctocolectomy NEC,C0400076,Proctocolectomy,narrow,TP,PROCTOCOLECTOMY,AESI,269614017,269614017
+Proctocolectomy in UC flare up,MEDCODEID,Other specified total excision of colon and rectum,C0400076,Proctocolectomy,narrow,TP,PROCTOCOLECTOMY,AESI,269615016,269615016
+Proctocolectomy in UC flare up,MEDCODEID,Total excision of colon and rectum NOS,C0400076,Proctocolectomy,narrow,TP,PROCTOCOLECTOMY,AESI,269617012,269617012
+Proctocolectomy in UC flare up,MEDCODEID,Total abdominal colectomy with proctectomy and ileostomy,C0400082,Total abdominal colectomy with proctectomy and ileostomy (procedure),narrow,TP,PROCTOCOLECTOMY,AESI,3001901000006113,3001901000006113
+Proctocolectomy in UC flare up,MEDCODEID,Resection of rectosigmoid,C0193063,Rectosigmoidectomy,narrow,TP,PROCTOCOLECTOMY,AESI,3378601000006116,3378601000006116
+Proctocolectomy in UC flare up,MEDCODEID,Proctosigmoidectomy,C0193063,Rectosigmoidectomy,narrow,TP,PROCTOCOLECTOMY,AESI,3378611000006118,3378611000006118
+Proctocolectomy in UC flare up,MEDCODEID,Panproctocolectomy and ileostomy,C0400082,Total abdominal colectomy with proctectomy and ileostomy (procedure),narrow,TP,PROCTOCOLECTOMY,AESI,484784010,484784010
+Proctocolectomy in UC flare up,MEDCODEID,Rectosigmoidectomy,C0193063,Rectosigmoidectomy,narrow,TP,PROCTOCOLECTOMY,AESI,90017013,90017013
+Proctocolectomy in UC flare up,MEDCODEID,Proctocolectomy,C0400076,Proctocolectomy,narrow,TP,PROCTOCOLECTOMY,AESI,97301000006110,97301000006110
+Proctocolectomy in UC flare up,MEDCODEID,Total proctocolectomy,C0400076,Proctocolectomy,narrow,TP,PROCTOCOLECTOMY,AESI,98111000006114,98111000006114
+Proctocolectomy in UC flare up,SCTSPA,operaciÃ³n de Hartmann- resecciÃ³n rectal,-,-,narrow,TP,PROCTOCOLECTOMY,AESI,16564004,16564004
+Proctocolectomy in UC flare up,SCTSPA,resecciÃ³n de colon y recto,C0400076,Proctocolectomy,narrow,TP,PROCTOCOLECTOMY,AESI,174059005,174059005
+Proctocolectomy in UC flare up,SCTSPA,resecciÃ³n total de colon y recto- SAI,C0842176,Total Proctocolectomy,narrow,TP,PROCTOCOLECTOMY,AESI,174065005,174065005
+Proctocolectomy in UC flare up,SCTSPA,resecciÃ³n parcial de recto y colon sigmoide por prolapso,-,-,narrow,TP,PROCTOCOLECTOMY,AESI,265411006,265411006
+Proctocolectomy in UC flare up,SCTSPA,rectosigmoidectomÃ­a y rectopexia,-,-,narrow,TP,PROCTOCOLECTOMY,AESI,265412004,265412004
+Proctocolectomy in UC flare up,SCTSPA,colectomÃ­a abdominal total- con protectomÃ­a e ileostomÃ­a,C0400082,Total abdominal colectomy with proctectomy and ileostomy (procedure),narrow,TP,PROCTOCOLECTOMY,AESI,31130001,31130001
+Proctocolectomy in UC flare up,SCTSPA,resecciÃ³n subtotal de colon y recto con creaciÃ³n de bolsillo colÃ³nico y anastomosis coloanal,-,-,narrow,TP,PROCTOCOLECTOMY,AESI,427997001,427997001
+Proctocolectomy in UC flare up,SCTSPA,colectomÃ­a abdominal total- con proctectomÃ­a e ileostomÃ­a continente,-,-,narrow,TP,PROCTOCOLECTOMY,AESI,44751009,44751009
+Proctocolectomy in UC flare up,SCTSPA,resecciÃ³n subtotal de colon y recto y creaciÃ³n de reservorio colÃ³nico,C3472255,Subtotal excision of colon and rectum and creation of colonic pouch,narrow,TP,PROCTOCOLECTOMY,AESI,450462007,450462007
+Proctocolectomy in UC flare up,SCTSPA,rectosigmoidectomÃ­a,C0193063,Rectosigmoidectomy,narrow,TP,PROCTOCOLECTOMY,AESI,54164009,54164009
+Proctocolectomy in UC flare up,SCTSPA,proctocolectomÃ­a restaurativa laparoscÃ³pica con bolsillo ileal y anastomosis anal,C5192602,Laparoscopic restorative proctocolectomy with ileal pouch anal anastomosis,narrow,TP,PROCTOCOLECTOMY,AESI,787108001,787108001
+Proctocolectomy in UC flare up,SCTSPA,resecciÃ³n de colon y recto completos,C0842176,Total Proctocolectomy,narrow,TP,PROCTOCOLECTOMY,AESI,787109009,787109009
+Proctocolectomy in UC flare up,SCTSPA,colectomÃ­a abdominal total- con mucosectomÃ­a rectal y anastomosis quirÃºrgica ileoanal,C0192876,Total abdominal colectomy with rectal mucosectomy and ileoanal anastomosis,narrow,TP,PROCTOCOLECTOMY,AESI,80294005,80294005
+Proctocolectomy in UC flare up,SCTSPA,rectosigmoidectomÃ­a transacra,-,-,narrow,TP,PROCTOCOLECTOMY,AESI,81092009,81092009
+Proctocolectomy in UC flare up,SCTSPA,resecciÃ³n de colon- recto y conducto anal completos,C5234875,Excision of entire colon- entire rectum and entire anal canal (procedure),narrow,TP,PROCTOCOLECTOMY,AESI,858579005,858579005
+Proctocolectomy in UC flare up,SNOMEDCT_US,Hartmann operation- rectal resection,-,-,narrow,TP,PROCTOCOLECTOMY,AESI,16564004,16564004
+Proctocolectomy in UC flare up,SNOMEDCT_US,Excision of colon and rectum,C0400076,Proctocolectomy,narrow,TP,PROCTOCOLECTOMY,AESI,174059005,174059005
+Proctocolectomy in UC flare up,SNOMEDCT_US,Total excision of colon and rectum NOS,C0842176,Total Proctocolectomy,narrow,TP,PROCTOCOLECTOMY,AESI,174065005,174065005
+Proctocolectomy in UC flare up,SNOMEDCT_US,Rectosigmoidectomy,C0193063,Rectosigmoidectomy,narrow,TP,PROCTOCOLECTOMY,AESI,174234005,174234005
+Proctocolectomy in UC flare up,SNOMEDCT_US,Partial excision of rectum and sigmoid colon for prolapse,-,-,narrow,TP,PROCTOCOLECTOMY,AESI,265411006,265411006
+Proctocolectomy in UC flare up,SNOMEDCT_US,Rectosigmoidectomy and rectopexy,-,-,narrow,TP,PROCTOCOLECTOMY,AESI,265412004,265412004
+Proctocolectomy in UC flare up,SNOMEDCT_US,Total abdominal colectomy with proctectomy and ileostomy,C0400082,Total abdominal colectomy with proctectomy and ileostomy (procedure),narrow,TP,PROCTOCOLECTOMY,AESI,31130001,31130001
+Proctocolectomy in UC flare up,SNOMEDCT_US,Subtotal excision of colon and rectum and creation of colonic pouch and anastomosis of colon to anus,-,-,narrow,TP,PROCTOCOLECTOMY,AESI,427997001,427997001
+Proctocolectomy in UC flare up,SNOMEDCT_US,Total abdominal colectomy with proctectomy and continent ileostomy,-,-,narrow,TP,PROCTOCOLECTOMY,AESI,44751009,44751009
+Proctocolectomy in UC flare up,SNOMEDCT_US,Subtotal excision of colon and rectum and creation of colonic pouch,C3472255,Subtotal excision of colon and rectum and creation of colonic pouch,narrow,TP,PROCTOCOLECTOMY,AESI,450462007,450462007
+Proctocolectomy in UC flare up,SNOMEDCT_US,Rectosigmoidectomy,C0193063,Rectosigmoidectomy,narrow,TP,PROCTOCOLECTOMY,AESI,54164009,54164009
+Proctocolectomy in UC flare up,SNOMEDCT_US,Laparoscopic restorative proctocolectomy with ileal pouch anal anastomosis,C5192602,Laparoscopic restorative proctocolectomy with ileal pouch anal anastomosis,narrow,TP,PROCTOCOLECTOMY,AESI,787108001,787108001
+Proctocolectomy in UC flare up,SNOMEDCT_US,Excision of entire colon and entire rectum,C0842176,Total Proctocolectomy,narrow,TP,PROCTOCOLECTOMY,AESI,787109009,787109009
+Proctocolectomy in UC flare up,SNOMEDCT_US,Total abdominal colectomy with rectal mucosectomy and ileoanal anastomosis,C0192876,Total abdominal colectomy with rectal mucosectomy and ileoanal anastomosis,narrow,TP,PROCTOCOLECTOMY,AESI,80294005,80294005
+Proctocolectomy in UC flare up,SNOMEDCT_US,Transsacral rectosigmoidectomy,-,-,narrow,TP,PROCTOCOLECTOMY,AESI,81092009,81092009
+Proctocolectomy in UC flare up,SNOMEDCT_US,Panproctocolectomy,C5234875,Excision of entire colon- entire rectum and entire anal canal (procedure),narrow,TP,PROCTOCOLECTOMY,AESI,858579005,858579005
+Radioiodine ablation therapy,ICD10PCS,Nonimaging Nuclear Medicine Uptake of Thyroid Gland using Iodine 131 (I-131),C2457332,Nonimaging Nuclear Medicine Uptake of Thyroid Gland using Iodine 131 (I-131),narrow,TP,RADIOIODINEABLA,AESI,CG42GZZ,CG4.2GZZ
+Radioiodine ablation therapy,ICD10PCS,Systemic Nuclear Medicine Therapy of Thyroid using Iodine 131 (I-131),C2457612,Systemic Nuclear Medicine Therapy of Thyroid using Iodine 131 (I-131),narrow,TP,RADIOIODINEABLA,AESI,CW7GGZZ,CW7.GGZZ
+Radioiodine ablation therapy,SCTSPA,radioisÃ³topo terapÃ©utico,C0358509,Therapeutic radioisotope (product),narrow,TP,RADIOIODINEABLA,AESI,439007,439007
+Radioiodine ablation therapy,SNOMEDCT_US,Therapeutic radioisotope,C0358509,Therapeutic radioisotope (product),narrow,TP,RADIOIODINEABLA,AESI,439007,439007
+Restorative proctocolectomy as flare of UC,ICD10CM,Acquired absence of other specified parts of digestive tract,C2977669,Acquired absence of other specified parts of digestive tract,possible,TP,RESTRPROCTOCOLECUC,AESI,Z90.4,Z90.4
+Restorative proctocolectomy as flare of UC,ICD10CM,Acquired absence of other specified parts of digestive tract,C2977669,Acquired absence of other specified parts of digestive tract,possible,TP,RESTRPROCTOCOLECUC,AESI,Z90.49,Z90.49
+Restorative proctocolectomy as flare of UC,ICD10PCS,Medical and Surgical @ Gastrointestinal System @ Bypass @ Ileum @ Open @ No Device,C2516473,Medical and Surgical @ Gastrointestinal System @ Bypass @ Ileum @ Open @ No Device,narrow,TP,RESTRPROCTOCOLECUC,AESI,0D1B0Z,0D1.B0Z
+Restorative proctocolectomy as flare of UC,ICD10PCS,Bypass Ileum to Anus- Open Approach,C2405380,Bypass Ileum to Anus- Open Approach,narrow,TP,RESTRPROCTOCOLECUC,AESI,0D1B0ZQ,0D1.B0ZQ
+Restorative proctocolectomy as flare of UC,ICD9CM,Intestinal anastomosis,C0192711,Anastomosis of intestine,possible,TP,RESTRPROCTOCOLECUC,AESI,45.9,45.9
+Restorative proctocolectomy as flare of UC,ICD9CM,Intestinal anastomosis- not otherwise specified,C0192711,Anastomosis of intestine,possible,TP,RESTRPROCTOCOLECUC,AESI,45.90,45.90
+Restorative proctocolectomy as flare of UC,ICD9CM,Anastomosis to anus,C0176809,Anastomosis to anus,narrow,TP,RESTRPROCTOCOLECUC,AESI,45.95,45.95
+Restorative proctocolectomy as flare of UC,SCTSPA,construcción de un reservorio ileal endorrectal en H- con anastomosis quirúrgica al ano,C0192783,Creation of endorectal ileal H-pouch with anastomosis to anus,narrow,TP,RESTRPROCTOCOLECUC,AESI,11574002,11574002
+Restorative proctocolectomy as flare of UC,SCTSPA,creación de reservorio ileal,C0400083,Creation of ileal pouch,narrow,TP,RESTRPROCTOCOLECUC,AESI,235332005,235332005
+Restorative proctocolectomy as flare of UC,SCTSPA,enteroanastomosis,C0192711,Anastomosis of intestine,possible,TP,RESTRPROCTOCOLECUC,AESI,235407009,235407009
+Restorative proctocolectomy as flare of UC,SCTSPA,panproctocolectomía de Parks- anastomosis de íleon a ano y creación de reservorio,C0554052,Parks panproctocolectomy- anastomosis of ileum to anus and creation of pouch,narrow,TP,RESTRPROCTOCOLECUC,AESI,303401008,303401008
+Restorative proctocolectomy as flare of UC,SCTSPA,creación de reservorio ileoanal,C0585056,Creation of ileo-anal pouch,narrow,TP,RESTRPROCTOCOLECUC,AESI,307183003,307183003
+Restorative proctocolectomy as flare of UC,SCTSPA,construcción de un reservorio ileal endorrectal en J- con anastomosis quirúrgica al ano,C0585057,Creation of endorectal ileal J-pouch with anastomosis to anus,narrow,TP,RESTRPROCTOCOLECUC,AESI,43868005,43868005
+Restorative proctocolectomy as flare of UC,SCTSPA,proctocolectomía restaurativa laparoscópica con bolsillo ileal y anastomosis anal,C5192602,Laparoscopic restorative proctocolectomy with ileal pouch anal anastomosis,narrow,TP,RESTRPROCTOCOLECUC,AESI,787108001,787108001
+Restorative proctocolectomy as flare of UC,SNOMEDCT_US,Creation of endorectal ileal H-pouch with anastomosis to anus,C0192783,Creation of endorectal ileal H-pouch with anastomosis to anus,narrow,TP,RESTRPROCTOCOLECUC,AESI,11574002,11574002
+Restorative proctocolectomy as flare of UC,SNOMEDCT_US,Creation of ileal pouch,C0400083,Creation of ileal pouch,narrow,TP,RESTRPROCTOCOLECUC,AESI,235332005,235332005
+Restorative proctocolectomy as flare of UC,SNOMEDCT_US,Anastomosis of intestine,C0192711,Anastomosis of intestine,possible,TP,RESTRPROCTOCOLECUC,AESI,235407009,235407009
+Restorative proctocolectomy as flare of UC,SNOMEDCT_US,Parks panproctocolectomy- anastomosis of ileum to anus and creation of pouch,C0554052,Parks panproctocolectomy- anastomosis of ileum to anus and creation of pouch,narrow,TP,RESTRPROCTOCOLECUC,AESI,303401008,303401008
+Restorative proctocolectomy as flare of UC,SNOMEDCT_US,Creation of ileo-anal pouch,C0585056,Creation of ileo-anal pouch,narrow,TP,RESTRPROCTOCOLECUC,AESI,307183003,307183003
+Restorative proctocolectomy as flare of UC,SNOMEDCT_US,Creation of endorectal ileal J-pouch with anastomosis to anus,C0585057,Creation of endorectal ileal J-pouch with anastomosis to anus,narrow,TP,RESTRPROCTOCOLECUC,AESI,43868005,43868005
+Restorative proctocolectomy as flare of UC,SNOMEDCT_US,Laparoscopic restorative proctocolectomy with ileal pouch anal anastomosis,C5192602,Laparoscopic restorative proctocolectomy with ileal pouch anal anastomosis,narrow,TP,RESTRPROCTOCOLECUC,AESI,787108001,787108001
+Thyroidectomy in Graves,ICD10PCS,Resection of Left Thyroid Gland Lobe- Open Approach,C2413531,Resection of Left Thyroid Gland Lobe- Open Approach,narrow,TP,THYROIDECTOMY,AESI,0GTG0ZZ,0GT.G0ZZ
+Thyroidectomy in Graves,ICD10PCS,Resection of Left Thyroid Gland Lobe- Percutaneous Endoscopic Approach,C2413532,Resection of Left Thyroid Gland Lobe- Percutaneous Endoscopic Approach,narrow,TP,THYROIDECTOMY,AESI,0GTG4ZZ,0GT.G4ZZ
+Thyroidectomy in Graves,ICD10PCS,Resection of Right Thyroid Gland Lobe- Open Approach,C2413533,Resection of Right Thyroid Gland Lobe- Open Approach,narrow,TP,THYROIDECTOMY,AESI,0GTH0ZZ,0GT.H0ZZ
+Thyroidectomy in Graves,ICD10PCS,Resection of Right Thyroid Gland Lobe- Percutaneous Endoscopic Approach,C2413534,Resection of Right Thyroid Gland Lobe- Percutaneous Endoscopic Approach,narrow,TP,THYROIDECTOMY,AESI,0GTH4ZZ,0GT.H4ZZ
+Thyroidectomy in Graves,ICD10PCS,Resection of Thyroid Gland- Open Approach,C2413535,Resection of Thyroid Gland- Open Approach,narrow,TP,THYROIDECTOMY,AESI,0GTK0ZZ,0GT.K0ZZ
+Thyroidectomy in Graves,MEDCODEID,Partial thyroidectomy NEC,C0193790,Subtotal thyroidectomy,narrow,TP,THYROIDECTOMY,AESI,266322016,266322016
+Thyroidectomy in Graves,MEDCODEID,Bilateral subtotal thyroidectomy,C0193790,Subtotal thyroidectomy,narrow,TP,THYROIDECTOMY,AESI,355914011,355914011
+Thyroidectomy in Graves,MEDCODEID,Subtotal thyroidectomy,C0193790,Subtotal thyroidectomy,narrow,TP,THYROIDECTOMY,AESI,51831010,51831010
+Thyroidectomy in Graves,MEDCODEID,Excision of pyramidal lobe of thyroid,C0585402,Excision of pyramidal lobe of thyroid,narrow,TP,THYROIDECTOMY,AESI,5969621000006114,5969621000006114
+Thyroidectomy in Graves,SCTSPA,resecciÃ³n de lÃ³bulo piramidal de glÃ¡ndula tiroides,C0585402,Excision of pyramidal lobe of thyroid,narrow,TP,THYROIDECTOMY,AESI,307542005,307542005
+Thyroidectomy in Graves,SCTSPA,tiroidectomÃ­a subtotal,C0193790,Subtotal thyroidectomy,narrow,TP,THYROIDECTOMY,AESI,30956003,30956003
+Thyroidectomy in Graves,SNOMEDCT_US,Partial thyroidectomy,C0193790,Subtotal thyroidectomy,narrow,TP,THYROIDECTOMY,AESI,148778004,148778004
+Thyroidectomy in Graves,SNOMEDCT_US,Subtotal thyroidectomy,C0193790,Subtotal thyroidectomy,narrow,TP,THYROIDECTOMY,AESI,171970004,171970004
+Thyroidectomy in Graves,SNOMEDCT_US,Partial thyroidectomy,C0193790,Subtotal thyroidectomy,narrow,TP,THYROIDECTOMY,AESI,302339008,302339008
+Thyroidectomy in Graves,SNOMEDCT_US,Excision of pyramidal lobe of thyroid,C0585402,Excision of pyramidal lobe of thyroid,narrow,TP,THYROIDECTOMY,AESI,307542005,307542005
+Thyroidectomy in Graves,SNOMEDCT_US,Subtotal thyroidectomy,C0193790,Subtotal thyroidectomy,narrow,TP,THYROIDECTOMY,AESI,30956003,30956003
+Blood transfusion as UC flare up,ICD9CMP,Transfusion of blood and blood components,C0371802,Transfusion- blood or blood components,narrow,TP,BLOODTRANSFUSIONUC,AESI,99.0,99.0
+Blood transfusion as UC flare up,ICD9CMP,Transfusion of platelets,C0086818,Platelet Transfusion,narrow,TP,BLOODTRANSFUSIONUC,AESI,99.05,99.05
+Blood transfusion as UC flare up,ICD9CMP,Blood transfusion- without reported diagnosis,C0260780,Encounter due to blood transfusion- without reported diagnosis,narrow,TP,BLOODTRANSFUSIONUC,AESI,V58.2,V58.2
+Debridement as flare of EN,ICD9CMP,Attention to dressings and sutures,C1719694,Attention to dressings and sutures,narrow,TP,DEBRIDEMENTEN,AESI,V58.3,V58.3
+Debridement as flare of EN,ICD9CMP,Encounter for change or removal of nonsurgical wound dressing,C1719690,Encounter for change or removal of nonsurgical wound dressing,narrow,TP,DEBRIDEMENTEN,AESI,V58.30,V58.30
+Restorative proctocolectomy as flare of UC,ICD9CMP,Intestinal anastomosis,C0192711,Anastomosis of intestine,possible,TP,RESTRPROCTOCOLECUC,AESI,45.9,45.9
+Restorative proctocolectomy as flare of UC,ICD9CMP,Intestinal anastomosis- not otherwise specified,C0192711,Anastomosis of intestine,possible,TP,RESTRPROCTOCOLECUC,AESI,45.90,45.90
+Restorative proctocolectomy as flare of UC,ICD9CMP,Anastomosis to anus,C0176809,Anastomosis to anus,narrow,TP,RESTRPROCTOCOLECUC,AESI,45.95,45.95

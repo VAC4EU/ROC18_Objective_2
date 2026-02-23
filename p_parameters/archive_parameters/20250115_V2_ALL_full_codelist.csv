@@ -1,0 +1,155 @@
+event_definition;coding_system;code_name;concept;concept_name;tags;system;event_abbreviation;type;code_issue_dot;code
+Atopic dermatitis;ICD10DA;Allergisk kontaktdermatitis;C0162820;Dermatitis- Allergic Contact;narrow;Im;ATOPDERMATITIS;COV;L23;L23
+Atopic dermatitis;ICD10DA;Allergisk kontaktdermatitis UNS;C0162820;Dermatitis- Allergic Contact;narrow;Im;ATOPDERMATITIS;COV;L239;L23.9
+Atopic dermatitis;ICD10DA;Atopisk dermatitis UNS;C0011615;Dermatitis- Atopic;narrow;Im;ATOPDERMATITIS;COV;L209;L20.9
+Atopic dermatitis;ICD10DA;Atopisk eksem;C0011615;Dermatitis- Atopic;narrow;Im;ATOPDERMATITIS;COV;L20;L20
+Atopic dermatitis;ICD10DA;Eksfoliativ dermatitis;C0011606;Exfoliative dermatitis;narrow;Im;ATOPDERMATITIS;COV;L26;L26
+Atopic dermatitis;ICD10DA;Prurigo Besnier;C2242769;Besnier-s prurigo;narrow;Im;ATOPDERMATITIS;COV;L200;L20.0
+Celiac disease;ICD10DA;Celiac disease;;;narrow;D;CELIAC;COV;K900;K90.0
+Demyelination multiple sclerosis;ICD10DA;Multiple sclerosis;;;narrow;N;DEMYELMS;AESI;G35;G35
+Demyelination multiple sclerosis;ICD10DA;Multiple sclerosis UNS;;;narrow;N;DEMYELMS;AESI;G359;G35.9
+Demyelination multiple sclerosis;ICD10DA;Primary multiple sclerosis;;;narrow;N;DEMYELMS;AESI;G359B;G35.9B
+Demyelination multiple sclerosis;ICD10DA;Progressive multiple sclerosis;;;narrow;N;DEMYELMS;AESI;G359C;G35.9C
+Demyelination multiple sclerosis;ICD10DA;Relapsing multiple sclerosis;;;narrow;N;DEMYELMS;AESI;G359A;G35.9A
+Erythema nodosum;ICD10DA;Erythema nodosum;-;-;narrow;SK;ERYTHEMANODOSUM;AESI;L529;L52.9
+Erythema nodosum;ICD10DA;Knuderosen;C0014743;Erythema Nodosum;narrow;SK;ERYTHEMANODOSUM;AESI;L52;L52
+Graves disease;ICD10DA;Anden form for thyrotoksikose;;;narrow;E;GRAVES;AESI;E058;E05.8
+Graves disease;ICD10DA;Basedow-s sygdom;-;-;narrow;E;GRAVES;AESI;E050A;E05.0A
+Graves disease;ICD10DA;Graves- sygdom;-;-;narrow;E;GRAVES;AESI;E050B;E05.0B
+Graves disease;ICD10DA;Thyreotoxicosis med diffus struma;-;-;narrow;E;GRAVES;AESI;E050C;E05.0C
+Graves disease;ICD10DA;Thyreotoxicosis uden struma;-;-;narrow;E;GRAVES;AESI;E050D;E05.0D
+Graves disease;ICD10DA;Thyrotoksikose UNS;C0040156;Thyrotoxicosis;narrow;E;GRAVES;AESI;E059;E05.9
+Graves disease;ICD10DA;Thyrotoksikose med diffus struma;C0342122;Toxic diffuse goiter;narrow;E;GRAVES;AESI;E050;E05.0
+Graves disease;ICD10DA;Thyrotoksikose med toksisk multinodÃ¸s struma;C0154143;Toxic multinodular goiter;possible;E;GRAVES;AESI;E052;E05.2
+Graves disease;ICD10DA;Thyrotoksikose med toksisk solitÃ¦rt adenom;C0154141;Thyrotoxicosis with toxic single thyroid nodule;possible;E;GRAVES;AESI;E051;E05.1
+Graves disease;ICD10DA;Thyrotoksikose uden struma;;;narrow;E;GRAVES;AESI;E058C;E05.8C
+Graves disease;ICD10DA;Thyrotoksisk hjertesygdom;-;-;narrow;E;GRAVES;AESI;E059A;E05.9A
+Graves disease;ICD10DA;Thyrotoksisk krise;C0040127;Thyroid Crisis;narrow;E;GRAVES;AESI;E055;E05.5
+Graves disease;ICD10DA;Toksisk nodÃ¸s struma UNS;-;-;possible;E;GRAVES;AESI;E052A;E05.2A
+Graves disease;ICD10DA;Toksisk redicivstruma;;;narrow;E;GRAVES;AESI;E058B;E05.8B
+Hepatitis autoimmune;ICD10DA;Autoimmun hepatitis;C4721555;Autoimmune hepatitis;narrow;D;HEPATITISAUTOIMMUNE;AESI;K754;K75.4
+Hepatitis autoimmune;ICD10DA;Autoimmun hepatitis;C4721555;Autoimmune hepatitis;narrow;D;HEPATITISAUTOIMMUNE;COV;K754;K75.4
+Hepatitis autoimmune;ICD10DA;Autoimmun hepatitis UNS;;;narrow;D;HEPATITISAUTOIMMUNE;AESI;K732G;K73.2G
+Hepatitis autoimmune;ICD10DA;Autoimmun hepatitis UNS;;;narrow;D;HEPATITISAUTOIMMUNE;COV;K732G;K73.2G
+Hepatitis autoimmune;ICD10DA;Autoimmun hepatitis med samtidig primær biliær cirrose;;;narrow;D;HEPATITISAUTOIMMUNE;AESI;K732E;K73.2E
+Hepatitis autoimmune;ICD10DA;Autoimmun hepatitis med samtidig primær biliær cirrose;;;narrow;D;HEPATITISAUTOIMMUNE;COV;K732E;K73.2E
+Hepatitis autoimmune;ICD10DA;Autoimmun hepatitis med samtidig primær skleroserende kolangitis;;;narrow;D;HEPATITISAUTOIMMUNE;AESI;K732F;K73.2F
+Hepatitis autoimmune;ICD10DA;Autoimmun hepatitis med samtidig primær skleroserende kolangitis;;;narrow;D;HEPATITISAUTOIMMUNE;COV;K732F;K73.2F
+Hepatitis autoimmune;ICD10DA;Autoimmun hepatitis type I med glatmuskulaturcelle-antistof;;;narrow;D;HEPATITISAUTOIMMUNE;AESI;K732B;K73.2B
+Hepatitis autoimmune;ICD10DA;Autoimmun hepatitis type I med glatmuskulaturcelle-antistof;;;narrow;D;HEPATITISAUTOIMMUNE;COV;K732B;K73.2B
+Hepatitis autoimmune;ICD10DA;Autoimmun hepatitis type II uden glatmuskulaturcelle-antistof;;;narrow;D;HEPATITISAUTOIMMUNE;AESI;K732C;K73.2C
+Hepatitis autoimmune;ICD10DA;Autoimmun hepatitis type II uden glatmuskulaturcelle-antistof;;;narrow;D;HEPATITISAUTOIMMUNE;COV;K732C;K73.2C
+Hepatitis autoimmune;ICD10DA;Autoimmun kæmpecellehepatitis;;;narrow;D;HEPATITISAUTOIMMUNE;AESI;K732D;K73.2D
+Hepatitis autoimmune;ICD10DA;Autoimmun kæmpecellehepatitis;;;narrow;D;HEPATITISAUTOIMMUNE;COV;K732D;K73.2D
+Hepatitis autoimmune;ICD10DA;Kronisk aktiv hepatitis IKA;;;narrow;D;HEPATITISAUTOIMMUNE;AESI;K732;K73.2
+Hepatitis autoimmune;ICD10DA;Kronisk aktiv hepatitis IKA;;;narrow;D;HEPATITISAUTOIMMUNE;COV;K732;K73.2
+Hepatitis autoimmune;ICD10DA;Lupoid hepatitis IKA;-;-;narrow;D;HEPATITISAUTOIMMUNE;AESI;K754A;K75.4A
+Hepatitis autoimmune;ICD10DA;Lupoid hepatitis IKA;-;-;narrow;D;HEPATITISAUTOIMMUNE;COV;K754A;K75.4A
+Herpes simplex infection excluding congenital ones;ICD10DA;Anden form for Herpes simplex-virus infektion;C0348185;Other forms of herpesviral infection;narrow;I;HSV;COV;B008;B00.8
+Herpes simplex infection excluding congenital ones;ICD10DA;Blepharitis herpetica;-;-;narrow;I;HSV;COV;B005A;B00.5A
+Herpes simplex infection excluding congenital ones;ICD10DA;Ekstern otitis forÃ¥rsaget af Herpes simplex-virus;-;-;narrow;I;HSV;COV;B001C;B00.1C
+Herpes simplex infection excluding congenital ones;ICD10DA;Encephalitis forÃ¥rsaget af Herpes simplex-virus;C0276226;Herpes encephalitis;narrow;I;HSV;COV;B004;B00.4
+Herpes simplex infection excluding congenital ones;ICD10DA;Eruptio varicelliformis Kaposi;-;-;narrow;I;HSV;COV;B000A;B00.0A
+Herpes simplex infection excluding congenital ones;ICD10DA;Faryngitis forÃ¥rsaget af Herpes simplex-virus;-;-;narrow;I;HSV;COV;B002C;B00.2C
+Herpes simplex infection excluding congenital ones;ICD10DA;Faryngotonsillitis forÃ¥rsaget af Herpes simplex-virus;-;-;narrow;I;HSV;COV;B002B;B00.2B
+Herpes simplex infection excluding congenital ones;ICD10DA;Gingivostomatitis forÃ¥rsaget af Herpes simplex-virus;-;-;narrow;I;HSV;COV;B002A;B00.2A
+Herpes simplex infection excluding congenital ones;ICD10DA;Gingivostomatitis-faryngotonsillit f.a. Herpes simplex-virus;C0494079;Herpesviral gingivostomatitis and pharyngotonsillitis;narrow;I;HSV;COV;B002;B00.2
+Herpes simplex infection excluding congenital ones;ICD10DA;Herpes conjunctivitis;-;-;narrow;I;HSV;COV;B005B;B00.5B
+Herpes simplex infection excluding congenital ones;ICD10DA;Herpes facialis;-;-;narrow;I;HSV;COV;B001A;B00.1A
+Herpes simplex infection excluding congenital ones;ICD10DA;Herpes generalisata;C0494082;Disseminated herpesviral disease;narrow;I;HSV;COV;B007;B00.7
+Herpes simplex infection excluding congenital ones;ICD10DA;Herpes iridocyclitis;-;-;narrow;I;HSV;COV;B005C;B00.5C
+Herpes simplex infection excluding congenital ones;ICD10DA;Herpes keratitis;-;-;narrow;I;HSV;COV;B005D;B00.5D
+Herpes simplex infection excluding congenital ones;ICD10DA;Herpes keratoconjunctivitis;-;-;narrow;I;HSV;COV;B005E;B00.5E
+Herpes simplex infection excluding congenital ones;ICD10DA;Herpes labialis;-;-;narrow;I;HSV;COV;B001B;B00.1B
+Herpes simplex infection excluding congenital ones;ICD10DA;Herpes simplex-infektion;C0019348;Herpes simplex infection;narrow;I;HSV;COV;B00;B00
+Herpes simplex infection excluding congenital ones;ICD10DA;Herpes simplex-infektion i analregion og endetarm;C0348979;Herpesviral infection of perianal skin and rectum;narrow;I;HSV;COV;A601;A60.1
+Herpes simplex infection excluding congenital ones;ICD10DA;Herpes simplex-infektion i anogenitalregionen;C0494060;Anogenital herpesviral infection;narrow;I;HSV;COV;A60;A60
+Herpes simplex infection excluding congenital ones;ICD10DA;Herpes simplex-infektion i anogenitalregionen UNS;C0494060;Anogenital herpesviral infection;narrow;I;HSV;COV;A609;A60.9
+Herpes simplex infection excluding congenital ones;ICD10DA;Herpes simplex-infektion i anus;-;-;narrow;I;HSV;COV;A601A;A60.1A
+Herpes simplex infection excluding congenital ones;ICD10DA;Herpes simplex-infektion i perianalregionen;-;-;narrow;I;HSV;COV;A601B;A60.1B
+Herpes simplex infection excluding congenital ones;ICD10DA;Herpes simplex-infektion i rektum;-;-;narrow;I;HSV;COV;A601C;A60.1C
+Herpes simplex infection excluding congenital ones;ICD10DA;Herpes simplex-infektion i urin- og kÃ¸nsorganer;C0494061;Herpesviral infection of genitalia and urogenital tract;narrow;I;HSV;COV;A600;A60.0
+Herpes simplex infection excluding congenital ones;ICD10DA;Herpes simplex-infektion i Ã¸je;C0494081;Herpesviral ocular disease;narrow;I;HSV;COV;B005;B00.5
+Herpes simplex infection excluding congenital ones;ICD10DA;Herpes viralis genitalis feminae;-;-;narrow;I;HSV;COV;A600A;A60.0A
+Herpes simplex infection excluding congenital ones;ICD10DA;Herpes viralis genitalis masculinae;-;-;narrow;I;HSV;COV;A600B;A60.0B
+Herpes simplex infection excluding congenital ones;ICD10DA;Herpeseksem;C0936250;Eczema Herpeticum;narrow;I;HSV;COV;B000;B00.0
+Herpes simplex infection excluding congenital ones;ICD10DA;Herpesudbrud med blÃ¦rer;C0348978;Herpesviral vesicular dermatitis;narrow;I;HSV;COV;B001;B00.1
+Herpes simplex infection excluding congenital ones;ICD10DA;Infektion med Herpes simplex-virus UNS;C0348186;Herpesviral infection- unspecified;narrow;I;HSV;COV;B009;B00.9
+Herpes simplex infection excluding congenital ones;ICD10DA;Iritis herpetica;-;-;narrow;I;HSV;COV;B005F;B00.5F
+Herpes simplex infection excluding congenital ones;ICD10DA;Meningitis forÃ¥rsaget af Herpes simplex-virus;C0153045;Herpes simplex meningitis;narrow;I;HSV;COV;B003;B00.3
+Herpes simplex infection excluding congenital ones;ICD10DA;Meningoencephalitis forÃ¥rsaget af Herpes simplex-virus;-;-;narrow;I;HSV;COV;B004A;B00.4A
+Herpes simplex infection excluding congenital ones;ICD10DA;Uveitis anterior herpetica;-;-;narrow;I;HSV;COV;B005G;B00.5G
+Influenza;ICD10DA;Encephalopathia influenzae uden pÃ¥vist influenzavirus;-;-;narrow;I;INFLUENZA;COV;J118A;J11.8A
+Influenza;ICD10DA;Influenza f.a. identif. sÃ¦sonbestemte typer influenzavirus;C0494638;Influenza due to identified influenza virus;narrow;I;INFLUENZA;COV;J10;J10
+Influenza;ICD10DA;Influenza fa. identif zoonotisk el pandemisk type infl.virus;C2712970;Influenza due to certain identified influenza viruses;narrow;I;INFLUENZA;COV;J09;J09
+Influenza;ICD10DA;Influenza med an. luftvejsmanifest. u. pÃ¥vist influenzavirus;C0348675;Influenza with other respiratory manifestations- virus not identified;narrow;I;INFLUENZA;COV;J111;J11.1
+Influenza;ICD10DA;Influenza med anden manifestation uden pÃ¥vist influenzavirus;C0348676;Influenza with other manifestations- virus not identified;narrow;I;INFLUENZA;COV;J118;J11.8
+Influenza;ICD10DA;Influenza med faryngitis uden pÃ¥vist influenzavirus;-;-;narrow;I;INFLUENZA;COV;J111B;J11.1B
+Influenza;ICD10DA;Influenza med gastroenteritis uden pÃ¥vist influenzavirus;-;-;narrow;I;INFLUENZA;COV;J118B;J11.8B
+Influenza;ICD10DA;Influenza med laryngitis uden pÃ¥vist influenzavirus;-;-;narrow;I;INFLUENZA;COV;J111A;J11.1A
+Influenza;ICD10DA;Influenza med lungebetÃ¦ndelse uden pÃ¥vist influenzavirus;C0494640;Influenza with pneumonia- virus not identified;narrow;I;INFLUENZA;COV;J110;J11.0
+Influenza;ICD10DA;Influenza med pleuraekssudat uden pÃ¥vist influenzavirus;-;-;narrow;I;INFLUENZA;COV;J111C;J11.1C
+Influenza;ICD10DA;Influenza med pÃ¥vist influenzavirus A;-;-;narrow;I;INFLUENZA;COV;J091;J09.1
+Influenza;ICD10DA;Influenza med pÃ¥vist influenzavirus A(H1N1);-;-;narrow;I;INFLUENZA;COV;J091A;J09.1A
+Influenza;ICD10DA;Influenza med pÃ¥vist influenzavirus A(H5N1);-;-;narrow;I;INFLUENZA;COV;J091B;J09.1B
+Influenza;ICD10DA;Influenza med pÃ¥vist influenzavirus- visse typer- u. spec.;-;-;narrow;I;INFLUENZA;COV;J099;J09.9
+Influenza;ICD10DA;Influenza uden pÃ¥vist influenzavirus;C0494639;Influenza- virus not identified;narrow;I;INFLUENZA;COV;J11;J11
+Influenza;ICD10DA;MellemÃ¸rebetÃ¦ndelse ved influenza UNS;-;-;narrow;I;INFLUENZA;COV;J118D;J11.8D
+Influenza;ICD10DA;Myocarditis acuta influenzae uden pÃ¥vist influenzavirus;-;-;narrow;I;INFLUENZA;COV;J118C;J11.8C
+Kidney disease chronic;ICD10DA;Dialysebehandling;C1161201;Dialysis care;narrow;G;KDCHRONIC;COV;Z49;Z49
+Kidney disease chronic;ICD10DA;Forbehandling m henblik pÃ¥ dialyse;C0476657;Encounter for preparatory care for dialysis;narrow;G;KDCHRONIC;COV;Z490;Z49.0
+Kidney disease chronic;ICD10DA;Nyretransplanteret;C0392096;Encounter due to kidney transplant status;narrow;G;KDCHRONIC;COV;Z940;Z94.0
+Nonalcoholic fatty liver disease;ICD10DA;Anden inflammatorisk leversygdom;C0348750;Other specified inflammatory liver diseases;possible;D;NONALCOHOLICLIVER;COV;K758;K75.8
+Nonalcoholic fatty liver disease;ICD10DA;Andre former for bet√¶ndelse i leveren;C0494794;Other inflammatory liver diseases;possible;D;NONALCOHOLICLIVER;COV;K75;K75
+Nonalcoholic fatty liver disease;ICD10DA;Fedtdegeneration i leveren IKA;;;possible;D;NONALCOHOLICLIVER;COV;K760;K76.0
+Nonalcoholic fatty liver disease;ICD10DA;Ikke-alkoholisk fedtdegen. i lever m enzymforhøj. og hepatit;;;narrow;D;NONALCOHOLICLIVER;COV;K760C;K76.0C
+Nonalcoholic fatty liver disease;ICD10DA;Ikke-alkoholisk fedtdegen. i leveren med enzymforhøjelse;;;narrow;D;NONALCOHOLICLIVER;COV;K760B;K76.0B
+Nonalcoholic fatty liver disease;ICD10DA;Ikke-alkoholisk fedtdegeneration i leveren;;;possible;D;NONALCOHOLICLIVER;COV;K760A;K76.0A
+Polyarteritis nodosa;ICD10DA;Anden sygdom beslÃ¦gtet med polyarteritis nodosa;C0477584;Other conditions related to polyarteritis nodosa;narrow;V;PAN;AESI;M308;M30.8
+Polyarteritis nodosa;ICD10DA;Polyangiitis blandingssyndrom;-;-;possible;V;PAN;AESI;M308A;M30.8A
+Polyarteritis nodosa;ICD10DA;Polyarteritis nodosa;C0031036;Polyarteritis Nodosa;narrow;V;PAN;AESI;M300;M30.0
+Polyarteritis nodosa;ICD10DA;Polyarteritis nodosa og beslægtede sygdomme;;;narrow;V;PAN;AESI;M30;M30
+Sepsis;ICD10DA;Anden sepsis;C0494048;Other septicemia;narrow;I;SEPSIS;COV;A41;A41
+Sepsis;ICD10DA;Anden sepsis IKA;C0348133;Other specified septicemia;narrow;I;SEPSIS;COV;A418;A41.8
+Sepsis;ICD10DA;Anden streptokoksepsis;C0348131;Other streptococcal septicemia;narrow;I;SEPSIS;COV;A408;A40.8
+Sepsis;ICD10DA;Bakteriel sepsis hos nyfÃ¸dt;C3665339;Bacterial sepsis of newborn;narrow;I;SEPSIS;COV;P36;P36
+Sepsis;ICD10DA;Bakteriel sepsis hos nyfÃ¸dt UNS;C3665339;Bacterial sepsis of newborn;narrow;I;SEPSIS;COV;P369;P36.9
+Sepsis;ICD10DA;Candidiasis-sepsis;C0349009;Septicemia candida;narrow;I;SEPSIS;COV;B377;B37.7
+Sepsis;ICD10DA;Listeriasepsis;C0275685;Listerial septicemia;narrow;I;SEPSIS;COV;A327;A32.7
+Sepsis;ICD10DA;MeningokokbakteriÃ¦mi UNS;C0025306;Meningococcal Septicemia;narrow;I;SEPSIS;COV;A394;A39.4
+Sepsis;ICD10DA;Miltbrandsepsis;C0152946;Anthrax sepsis;narrow;I;SEPSIS;COV;A227;A22.7
+Sepsis;ICD10DA;Salmonellasepsis;C0152486;Salmonella sepsis;narrow;I;SEPSIS;COV;A021;A02.1
+Sepsis;ICD10DA;Sepsis UNS;C0036690;Septicemia;narrow;I;SEPSIS;COV;A419;A41.9
+Sepsis;ICD10DA;Sepsis forÃ¥rsaget af Escherichia coli;-;-;narrow;I;SEPSIS;COV;A415A;A41.5A
+Sepsis;ICD10DA;Sepsis forÃ¥rsaget af Haemophilus influenzae;C0276029;Septicaemia due to Haemophilus influenzae (H. influenzae);narrow;I;SEPSIS;COV;A413;A41.3
+Sepsis;ICD10DA;Sepsis forÃ¥rsaget af Staphylococcus aureus;C0349006;Staphylococcus aureus septicaemia;narrow;I;SEPSIS;COV;A410;A41.0
+Sepsis;ICD10DA;Sepsis forÃ¥rsaget af Streptococcus A;C0349003;Septicemia due to streptococcus- group A;narrow;I;SEPSIS;COV;A400;A40.0
+Sepsis;ICD10DA;Sepsis forÃ¥rsaget af Streptococcus B;C0349004;Septicemia due to streptococcus- group B;narrow;I;SEPSIS;COV;A401;A40.1
+Sepsis;ICD10DA;Sepsis forÃ¥rsaget af Streptococcus D og Enterococcus;C0349005;Septicemia due to streptococcus- group D;narrow;I;SEPSIS;COV;A402;A40.2
+Sepsis;ICD10DA;Sepsis forÃ¥rsaget af aktinomykose;C0349008;Actinomycotic sepsis;narrow;I;SEPSIS;COV;A427;A42.7
+Sepsis;ICD10DA;Sepsis forÃ¥rsaget af anaerob bakterie;C0152967;Septicemia due to anaerobes;narrow;I;SEPSIS;COV;A414;A41.4
+Sepsis;ICD10DA;Sepsis forÃ¥rsaget af anden gramnegativ organisme;C0276063;Septicemia due to other Gram-negative organisms;narrow;I;SEPSIS;COV;A415;A41.5
+Sepsis;ICD10DA;Sepsis forÃ¥rsaget af anden stafylokok;C0870076;Septicemia due to other specified staphylococcus;narrow;I;SEPSIS;COV;A411;A41.1
+Sepsis;ICD10DA;Sepsis forÃ¥rsaget af koagulase-negative stafylokokker;-;-;narrow;I;SEPSIS;COV;A411A;A41.1A
+Sepsis;ICD10DA;Sepsis forÃ¥rsaget af stafylokokker UNS;C0152965;Staphylococcal sepsis;narrow;I;SEPSIS;COV;A412;A41.2
+Sepsis;ICD10DA;Sepsis forÃ¥rsaget af streptokokker;C0152964;Streptococcal sepsis;narrow;I;SEPSIS;COV;A40;A40
+Sepsis;ICD10DA;Sepsis hos nyfÃ¸dt forÃ¥rsaget af Escherichia coli;C0452198;Sepsis of newborn caused by Escherichia coli;narrow;I;SEPSIS;COV;P364;P36.4
+Sepsis;ICD10DA;Sepsis hos nyfÃ¸dt forÃ¥rsaget af Staphylococcus aureus;C0452197;Sepsis of newborn caused by Staphylococcus aureus;narrow;I;SEPSIS;COV;P362;P36.2
+Sepsis;ICD10DA;Sepsis hos nyfÃ¸dt forÃ¥rsaget af anaerobe bakterier;C0452199;Sepsis of newborn caused by anaerobes;narrow;I;SEPSIS;COV;P365;P36.5
+Sepsis;ICD10DA;Sepsis hos nyfÃ¸dt forÃ¥rsaget af anden bakterie;C0477920;Other bacterial sepsis of newborn;narrow;I;SEPSIS;COV;P368;P36.8
+Sepsis;ICD10DA;Sepsis hos nyfÃ¸dt forÃ¥rsaget af gruppe B streptokokker;C0495408;Sepsis of newborn due to group B Streptococcus;narrow;I;SEPSIS;COV;P360;P36.0
+Sepsis;ICD10DA;Sepsis hos nyfÃ¸dt forÃ¥rsaget af stafylokokker UNS;C0477919;Sepsis of newborn due to other and unspecified staphylococci;narrow;I;SEPSIS;COV;P363;P36.3
+Sepsis;ICD10DA;Sepsis hos nyfÃ¸dt forÃ¥rsaget af streptokokker UNS;C0477924;Sepsis of newborn due to other and unspecified streptococci;narrow;I;SEPSIS;COV;P361;P36.1
+Sepsis;ICD10DA;Sepsisk pest;C0152936;Septicemic Plague;narrow;I;SEPSIS;COV;A207;A20.7
+Sepsis;ICD10DA;Septisk shock;-;-;narrow;I;SEPSIS;COV;A419A;A41.9A
+Sepsis;ICD10DA;Streptokoksepsis UNS;C0152964;Streptococcal sepsis;narrow;I;SEPSIS;COV;A409;A40.9
+Sepsis;ICD10DA;SvÃ¦r sepsis;-;-;narrow;I;SEPSIS;COV;A419C;A41.9C
+Sepsis;ICD10DA;Urosepsis;-;-;narrow;I;SEPSIS;COV;A419B;A41.9B
+Sjogrens syndrome;ICD10DA;Interstitiel pneumonitis ved SjÃ¶grens syndrom;-;-;narrow;Im;SJOGRENS;COV;M350B;M35.0B
+Sjogrens syndrome;ICD10DA;Keratokonjunktivitis sicca ved SjÃ¶grens syndrom;-;-;narrow;Im;SJOGRENS;COV;M350A;M35.0A
+Sjogrens syndrome;ICD10DA;Myopati ved SjÃ¶grens syndrom;-;-;narrow;Im;SJOGRENS;COV;M350D;M35.0D
+Sjogrens syndrome;ICD10DA;SjÃ¶grens syndrom;C1527336;Sjogren-s Syndrome;narrow;Im;SJOGRENS;COV;M350;M35.0
+Sjogrens syndrome;ICD10DA;Tubulointerstiel nefropati ved SjÃ¶grens syndrom;-;-;narrow;Im;SJOGRENS;COV;M350E;M35.0E
+Sjogrens syndrome;ICD10DA;Xerostomi ved SjÃ¶grens syndrom;-;-;narrow;Im;SJOGRENS;COV;M350C;M35.0C
+Pernicious anemia;ICD10DA;An�mi sfa vitamin B12-mangel ved mangel p� intrinsic factor;;;narrow;B;PERNICIOUS;COV;D510;D51.0
+Pernicious anemia;ICD10DA;Anaemia perniciosa;;;narrow;B;PERNICIOUS;COV;D510A;D51.0A
