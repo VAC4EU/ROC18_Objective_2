@@ -34,6 +34,7 @@
 "C:/Users/Davide/Documents/Git repositories/Work/ROC18_Objective_2/i_codebooks/D3_cohort_ImmDis.xlsx" "13c677938bb7f727af022cfeb9dd2bae"
 "C:/Users/Davide/Documents/Git repositories/Work/ROC18_Objective_2/i_codebooks/D3_components_flare_ImmDis.xlsx" "11b099d9c17addb65fbfdf6e36b3b23e"
 "C:/Users/Davide/Documents/Git repositories/Work/ROC18_Objective_2/i_codebooks/D3_components_flare_TD_E_GRAVES_AESI.xlsx" "565503a5672a83d3a5437a3304ed028d"
+"C:/Users/Davide/Documents/Git repositories/Work/ROC18_Objective_2/i_codebooks/D3_components_TD_flare_ImmDis.xlsx" "11b099d9c17addb65fbfdf6e36b3b23e"
 "C:/Users/Davide/Documents/Git repositories/Work/ROC18_Objective_2/i_codebooks/D3_flares_ImmDis.xlsx" "2910be5bafd5fc3a22f83e680e4ad012"
 "C:/Users/Davide/Documents/Git repositories/Work/ROC18_Objective_2/i_codebooks/D3_followup_periods_in_cohort_ImmDis.xlsx" "cedf2a13f3f8e5f6d7f3198113067e4e"
 "C:/Users/Davide/Documents/Git repositories/Work/ROC18_Objective_2/i_codebooks/D3_followup_periods_in_cohort_with_pregnancy_ImmDis.xlsx" "761bdf752dba5344c9fa0225bac4c570"
